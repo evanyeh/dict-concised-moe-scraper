@@ -1,0 +1,3998 @@
+[
+    {
+        "title": "一",
+        "heteronyms": [
+            {
+                "bopomofo": "一",
+                "pinyin": "yī",
+                "definitions": [
+                    {
+                        "defn": "1.自然數的開始。大寫作「壹」。阿拉伯數字作「1」。例:一、二、三……\n2.第一。例:一等、一年級\n3.單個。例:一人、一心二用\n4.相同、一致。例:一模一樣、大小不一\n5.全、滿、整。例:一身是汗、一身是膽、一體適用\n6.才、剛剛。例:天一亮，他就起床了。\n7.一次、一回，表示動作次數。例:把頭一扭、用手一摸\n8.另外、又。例:蟬，一名知了。\n（「一」字單用或在一詞一句的末尾，讀陰平聲；在去聲字前，讀陽平聲；在陰平、陽平、上聲之前，讀去聲。)"
+                    }
+                ]
+            }
+        ],
+        "radical": "一",
+        "non_radical_stroke_count": 0,
+        "stroke_count": 1
+    },
+    {
+        "title": "一把罩",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄚˇ　ㄓㄠˋ　（變）一ˋ　ㄅㄚˇ　ㄓㄠˋ",
+                "pinyin": "yī bǎ zhào　（變）yì bǎ zhào",
+                "definitions": [
+                    {
+                        "defn": "形容吃得開，對某事很在行。例:在我們公司裡，程式設計他是一把罩。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一把抓",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄚˇ　ㄓㄨㄚ　（變）一ˋ　ㄅㄚˇ　ㄓㄨㄚ",
+                "pinyin": "yī bǎ zhuā　（變）yì bǎ zhuā",
+                "definitions": [
+                    {
+                        "defn": "將所有的事情都攬在身上獨自處理。例:家裡的事不分大小，他總是一把抓。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一波",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄛ　（變）一ˋ　ㄅㄛ",
+                "pinyin": "yī bō　（變）yì bō",
+                "definitions": [
+                    {
+                        "defn": "指某一變化明顯的事件或現象。例:這一波強大寒流使大家紛紛穿上大衣以禦寒。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一波三折",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄛ　ㄙㄢ　ㄓㄜˊ　（變）一ˋ　ㄅㄛ　ㄙㄢ　ㄓㄜˊ",
+                "pinyin": "yī bō sān zhé　（變）yì bō sān zhé",
+                "definitions": [
+                    {
+                        "defn": "原指書法中一捺筆鋒需轉換三次方向，筆勢曲折變化。後用以比喻事情的進行曲折多變。語本晉．王羲之〈題衛夫人筆陣圖後〉。例:這樁婚事一波三折，真是好事多磨。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一敗塗地",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄞˋ　ㄊㄨˊ　ㄉ一ˋ　（變）一ˊ　ㄅㄞˋ　ㄊㄨˊ　ㄉ一ˋ",
+                "pinyin": "yī bài tú dì　（變）yí bài tú dì",
+                "definitions": [
+                    {
+                        "defn": "形容失敗到無法收拾的地步。語本《史記．卷八．高祖本紀》。例:由於多名主將受傷無法出場比賽，該隊被對手打得一敗塗地。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一輩子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄟˋ　˙ㄗ　（變）一ˊ　ㄅㄟˋ　˙ㄗ",
+                "pinyin": "yī bèi zi　（變）yí bèi zi",
+                "definitions": [
+                    {
+                        "defn": "一生、一世。例:他將一輩子都奉獻教育，培育了許多傑出的人才。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一飽眼福",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄠˇ　一ㄢˇ　ㄈㄨˊ　（變）一ˋ　ㄅㄠˇ　一ㄢˇ　ㄈㄨˊ",
+                "pinyin": "yī bǎo yǎn fú　（變）yì bǎo yǎn fú",
+                "definitions": [
+                    {
+                        "defn": "形容可以盡情觀賞美好的事物。例:故宮裡的珍藏，讓許多藝術愛好者一飽眼福。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一般",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄢ　（變）一ˋ　ㄅㄢ",
+                "pinyin": "yī bān　（變）yì bān",
+                "definitions": [
+                    {
+                        "defn": "1.同樣、同等。例:他們兩人年紀相同，長得也一般高。\n2.普通、通常。例:這種道理說來簡單，可是一般人卻都做不到。\n"
+                    }
+                ],
+                "synonyms": "1.一樣",
+                "antonyms": "2.特別、特殊"
+            }
+        ]
+    },
+    {
+        "title": "一般性",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄢ　ㄒ一ㄥˋ　（變）一ˋ　ㄅㄢ　ㄒ一ㄥˋ",
+                "pinyin": "yī bān xìng　（變）yì bān xìng",
+                "definitions": [
+                    {
+                        "defn": "各種事物、現象普遍具有的共同性質。例:想睡覺，是服用這種藥物後的一般性反應，請別擔心！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一般而言",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄢ　ㄦˊ　一ㄢˊ　（變）一ˋ　ㄅㄢ　ㄦˊ　一ㄢˊ",
+                "pinyin": "yī bān ér yán　（變）yì bān ér yán",
+                "definitions": [
+                    {
+                        "defn": "就通常的情況來說。例:一般而言，現代的父母對兒女管教上都比較開明。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一板一眼",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄢˇ　一　一ㄢˇ　（變）一ˋ　ㄅㄢˇ　一ˋ　一ㄢˇ",
+                "pinyin": "yī bǎn yī yǎn　（變）yì bǎn yì yǎn",
+                "definitions": [
+                    {
+                        "defn": "形容人言行謹守法規，有條有理。例:他這個人向來一板一眼的，跟著他做事，你可千萬馬虎不得。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一半",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄢˋ　（變）一ˊ　ㄅㄢˋ",
+                "pinyin": "yī bàn　（變）yí bàn",
+                "definitions": [
+                    {
+                        "defn": "二分之一。例:她把一半獎金捐給育幼院，幫助孤苦無依的兒童。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一本正經",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄣˇ　ㄓㄥˋ　ㄐ一ㄥ　（變）一ˋ　ㄅㄣˇ　ㄓㄥˋ　ㄐ一ㄥ",
+                "pinyin": "yī běn zhèng jīng　（變）yì běn zhèng jīng",
+                "definitions": [
+                    {
+                        "defn": "形容人態度莊重認真。例:看他說得一本正經的樣子，不像是開玩笑。"
+                    }
+                ],
+                "antonyms": "嘻皮笑臉、油腔滑調、油嘴滑舌"
+            }
+        ]
+    },
+    {
+        "title": "一本初衷",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄣˇ　ㄔㄨ　ㄓㄨㄥ　（變）一ˋ　ㄅㄣˇ　ㄔㄨ　ㄓㄨㄥ",
+                "pinyin": "yī běn chū zhōng　（變）yì běn chū zhōng",
+                "definitions": [
+                    {
+                        "defn": "完全依照原來的決定或心意。例:不管眾人如何勸說，他仍是一本初衷，堅持要搬出去。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一本萬利",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄣˇ　ㄨㄢˋ　ㄌ一ˋ　（變）一ˋ　ㄅㄣˇ　ㄨㄢˋ　ㄌ一ˋ",
+                "pinyin": "yī běn wàn lì　（變）yì běn wàn lì",
+                "definitions": [
+                    {
+                        "defn": "形容利潤豐厚。例:這筆生意雖然一本萬利，但相對的，風險也很大。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一鼻孔出氣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ˊ　ㄎㄨㄥˇ　ㄔㄨ　ㄑ一ˋ　（變）一ˋ　ㄅ一ˊ　ㄎㄨㄥˇ　ㄔㄨ　ㄑ一ˋ",
+                "pinyin": "yī bí kǒng chū qì　（變）yì bí kǒng chū qì",
+                "definitions": [
+                    {
+                        "defn": "比喻彼此互通聲息，採取相同的態度、主張。例:老板跟他是一鼻孔出氣，不可能幫我們的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一筆勾銷",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ˇ　ㄍㄡ　ㄒ一ㄠ　（變）一ˋ　ㄅ一ˇ　ㄍㄡ　ㄒ一ㄠ",
+                "pinyin": "yī bǐ gōu xiāo　（變）yì bǐ gōu xiāo",
+                "definitions": [
+                    {
+                        "defn": "全部作廢或取消。例:我們過去的恩恩怨怨，從今天起一筆勾銷。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一臂之力",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ˋ　ㄓ　ㄌ一ˋ　（變）一ˊ　ㄅ一ˋ　ㄓ　ㄌ一ˋ",
+                "pinyin": "yī bì zhī lì　（變）yí bì zhī lì",
+                "definitions": [
+                    {
+                        "defn": "比喻從旁給予的援助。例:要不是他助我一臂之力，恐怕事情不會這麼快完成。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一表人才",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ㄠˇ　ㄖㄣˊ　ㄘㄞˊ　（變）一ˋ　ㄅ一ㄠˇ　ㄖㄣˊ　ㄘㄞˊ",
+                "pinyin": "yī biǎo rén cái　（變）yì biǎo rén cái",
+                "definitions": [
+                    {
+                        "defn": "形容人相貌俊秀，儀態翩翩。例:孫先生長得一表人才，日後必有一番大作為。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一邊",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ㄢ　（變）一ˋ　ㄅ一ㄢ",
+                "pinyin": "yī biān　（變）yì biān",
+                "definitions": [
+                    {
+                        "defn": "1.事物的某一面。例:這個梨子已經爛了一邊。\n2.一面。表示一個動作與另一個動作同時進行。例:小明一邊吃飯，一邊看電視。\n3.一旁。例:他把公事丟在一邊，自顧聊天去了。\n"
+                    }
+                ],
+                "synonyms": "2.一面"
+            }
+        ]
+    },
+    {
+        "title": "一併",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ㄥˋ　（變）一ˊ　ㄅ一ㄥˋ",
+                "pinyin": "yī bìng　（變）yí bìng",
+                "definitions": [
+                    {
+                        "defn": "一同、一起。例:下個月初，我會將所借的錢及利息一併還給你。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一病不起",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅ一ㄥˋ　ㄅㄨˋ　ㄑ一ˇ　（變）一ˊ　ㄅ一ㄥˋ　ㄅㄨˋ　ㄑ一ˇ",
+                "pinyin": "yī bìng bù qǐ　（變）yí bìng bù qǐ",
+                "definitions": [
+                    {
+                        "defn": "形容病情嚴重。例:前幾天看他還生龍活虎的，想不到現在竟一病不起了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一步步",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄨˋ　ㄅㄨˋ　（變）一ˊ　ㄅㄨˋ　ㄅㄨˋ",
+                "pinyin": "yī bù bù　（變）yí bù bù",
+                "definitions": [
+                    {
+                        "defn": "1.一個腳步接一個腳步。例:雪地上溼滑難行，他一步步小心翼翼的走著。\n2.一個步驟接一個步驟。例:這件事很複雜，需要一步步慢慢來解決。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一部分",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄨˋ　ㄈㄣˋ　（變）一ˊ　ㄅㄨˋ　ㄈㄣˋ",
+                "pinyin": "yī bù fèn　（變）yí bù fèn",
+                "definitions": [
+                    {
+                        "defn": "整體中的一個局部。例:這篇課文老師只教了一部分，剩下的讓同學們自行研讀。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一步登天",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄨˋ　ㄉㄥ　ㄊ一ㄢ　（變）一ˊ　ㄅㄨˋ　ㄉㄥ　ㄊ一ㄢ",
+                "pinyin": "yī bù dēng tiān　（變）yí bù dēng tiān",
+                "definitions": [
+                    {
+                        "defn": "比喻輕易達到極高的地位或境界。例:我們做事要腳踏實地，不要老是想一步登天。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一不小心",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄨˋ　ㄒ一ㄠˇ　ㄒ一ㄣ　（變）一ˊ　ㄅㄨˋ　ㄒ一ㄠˇ　ㄒ一ㄣ",
+                "pinyin": "yī　bù　xiǎo　xīn　（變）yí　bù　xiǎo　xīn",
+                "definitions": [
+                    {
+                        "defn": "稍不留心注意。例:他一不小心把茶杯打翻了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一不做二不休",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄅㄨˋ　ㄗㄨㄛˋ　ㄦˋ　ㄅㄨˋ　ㄒ一ㄡ　（變）一　ㄅㄨˊ　ㄗㄨㄛˋ　ㄦˋ　ㄅㄨˋ　ㄒ一ㄡ",
+                "pinyin": "yī　bù　zuò　èr　bù　xiū　（變）yī　bú　zuò　èr　bú　xiū",
+                "definitions": [
+                    {
+                        "defn": "指事情既然做了，就不能中途罷休。表示決心做到底。例:綁匪心狠手辣，一不做二不休的把人質也殺了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一拍即合",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄞ　ㄐ一ˊ　ㄏㄜˊ　（變）一ˋ　ㄆㄞ　ㄐ一ˊ　ㄏㄜˊ",
+                "pinyin": "yī pāi jí hé　（變）yì pāi jí hé",
+                "definitions": [
+                    {
+                        "defn": "比喻同類型的人或事物，一相遇即十分合適、融洽。例:他們兩人都喜歡看同一種題材的電影，所以才剛認識便一拍即合。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一派",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄞˋ　（變）一ˊ　ㄆㄞˋ",
+                "pinyin": "yī pài　（變）yí pài",
+                "definitions": [
+                    {
+                        "defn": "1.具有相同特徵的一個類別或系統。例:這一派畫家的畫風新穎，用色也十分大膽。\n2.一片、一番。例:一派胡言、一派斯文\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一派胡言",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄞˋ　ㄏㄨˊ　一ㄢˊ　（變）一ˊ　ㄆㄞˋ　ㄏㄨˊ　一ㄢˊ",
+                "pinyin": "yī pài hú yán　（變）yí pài hú yán",
+                "definitions": [
+                    {
+                        "defn": "與事實不符或不合理的話。例:他說的全是一派胡言，大家可不要相信！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一炮而紅",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄠˋ　ㄦˊ　ㄏㄨㄥˊ　（變）一ˊ　ㄆㄠˋ　ㄦˊ　ㄏㄨㄥˊ",
+                "pinyin": "yī pào ér hóng　（變）yí pào ér hóng",
+                "definitions": [
+                    {
+                        "defn": "形容名聲在極短的時間內大噪。例:這位歌手在唱片公司的造勢宣傳之下，果然一炮而紅。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一盤散沙",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄢˊ　ㄙㄢˇ　ㄕㄚ　（變）一ˋ　ㄆㄢˊ　ㄙㄢˇ　ㄕㄚ",
+                "pinyin": "yī pán sǎn shā　（變）yì pán sǎn shā",
+                "definitions": [
+                    {
+                        "defn": "比喻人心渙散，缺乏凝聚的力量，不能團結組織起來。例:國家建設需要眾心一志，最怕國人像一盤散沙，把力量分散掉了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一旁",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄤˊ　（變）一ˋ　ㄆㄤˊ",
+                "pinyin": "yī páng　（變）yì páng",
+                "definitions": [
+                    {
+                        "defn": "一邊、一側。例:教練示範打擊動作時，球員們都在一旁模擬著。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一瞥",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆ一ㄝ　（變）一ˋ　ㄆ一ㄝ",
+                "pinyin": "yī piē　（變）yì piē",
+                "definitions": [
+                    {
+                        "defn": "迅速的看一眼。形容極短暫的時間。例:浮生一瞥"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一貧如洗",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆ一ㄣˊ　ㄖㄨˊ　ㄒ一ˇ　（變）一ˋ　ㄆ一ㄣˊ　ㄖㄨˊ　ㄒ一ˇ",
+                "pinyin": "yī pín rú xǐ　（變）yì pín rú xǐ",
+                "definitions": [
+                    {
+                        "defn": "形容貧窮得一無所有。例:龐大的醫療費用使他一貧如洗，生活十分困苦。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一曝十寒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄆㄨˋ　ㄕˊ　ㄏㄢˊ　（變）一ˊ　ㄆㄨˋ　ㄕˊ　ㄏㄢˊ",
+                "pinyin": "yī pù shí hán　（變）yí pù shí hán",
+                "definitions": [
+                    {
+                        "defn": "比喻沒有恆心，做事不能持久。語本《孟子．告子上》。例:他學任何東西總是一曝十寒，難怪什麼也學不會。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一馬當先",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄚˇ　ㄉㄤ　ㄒ一ㄢ　（變）一ˋ　ㄇㄚˇ　ㄉㄤ　ㄒ一ㄢ",
+                "pinyin": "yī mǎ dāng xiān　（變）yì mǎ dāng xiān",
+                "definitions": [
+                    {
+                        "defn": "趕在眾人之前，領先前進。例:在起跑不久後，他便一馬當先，領先群雄。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一模一樣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄛˊ　一　一ㄤˋ　（變）一ˋ　ㄇㄛˊ　一ˊ　一ㄤˋ",
+                "pinyin": "yī mó yī yàng　（變）yì mó yí yàng",
+                "definitions": [
+                    {
+                        "defn": "完全一樣，好像同一個模子印出來的。例:這對雙胞胎長得一模一樣，分不清誰是姊姊，誰是妹妹。"
+                    }
+                ],
+                "antonyms": "截然不同"
+            }
+        ]
+    },
+    {
+        "title": "一脈相承",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄞˋ　ㄒ一ㄤ　ㄔㄥˊ　（變）一ˊ　ㄇㄞˋ　ㄒ一ㄤ　ㄔㄥˊ",
+                "pinyin": "yī mài xiāng chéng　（變）yí mài xiāng chéng",
+                "definitions": [
+                    {
+                        "defn": "由一個血統或一個派別承傳沿襲下來。例:孟子學說承孔子學說，一脈相承而有所發揮。"
+                    }
+                ],
+                "synonyms": "一脈相傳"
+            }
+        ]
+    },
+    {
+        "title": "一脈相傳",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄞˋ　ㄒ一ㄤ　ㄔㄨㄢˊ　（變）一ˊ　ㄇㄞˋ　ㄒ一ㄤ　ㄔㄨㄢˊ",
+                "pinyin": "yī mài xiāng chuán　（變）yí mài xiāng chuán",
+                "definitions": [
+                    {
+                        "defn": "由同一個血統或派別承傳下來。例:這套鑄鐵功夫是王家三代一脈相傳的。"
+                    }
+                ],
+                "synonyms": "一脈相承"
+            }
+        ]
+    },
+    {
+        "title": "一毛不拔",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄠˊ　ㄅㄨˋ　ㄅㄚˊ　（變）一ˋ　ㄇㄠˊ　ㄅㄨˋ　ㄅㄚˊ",
+                "pinyin": "yī máo bù bá　（變）yì máo bù bá",
+                "definitions": [
+                    {
+                        "defn": "譏諷人非常吝嗇。語本《孟子．盡心上》。例:若要他這個一毛不拔的人來請客，簡直比登天還難。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一毛錢",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄠˊ　ㄑ一ㄢˊ　（變）一ˋ　ㄇㄠˊ　ㄑ一ㄢˊ",
+                "pinyin": "yī máo qián　（變）yì máo qián",
+                "definitions": [
+                    {
+                        "defn": "一元的十分之一。例:我窮得連一毛錢都沒有。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一面",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄢˋ　（變）一ˊ　ㄇ一ㄢˋ",
+                "pinyin": "yī miàn　（變）yí miàn",
+                "definitions": [
+                    {
+                        "defn": "1.事物的一部分。例:獨當一面\n2.兩種動作同時進行時，用「一面」以為副詞。例:小美一面讀書，一面聽音樂。\n3.見面過一次。例:我跟他見過一面。\n4.另一個角度或另一種面目。例:原來他也有仁慈的一面。\n5.片面、單一方面。例:這只是他的一面之詞。\n"
+                    }
+                ],
+                "synonyms": "1. 2.一邊"
+            }
+        ]
+    },
+    {
+        "title": "一面倒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄢˋ　ㄉㄠˇ　（變）一ˊ　ㄇ一ㄢˋ　ㄉㄠˇ",
+                "pinyin": "yī miàn dǎo　（變）yí miàn dǎo",
+                "definitions": [
+                    {
+                        "defn": "完全傾向其中的某一方面。例:這次選舉呈現了一面倒的情勢。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一面之詞",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄢˋ　ㄓ　ㄘˊ　（變）一ˊ　ㄇ一ㄢˋ　ㄓ　ㄘˊ",
+                "pinyin": "yī miàn zhī cí　（變）yí miàn zhī cí",
+                "definitions": [
+                    {
+                        "defn": "單方面的說詞。例:我們不能因他的一面之詞，便斷定張先生有嫌疑。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一面之緣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄢˋ　ㄓ　ㄩㄢˊ　（變）一ˊ　ㄇ一ㄢˋ　ㄓ　ㄩㄢˊ",
+                "pinyin": "yī miàn zhī yuán　（變）yí miàn zhī yuán",
+                "definitions": [
+                    {
+                        "defn": "曾經見過一次面。例:我們之間只有一面之緣，還談不上有任何交情。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一鳴驚人",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄥˊ　ㄐ一ㄥ　ㄖㄣˊ　（變）一ˋ　ㄇ一ㄥˊ　ㄐ一ㄥ　ㄖㄣˊ",
+                "pinyin": "yī míng jīng rén　（變）yì míng jīng rén",
+                "definitions": [
+                    {
+                        "defn": "比喻平時沒沒無聞，潛藏才華，一旦有機會施展時，便有驚人的表現。語本《韓非子．喻老》。例:經過多年的苦練，他終於在區運賽中一鳴驚人，勇奪百米短跑的冠軍。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一命嗚呼",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇ一ㄥˋ　ㄨ　ㄏㄨ　（變）一ˊ　ㄇ一ㄥˋ　ㄨ　ㄏㄨ",
+                "pinyin": "yī mìng wū hū　（變）yí mìng wū hū",
+                "definitions": [
+                    {
+                        "defn": "嗚呼，悲哀的感嘆詞。一命嗚呼指死亡。例:他病情嚴重，沒多久就一命嗚呼了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一幕",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄨˋ　（變）一ˊ　ㄇㄨˋ",
+                "pinyin": "yī mù　（變）yí mù",
+                "definitions": [
+                    {
+                        "defn": "1.戲劇分幕時，其中的一段。例:舞臺上那一幕十八相送的戲，看得觀眾如痴如醉。\n2.引申為眼前所見到的一段景象。例:剛才那一幕街頭警匪槍戰真是驚險萬分！\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一目了然",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄨˋ　ㄌ一ㄠˇ　ㄖㄢˊ　（變）一ˊ　ㄇㄨˋ　ㄌ一ㄠˇ　ㄖㄢˊ",
+                "pinyin": "yī mù liǎo rán　（變）yí mù liǎo rán",
+                "definitions": [
+                    {
+                        "defn": "看一眼就可以完全明白。例:這張平面圖讓人對本棟大樓的配置一目了然。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一目十行",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄇㄨˋ　ㄕˊ　ㄏㄤˊ　（變）一ˊ　ㄇㄨˋ　ㄕˊ　ㄏㄤˊ",
+                "pinyin": "yī mù shí háng　（變）yí mù shí háng",
+                "definitions": [
+                    {
+                        "defn": "形容人閱讀的速度很快。例:小華學過速讀，所以看書可以一目十行。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一發不可收拾",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄚ　ㄅㄨˋ　ㄎㄜˇ　ㄕㄡ　ㄕˊ　（變）一ˋ　ㄈㄚ　ㄅㄨˋ　ㄎㄜˇ　ㄕㄡ　ㄕˊ",
+                "pinyin": "yī　fā　bù　kě　shōu　shí　（變）yì　fā　bù　kě　shōu　shí",
+                "definitions": [
+                    {
+                        "defn": "事情發生後，很難制止或處理。例:這一帶全是木造房屋，使得火勢一發不可收拾。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一飛沖天",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄟ　ㄔㄨㄥ　ㄊ一ㄢ　（變）一ˋ　ㄈㄟ　ㄔㄨㄥ　ㄊ一ㄢ",
+                "pinyin": "yī fēi chōng tiān　（變）yì fēi chōng tiān",
+                "definitions": [
+                    {
+                        "defn": "比喻平時沒沒無聞，一下子便有驚人的表現。例:小王雖初涉商場，但憑著他的才能與努力，不久便一飛沖天了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一番",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄢ　（變）一ˋ　ㄈㄢ",
+                "pinyin": "yī fān　（變）yì fān",
+                "definitions": [
+                    {
+                        "defn": "1.一次。例:每次出門之前，媽媽都會檢查一番他帶的東西才放心。\n2.一種。例:他說的話自有一番道理，誰也沒辦法反駁。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一帆風順",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄢˊ　ㄈㄥ　ㄕㄨㄣˋ　（變）一ˋ　ㄈㄢˊ　ㄈㄥ　ㄕㄨㄣˋ",
+                "pinyin": "yī fán fēng shùn　（變）yì fán fēng shùn",
+                "definitions": [
+                    {
+                        "defn": "泛指旅途平安無阻或事情進展順利。例:張先生有貴人相助，事業一帆風順。"
+                    }
+                ],
+                "antonyms": "飽經風霜"
+            }
+        ]
+    },
+    {
+        "title": "一飯千金",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄢˋ　ㄑ一ㄢ　ㄐ一ㄣ　（變）一ˊ　ㄈㄢˋ　ㄑ一ㄢ　ㄐ一ㄣ",
+                "pinyin": "yī fàn qiān jīn　（變）yí fàn qiān jīn",
+                "definitions": [
+                    {
+                        "defn": "淮陰侯韓信未得志時，曾受漂母贈飯療飢，後來以千金為報。後遂以一飯千金比喻報恩隆厚。典出《史記．卷九十二．淮陰侯傳》。例:古人說一飯千金，如今兄長的隆情厚誼，更令小弟無以回報。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一分一毫",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄣ　一　ㄏㄠˊ　（變）一ˋ　ㄈㄣ　一ˋ　ㄏㄠˊ",
+                "pinyin": "yī fēn yī háo　（變）yì fēn yì háo",
+                "definitions": [
+                    {
+                        "defn": "形容非常細微。例:這個儀器非常精密，操作時不容許有一分一毫的差錯。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一分子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄣˋ　ㄗˇ　（變）一ˊ　ㄈㄣˋ　ㄗˇ",
+                "pinyin": "yī fèn zǐ　（變）yí fèn zǐ",
+                "definitions": [
+                    {
+                        "defn": "團體中的一個成員。例:每個人都是社會的一分子，所以都負有維護社會秩序的責任。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一夫當關，萬夫莫敵",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄈㄨ　ㄉㄤ　ㄍㄨㄢ　ㄨㄢˋ　ㄈㄨ　ㄇㄛˋ　ㄉ一ˊ",
+                "pinyin": "yī fū dāng guān wàn fū mò dí",
+                "definitions": [
+                    {
+                        "defn": "1.形容地形險要，易守難攻。例:此處隘口前窄後寬，是一夫當關，萬夫莫敵的天險。\n2.形容勇猛過人。例:關羽橫刀馬上，真是一夫當關，萬夫莫敵之勢啊！\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一大半",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄚˋ　ㄅㄢˋ　（變）一ˊ　ㄉㄚˋ　ㄅㄢˋ",
+                "pinyin": "yī dà bàn　（變）yí dà bàn",
+                "definitions": [
+                    {
+                        "defn": "超過一半以上。例:考試時間已經過了一大半，他才寫了一題。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一大早",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄚˋ　ㄗㄠˇ　（變）一ˊ　ㄉㄚˋ　ㄗㄠˇ",
+                "pinyin": "yī dà zǎo　（變）yí dà zǎo",
+                "definitions": [
+                    {
+                        "defn": "形容時間相當早。例:為了趕搭第一班火車，他一大早就去車站等候。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一代",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄞˋ　（變）一ˊ　ㄉㄞˋ",
+                "pinyin": "yī dài　（變）yí dài",
+                "definitions": [
+                    {
+                        "defn": "1.父子相繼的一個世代。例:新生的一代都有不同的想法和做法。\n2.當代、一個時代。例:一代梟雄、一代宗師、一代名伶\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一帶",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄞˋ　（變）一ˊ　ㄉㄞˋ",
+                "pinyin": "yī dài　（變）yí dài",
+                "definitions": [
+                    {
+                        "defn": "泛指某處及其附近的地方。例:街尾那一帶布行林立，貨色齊全。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一刀兩斷",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄠ　ㄌ一ㄤˇ　ㄉㄨㄢˋ　（變）一ˋ　ㄉㄠ　ㄌ一ㄤˇ　ㄉㄨㄢˋ",
+                "pinyin": "yī dāo liǎng duàn　（變）yì dāo liǎng duàn",
+                "definitions": [
+                    {
+                        "defn": "比喻斷絕關係。例:離婚之後，他們夫妻倆便一刀兩斷，沒有往來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一道",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄠˋ　（變）一ˊ　ㄉㄠˋ",
+                "pinyin": "yī dào　（變）yí dào",
+                "definitions": [
+                    {
+                        "defn": "一起、一同。例:我們一道去逛街吧！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一旦",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄢˋ　（變）一ˊ　ㄉㄢˋ",
+                "pinyin": "yī dàn　（變）yí dàn",
+                "definitions": [
+                    {
+                        "defn": "1.一個早上。例:一旦一夕\n2.有一天。表示假設的語氣。例:我們一旦步入社會，就會知道賺錢的辛苦。\n3.形容極短暫的時間。例:他多年來的心血，都因這場火災而毀於一旦。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一地",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉ一ˋ　（變）一ˊ　ㄉ一ˋ",
+                "pinyin": "yī dì　（變）yí dì",
+                "definitions": [
+                    {
+                        "defn": "1.某一特定地方。例:根據考證，「古詩十九首」非一人一地一時之作。\n2.滿地、到處。例:樹上的果實成熟後掉了一地。　△一地裡\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一點",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉ一ㄢˇ　（變）一ˋ　ㄉ一ㄢˇ",
+                "pinyin": "yī diǎn　（變）yì diǎn",
+                "definitions": [
+                    {
+                        "defn": "1.形容極小或些許。例:喝咖啡時，我喜歡加一點奶精。\n2.事物的某一問題或某一方面。例:這一點是全文的重心，大家可要特別注意。\n3.輕微的接觸或提示。例:他的頭腦很好，事情只要稍微一點就明白了。\n4.一天中的第一時與第十三時。例:我們搭下午一點的火車北上。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一點兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉ一ㄢˇㄦ　（變）一ˋ　ㄉ一ㄚˇㄦ",
+                "pinyin": "yī diǎnr　（變）yì diǎr",
+                "definitions": [
+                    {
+                        "defn": "形容體積很小或數量很少。例:這一點兒心意還不足代表我對你的感謝。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一點點",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉ一ㄢˇ　ㄉ一ㄢˇ　（變）一ˋ　ㄉ一ㄢˇ　ㄉ一ㄢˇ",
+                "pinyin": "yī diǎn diǎn　（變）yì diǎn diǎn",
+                "definitions": [
+                    {
+                        "defn": "形容極少。例:我只剩下一點點錢，不夠買這本書。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一定",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉ一ㄥˋ　（變）一ˊ　ㄉ一ㄥˋ",
+                "pinyin": "yī dìng　（變）yí dìng",
+                "definitions": [
+                    {
+                        "defn": "1.肯定、必然。例:明天上午我一定會準時出席。\n2.相當的。例:只要努力，必有一定的成效。\n"
+                    }
+                ],
+                "synonyms": "1.必定、必然、肯定",
+                "antonyms": "1.未必"
+            }
+        ]
+    },
+    {
+        "title": "一睹",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄨˇ　（變）一ˋ　ㄉㄨˇ",
+                "pinyin": "yī dǔ　（變）yì dǔ",
+                "definitions": [
+                    {
+                        "defn": "看、看一下。例:她為了一睹大牌明星的風采，不惜從南部搭夜車來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一度",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄨˋ　（變）一ˊ　ㄉㄨˋ",
+                "pinyin": "yī dù　（變）yí dù",
+                "definitions": [
+                    {
+                        "defn": "一次、一回。例:這次感冒，我曾經一度發燒到攝氏三十九度。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一肚子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄉㄨˋ　˙ㄗ　（變）一ˊ　ㄉㄨˋ　˙ㄗ",
+                "pinyin": "yī dù zi　（變）yí dù zi",
+                "definitions": [
+                    {
+                        "defn": "滿腹。例:本來是一片好心，卻惹來一肚子氣。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一塌糊塗",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄚ　ㄏㄨˊ　ㄊㄨˊ　（變）一ˋ　ㄊㄚ　ㄏㄨˊ　ㄊㄨˊ",
+                "pinyin": "yī tā hú tú　（變）yì tā hú tú",
+                "definitions": [
+                    {
+                        "defn": "形容情況非常糟糕，以致無法收拾。例:一個醉漢把我們精心布置的會場弄得一塌糊塗。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一頭",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄡˊ　（變）一ˋ　ㄊㄡˊ",
+                "pinyin": "yī tóu　（變）yì tóu",
+                "definitions": [
+                    {
+                        "defn": "1.頭部突然向下扎或向下倒的動作。例:潛水夫剛下水，就一頭鑽到水裡去了。\n2.比喻完全。例:當她一頭栽進文學領域後便樂此不疲了。\n3.一端、一方。例:他們家住在路的那一頭，順著往前走就可以找到了。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一頭熱",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄡˊ　ㄖㄜˋ　（變）一ˋ　ㄊㄡˊ　ㄖㄜˋ",
+                "pinyin": "yī tóu rè　（變）yì tóu rè",
+                "definitions": [
+                    {
+                        "defn": "比喻一廂情願。例:這只是他一頭熱，對方連一點意思都沒有。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一頭霧水",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄡˊ　ㄨˋ　ㄕㄨㄟˇ　（變）一ˋ　ㄊㄡˊ　ㄨˋ　ㄕㄨㄟˇ",
+                "pinyin": "yī tóu wù shuǐ　（變）yì tóu wù shuǐ",
+                "definitions": [
+                    {
+                        "defn": "比喻思緒朦朧不清，無法明白。例:這齣戲毫無主題，看得我一頭霧水。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一探究竟",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄢˋ　ㄐ一ㄡˋ　ㄐ一ㄥˋ　（變）一ˊ　ㄊㄢˋ　ㄐ一ㄡˋ　ㄐ一ㄥˋ",
+                "pinyin": "yī tàn jiù jìng　（變）yí tàn jiù jìng",
+                "definitions": [
+                    {
+                        "defn": "看清楚、弄明白。例:聽到門外一聲巨響，爸爸立刻起身出去一探究竟。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一趟",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄤˋ　（變）一ˊ　ㄊㄤˋ",
+                "pinyin": "yī tàng　（變）yí tàng",
+                "definitions": [
+                    {
+                        "defn": "從甲地到乙地一次。例:這件事很緊急，我必須親自跑一趟。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一體",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊ一ˇ　（變）一ˋ　ㄊ一ˇ",
+                "pinyin": "yi1 ti3　（變）yi4 ti3",
+                "definitions": [
+                    {
+                        "defn": "1.一個完整的個體。例:彈琴時，她已將音樂和心靈合為一體。\n2.全體、一律。例:一體遵照\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一體兩面",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊ一ˇ　ㄌ一ㄤˇ　ㄇ一ㄢˋ　（變）一ˋ　ㄊ一ˇ　ㄌ一ㄤˇ　ㄇ一ㄢˋ",
+                "pinyin": "yī tǐ liǎng miàn　（變）yì tǐ liǎng miàn",
+                "definitions": [
+                    {
+                        "defn": "同一個整體因觀察的角度不同，而呈現不同的狀態。例:權利與義務是一體兩面的，要享權利就須盡義務。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一條鞭",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊ一ㄠˊ　ㄅ一ㄢ　（變）一ˋ　ㄊ一ㄠˊ　ㄅ一ㄢ",
+                "pinyin": "yī tiáo biān　（變）yì tiáo biān",
+                "definitions": [
+                    {
+                        "defn": "比喻去繁就簡或事權統一。例:為了挽救業務危機，總經理決定採取一條鞭的管理方式。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一天",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊ一ㄢ　（變）一ˋ　ㄊ一ㄢ",
+                "pinyin": "yī tiān　（變）yì tiān",
+                "definitions": [
+                    {
+                        "defn": "1.一日、整日。例:我們昨天到阿里山玩了一天。\n2.某一日。例:總有一天，我們會完成這項實驗的。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一天到晚",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊ一ㄢ　ㄉㄠˋ　ㄨㄢˇ　（變）一ˋ　ㄊ一ㄢ　ㄉㄠˋ　ㄨㄢˇ",
+                "pinyin": "yī tiān dào wǎn　（變）yì tiān dào wǎn",
+                "definitions": [
+                    {
+                        "defn": "從早到晚、整天。例:他好逸惡勞，一天到晚只想發財而不願做事。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一團",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄨㄢˊ　（變）一ˋ　ㄊㄨㄢˊ",
+                "pinyin": "yī tuán　（變）yì tuán",
+                "definitions": [
+                    {
+                        "defn": "1.一堆。例:他們兩人一言不和，便扭打成一團了。\n2.一股。例:一團和氣\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一團和氣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄨㄢˊ　ㄏㄜˊ　ㄑ一ˋ　（變）一ˋ　ㄊㄨㄢˊ　ㄏㄜˊ　ㄑ一ˋ",
+                "pinyin": "yī tuán hé qì　（變）yì tuán hé qì",
+                "definitions": [
+                    {
+                        "defn": "形容態度和藹可親。例:丁先生待人接物總是一團和氣，大家都喜歡跟他做朋友。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一團糟",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄨㄢˊ　ㄗㄠ　（變）一ˋ　ㄊㄨㄢˊ　ㄗㄠ",
+                "pinyin": "yī tuán zāo　（變）yì tuán zāo",
+                "definitions": [
+                    {
+                        "defn": "形容事情混亂，不可收拾。例:弟弟把客廳弄得一團糟，被媽媽罵了一頓。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一同",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄨㄥˊ　（變）一ˋ　ㄊㄨㄥˊ",
+                "pinyin": "yī tóng　（變）yì tóng",
+                "definitions": [
+                    {
+                        "defn": "1.一起、相偕。例:放學後我們一同走路回家。\n2.一樣。例:大家有志一同，上小館子去！\n"
+                    }
+                ],
+                "synonyms": "1.一齊、一起"
+            }
+        ]
+    },
+    {
+        "title": "一統",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄊㄨㄥˇ　（變）一ˋ　ㄊㄨㄥˇ",
+                "pinyin": "yī tǒng　（變）yì tǒng",
+                "definitions": [
+                    {
+                        "defn": "由一個政府統治而不分裂。例:一統天下"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一男半女",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋㄢˊ　ㄅㄢˋ　ㄋㄩˇ　（變）一ˋ　ㄋㄢˊ　ㄅㄢˋ　ㄋㄩˇ",
+                "pinyin": "yī nán bàn nǚ　（變）yì nán bàn nǚ",
+                "definitions": [
+                    {
+                        "defn": "一個兒子或女兒。例:他們夫妻二人結婚多年，一男半女也沒生。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一年半載",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋ一ㄢˊ　ㄅㄢˋ　ㄗㄞˇ　（變）一ˋ　ㄋ一ㄢˊ　ㄅㄢˋ　ㄗㄞˇ",
+                "pinyin": "yī nián bàn zǎi　（變）yì nián bàn zǎi",
+                "definitions": [
+                    {
+                        "defn": "一年或半年。指一段不短的時間。例:這艘遠洋漁船每次出海，都得要個一年半載才能回來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一年到頭",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋ一ㄢˊ　ㄉㄠˋ　ㄊㄡˊ　（變）一ˋ　ㄋ一ㄢˊ　ㄉㄠˋ　ㄊㄡˊ",
+                "pinyin": "yī nián dào tóu　（變）yì nián dào tóu",
+                "definitions": [
+                    {
+                        "defn": "整年。例:王先生一年到頭都洗冷水澡，即使冬天也是如此。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一念之間",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋ一ㄢˋ　ㄓ　ㄐ一ㄢ　（變）一ˊ　ㄋ一ㄢˋ　ㄓ　ㄐ一ㄢ",
+                "pinyin": "yī niàn zhī jiān　（變）yí niàn zhī jiān",
+                "definitions": [
+                    {
+                        "defn": "一個觀念或想法之中。例:他在一念之間，便做成了休學重考的決定。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一念之差",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋ一ㄢˋ　ㄓ　ㄔㄚ　（變）一ˊ　ㄋ一ㄢˋ　ㄓ　ㄔㄚ",
+                "pinyin": "yī niàn zhī chā　（變）yí niàn zhī chā",
+                "definitions": [
+                    {
+                        "defn": "一個念頭所造成的差錯。例:由於當初的一念之差，以致於今日身敗名裂。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一諾千金",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄋㄨㄛˋ　ㄑ一ㄢ　ㄐ一ㄣ　（變）一ˊ　ㄋㄨㄛˋ　ㄑ一ㄢ　ㄐ一ㄣ",
+                "pinyin": "yī nuò qiān jīn　（變）yí nuò qiān jīn",
+                "definitions": [
+                    {
+                        "defn": "形容信用高，一旦許諾別人，必定做到。語本《史記．卷一○○．季布傳》。例:他一向一諾千金，說了算數。"
+                    }
+                ],
+                "antonyms": "輕諾寡信"
+            }
+        ]
+    },
+    {
+        "title": "一來",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄞˊ　（變）一ˋ　ㄌㄞˊ",
+                "pinyin": "yī lái　（變）yì lái",
+                "definitions": [
+                    {
+                        "defn": "1.一來到。例:他一來就先說了一個笑話，緩和了緊張的氣氛。\n2.略略動作、行事。例:他那麼一來，豈不害了大家？\n3.並說數事，分別敘述之詞。例:把她的眼角膜捐出，一來可以完成她的遺願，二來也可以幫助失明的人。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一勞永逸",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄠˊ　ㄩㄥˇ　一ˋ　（變）一ˋ　ㄌㄠˊ　ㄩㄥˇ　一ˋ",
+                "pinyin": "yī láo yǒng yì　（變）yì láo yǒng yì",
+                "definitions": [
+                    {
+                        "defn": "只要經過一次的勞苦，即能獲得永久的安逸。例:把水管重新翻修，才是防止漏水一勞永逸的方法。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一覽表",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄢˇ　ㄅ一ㄠˇ　（變）一ˋ　ㄌㄢˇ　ㄅ一ㄠˇ",
+                "pinyin": "yī lǎn biǎo　（變）yì lǎn biǎo",
+                "definitions": [
+                    {
+                        "defn": "列舉有關資料，使人一看就可以了解的簡明表式。例:薪資一覽表"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一覽無遺",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄢˇ　ㄨˊ　一ˊ　（變）一ˋ　ㄌㄢˇ　ㄨˊ　一ˊ",
+                "pinyin": "yī lǎn wú yí　（變）yì lǎn wú yí",
+                "definitions": [
+                    {
+                        "defn": "一眼望去全部看在眼裡，毫無遺漏。例:站在這座山丘俯瞰，市區的景物一覽無遺。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一愣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄥˋ　（變）一ˊ　ㄌㄥˋ",
+                "pinyin": "yī lèng　（變）yí lèng",
+                "definitions": [
+                    {
+                        "defn": "意外，吃驚而呆住的樣子。例:姊姊一聽到獲得頭獎，先是一愣，隨即高興得大叫。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一了百了",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄠˇ　ㄅㄞˇ　ㄌ一ㄠˇ　（變）一ˋ　ㄌ一ㄠˇ　ㄅㄞˇ　ㄌ一ㄠˇ",
+                "pinyin": "yī liǎo bǎi liǎo　（變）yì liǎo bǎi liǎo",
+                "definitions": [
+                    {
+                        "defn": "比喻主要的事一解決，其餘相關的事也會隨之了結。語本《朱子語類．卷八．總論為學之方》。例:這件事一定要當事人出面，才能一了百了。"
+                    }
+                ],
+                "antonyms": "沒完沒了"
+            }
+        ]
+    },
+    {
+        "title": "一了心願",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄠˇ　ㄒ一ㄣ　ㄩㄢˋ　（變）一ˋ　ㄌ一ㄠˇ　ㄒ一ㄣ　ㄩㄢˋ",
+                "pinyin": "yī liǎo xīn yuàn　（變）yì liǎo xīn yuàn",
+                "definitions": [
+                    {
+                        "defn": "完成心願。例:她為了一了心願，決定將所有的財產捐贈給孤兒院。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一流",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄡˊ　（變）一ˋ　ㄌ一ㄡˊ",
+                "pinyin": "yī liú　（變）yì liú",
+                "definitions": [
+                    {
+                        "defn": "第一等。例:媽媽的烹飪技術是一流的，吃過的人都稱讚不已。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一溜",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄡˋ　（變）一ˊ　ㄌ一ㄡˋ",
+                "pinyin": "yī liù　（變）yí liù",
+                "definitions": [
+                    {
+                        "defn": "1.一列、一排。例:一溜輕煙、一溜路樹\n2.一瞄。例:老師把眼睛一溜，同學們隨即安靜不說話。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一連串",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄢˊ　ㄔㄨㄢˋ　（變）一ˋ　ㄌ一ㄢˊ　ㄔㄨㄢˋ",
+                "pinyin": "yī lián chuàn　（變）yì lián chuàn",
+                "definitions": [
+                    {
+                        "defn": "連續不斷。例:他雖然遭受一連串的打擊，但對自己的未來仍充滿信心。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一鱗半爪",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌ一ㄣˊ　ㄅㄢˋ　ㄓㄠˇ　（語音）一ˋ　ㄌ一ㄣˊ　ㄅㄢˋ　ㄓㄨㄚˇ",
+                "pinyin": "yī lín bàn zhǎo　（語音）yì lín bàn zhuǎ",
+                "definitions": [
+                    {
+                        "defn": "比喻零星片段的事物。例:這本書是我在旅遊中，一鱗半爪的見聞錄。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一路",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄨˋ　（變）一ˊ　ㄌㄨˋ",
+                "pinyin": "yī lù　（變）yí lù",
+                "definitions": [
+                    {
+                        "defn": "1.同路。例:你們兩人一路，回家也有個伴。\n2.沿途。例:他們一路說笑，也就不覺得路程遙遠了。\n3.同類。例:一路貨、一路人\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一路順風",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄨˋ　ㄕㄨㄣˋ　ㄈㄥ　（變）一ˊ　ㄌㄨˋ　ㄕㄨㄣˋ　ㄈㄥ",
+                "pinyin": "yī lù shùn fēng　（變）yí lù shùn fēng",
+                "definitions": [
+                    {
+                        "defn": "一路平安順利。為送行的祝福語。例:表姊臨上飛機前，送行的親友都祝她一路順風。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一落千丈",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄨㄛˋ　ㄑ一ㄢ　ㄓㄤˋ　（變）一ˊ　ㄌㄨㄛˋ　ㄑ一ㄢ　ㄓㄤˋ",
+                "pinyin": "yī luò qiān zhàng　（變）yí luò qiān zhàng",
+                "definitions": [
+                    {
+                        "defn": "泛指業務、成績、地位、聲望等急遽下降。例:自從有了捷運之後，計程車的生意一落千丈。"
+                    }
+                ],
+                "antonyms": "突飛猛進"
+            }
+        ]
+    },
+    {
+        "title": "一律",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄌㄩˋ　（變）一ˊ　ㄌㄩˋ",
+                "pinyin": "yī lǜ　（變）yí lǜ",
+                "definitions": [
+                    {
+                        "defn": "全部都一樣。例:千篇一律、一律平等"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一個勁兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄜˋ　ㄐ一ㄥˋㄦ　（變）一ˊ　ㄍㄜˋ　ㄐ一ㄥˋㄦ",
+                "pinyin": "yī gè jìngr　（變）yí gè jièr",
+                "definitions": [
+                    {
+                        "defn": "始終一致，持續不懈。例:別一個勁兒的催我，先讓我休息一下吧！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一概",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄞˋ　（變）一ˊ　ㄍㄞˋ",
+                "pinyin": "yī gài　（變）yí gài",
+                "definitions": [
+                    {
+                        "defn": "完全、一律。例:一概而論、一概作廢"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一干",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄢ　（變）一ˋ　ㄍㄢ",
+                "pinyin": "yī gān　（變）yì gān",
+                "definitions": [
+                    {
+                        "defn": "所有跟某事有關的。大多用於指人。例:檢察官下令將涉案的一干人等，全部收押禁見。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一乾二淨",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄢ　ㄦˋ　ㄐ一ㄥˋ　（變）一ˋ　ㄍㄢ　ㄦˋ　ㄐ一ㄥˋ",
+                "pinyin": "yī gān èr jìng　（變）yì gān èr jìng",
+                "definitions": [
+                    {
+                        "defn": "全完了、什麼都不剩。例:小明肚子餓，把桌上剩菜吃得一乾二淨。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一骨碌",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨ　ㄌㄨˋ　（變）一　ㄍㄨ　˙ㄌㄨ",
+                "pinyin": "yī gū lù （變）yī gū lu",
+                "definitions": [
+                    {
+                        "defn": "翻身一滾。形容速度很快、一下子。例:他一骨碌從床上跳起來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一股腦兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨˇ　ㄋㄠˇㄦ　（變）一ˋ　ㄍㄨˇ　ㄋㄠˇㄦ",
+                "pinyin": "yī gǔ nǎor　（變）yì gǔ nǎor",
+                "definitions": [
+                    {
+                        "defn": "全部、通通。例:小明看到桌上有糖果，他一股腦兒全拿走了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一股勁兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨˇ　ㄐ一ㄥˋㄦ　（變）一ˋ　ㄍㄨˇ　ㄐ一ㄥˋㄦ",
+                "pinyin": "yī gǔ jìngr　（變）yì gǔ jièr",
+                "definitions": [
+                    {
+                        "defn": "為做某事投注全部的精力，始終不懈怠。例:為了理想，他一股勁兒埋首工作。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一鼓作氣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨˇ　ㄗㄨㄛˋ　ㄑ一ˋ　（變）一ˋ　ㄍㄨˇ　ㄗㄨㄛˋ　ㄑ一ˋ",
+                "pinyin": "yī gǔ zuò qì　（變）yì gǔ zuò qì",
+                "definitions": [
+                    {
+                        "defn": "打仗時擊第一聲鼓，戰士們最能奮勇作戰。後比喻做事要趁著最初氣勢旺盛時，奮力將它完成。語本《左傳．莊公十年》。例:他一鼓作氣拿下一百公尺及二百公尺的短跑金牌，也贏得了飛毛腿的封號。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一官半職",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨㄢ　ㄅㄢˋ　ㄓˊ　（變）一ˋ　ㄍㄨㄢ　ㄅㄢˋ　ㄓˊ",
+                "pinyin": "yī guān bàn zhí　（變）yì guān bàn zhí",
+                "definitions": [
+                    {
+                        "defn": "泛指低微的官職。例:他認為與其千辛萬苦去求得一官半職，不如一技在身，一樣服務社會。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一貫",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨㄢˋ　（變）一ˊ　ㄍㄨㄢˋ",
+                "pinyin": "yī guàn　（變）yí guàn",
+                "definitions": [
+                    {
+                        "defn": "持續不變，從來沒有改變。例:一貫作風、一貫精神"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一貫道",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨㄢˋ　ㄉㄠˋ　（變）一ˊ　ㄍㄨㄢˋ　ㄉㄠˋ",
+                "pinyin": "yī guàn dào　（變）yí guàn dào",
+                "definitions": [
+                    {
+                        "defn": "清末新興的民間信仰，因其教義揉合儒、釋、道，強調「萬教歸一」理念，乃據論語「吾道一以貫之」命名。創教人王覺一，經劉清虛、路中一後，四傳予張光璧，其信仰始擴大發展至全國。一貫道以無極老母（無生老母）為最高神，信教者依其資歷分道長、點傳師、壇主、文牘、乩手、引傳師、道教等。民國三十八年以後，中共禁教，一貫道亦播遷入臺，發展為「十八支線」，現仍為釋、道、基督教之外，臺、澎、金、馬地區最大的宗教團體。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一貫作業",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨㄢˋ　ㄗㄨㄛˋ　一ㄝˋ　（變）一ˊ　ㄍㄨㄢˋ　ㄗㄨㄛˋ　一ㄝˋ",
+                "pinyin": "yī guàn zuò yè　（變）yí guàn zuò yè",
+                "definitions": [
+                    {
+                        "defn": "由數部專用的機械組合成固定的生產線，能使物件依序自動進行傳送、加工、整理以迄成品的自動化作業。例:本工廠自從採用一貫作業以後，生產速度加快，利潤也相對提高了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一共",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄍㄨㄥˋ",
+                "pinyin": "yī gòng",
+                "definitions": [
+                    {
+                        "defn": "總共、全部加起來。例:這些東西一共要五百元。"
+                    }
+                ],
+                "synonyms": "總共、總計"
+            }
+        ]
+    },
+    {
+        "title": "一刻",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄜˋ　（變）一ˊ　ㄎㄜˋ",
+                "pinyin": "yī kè　（變）yí kè",
+                "definitions": [
+                    {
+                        "defn": "1.十五分鐘。例:現在差一刻就十二點了。\n2.形容極短的時間。例:一刻千金\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一刻千金",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄜˋ　ㄑ一ㄢ　ㄐ一ㄣ　（變）一ˊ　ㄎㄜˋ　ㄑ一ㄢ　ㄐ一ㄣ",
+                "pinyin": "yī kè qiān jīn　（變）yí kè qiān jīn",
+                "definitions": [
+                    {
+                        "defn": "比喻光陰極為珍貴。語本宋．蘇軾〈春夜〉詩。例:青春時光一刻千金，切莫空蹉跎，白了少年頭。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一口",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄡˇ　（變）一ˋ　ㄎㄡˇ",
+                "pinyin": "yī kǒu　（變）yì kǒu",
+                "definitions": [
+                    {
+                        "defn": "1.咬嚼一下。例:她才吃了一口，便發覺麵包已經餿掉了。\n2.一言，指口氣堅定不變。例:一口咬定、一口否認\n3.滿口、滿嘴。例:丁先生說得一口標準的京片子。\n4.一人。例:嫂嫂剛生下一個兒子，家裡多了一口，頓時熱鬧了起來。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一口氣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄡˇ　ㄑ一ˋ　（變）一ˋ　ㄎㄡˇ　ㄑ一ˋ",
+                "pinyin": "yī kǒu qì　（變）yì kǒu qì",
+                "definitions": [
+                    {
+                        "defn": "1.一口氣息。例:爺爺深深的嘆了一口氣。\n2.連續而且不間斷。例:小弟弟一口氣吃了 5顆蘋果。\n3.比喻生命。例:只要我有一口氣在，一定要堅持這個原則。\n4.比喻榮譽。例:為了替國家爭一口氣，運動選手們每天都加緊練習。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一口咬定",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄡˇ　一ㄠˇ　ㄉ一ㄥˋ　（變）一ˋ　ㄎㄡˇ　一ㄠˇ　ㄉ一ㄥˋ",
+                "pinyin": "yī kǒu yǎo dìng　（變）yì kǒu yǎo dìng",
+                "definitions": [
+                    {
+                        "defn": "說話時語氣非常堅決、肯定。例:小華一口咬定花瓶是被妹妹打翻的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一塊",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄨㄞˋ　（變）一ˊ　ㄎㄨㄞˋ",
+                "pinyin": "yī kuài　（變）yí kuài",
+                "definitions": [
+                    {
+                        "defn": "一同、一起。例:他是常和我一塊登山的同伴。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一塊兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄨㄞˋㄦ　（變）一ˊ　ㄎㄨㄚˋㄦ",
+                "pinyin": "yī kuàir　（變）yí kuàr",
+                "definitions": [
+                    {
+                        "defn": "1.同一處所。例:她們工作的地方在一塊兒。\n2.一同、一起。例:每天早上我都和弟弟一塊兒去上學。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一窺堂奧",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄎㄨㄟ　ㄊㄤˊ　ㄠˋ　（變）一ˋ　ㄎㄨㄟ　ㄊㄤˊ　ㄠˋ",
+                "pinyin": "yī kuī táng ào　（變）yì kuī táng ào",
+                "definitions": [
+                    {
+                        "defn": "探看其中的奧妙。例:久聞大師盛名，藉著大師這次的畫展，終於可以一窺堂奧了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一行",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)一　ㄏㄤˊ　（變）一ˋ　ㄏㄤˊ",
+                "pinyin": "(二)yī háng　（變）yì háng",
+                "definitions": [
+                    {
+                        "defn": "1.單一的行列。例:這張圖片的旁邊有一行文字，用來說明圖片內容。\n2.行業的一種或同一的行業。例:做一行怨一行是現代人的通病。\n"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)一　ㄒ一ㄥˊ　（變）一ˋ　ㄒ一ㄥˊ",
+                "pinyin": "(一)yī xíng　（變）yì xíng",
+                "definitions": [
+                    {
+                        "defn": "一群。多指同行或共事的人。例:我們一行十人，將於明日起程到歐洲去旅遊。\n(二)\nㄧ\nㄏㄤˊ\nyī\nhán\ng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一回事",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄏㄨㄟˊ　ㄕˋ　（變）一ˋ　ㄏㄨㄟˊ　ㄕˋ",
+                "pinyin": "yī huí shì　（變）yì huí shì",
+                "definitions": [
+                    {
+                        "defn": "一件事，什麼情況。例:前面突然開始堵車，不知道是怎麼一回事？"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一會兒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄏㄨㄟˇㄦ　（變）一ˋ　ㄏㄨㄜˇㄦ",
+                "pinyin": "yī huǐr　（變）yì huěr",
+                "definitions": [
+                    {
+                        "defn": "片刻，短暫時間。例:我猶豫了一會兒，才答應他的請求。"
+                    }
+                ],
+                "synonyms": "一下子"
+            }
+        ]
+    },
+    {
+        "title": "一晃眼",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄏㄨㄤˇ　一ㄢˇ　（變）一ˋ　ㄏㄨㄤˇ　一ㄢˇ",
+                "pinyin": "yī huǎng yǎn　（變）yì huǎng yǎn",
+                "definitions": [
+                    {
+                        "defn": "一眨眼。形容時間過得很快。例:時間過得真快，一晃眼一年就要過去了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一哄而散",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄏㄨㄥ　ㄦˊ　ㄙㄢˋ　（變）一ˋ　ㄏㄨㄥ　ㄦˊ　ㄙㄢˋ",
+                "pinyin": "yī hōng ér sàn　（變）yì hōng ér sàn",
+                "definitions": [
+                    {
+                        "defn": "人群在吵鬧中各自散去。例:警察一到，打架滋事的人便一哄而散。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一己之私",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ˇ　ㄓ　ㄙ　（變）一ˋ　ㄐ一ˇ　ㄓ　ㄙ",
+                "pinyin": "yī jǐ zhī sī　（變）yì jǐ zhī sī",
+                "definitions": [
+                    {
+                        "defn": "個人的私利。例:我們不能為了一己之私，而危害團體的利益。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一技之長",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ˋ　ㄓ　ㄔㄤˊ　（變）一ˊ　ㄐ一ˋ　ㄓ　ㄔㄤˊ",
+                "pinyin": "yī jì zhī cháng　（變）yí jì zhī cháng",
+                "definitions": [
+                    {
+                        "defn": "具有某一種技能或專長。例:只要具有一技之長，就不怕沒有工作機會。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一技在身",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ˋ　ㄗㄞˋ　ㄕㄣ　（變）一ˊ　ㄐ一ˋ　ㄗㄞˋ　ㄕㄣ",
+                "pinyin": "yī jì zài shēn　（變）yí jì zài shēn",
+                "definitions": [
+                    {
+                        "defn": "擁有某種技能或專長。例:積財千萬，不若一技在身。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一甲子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄚˇ　ㄗˇ　（變）一ˋ　ㄐ一ㄚˇ　ㄗˇ",
+                "pinyin": "yī jiǎ zǐ　（變）yì jiǎ zǐ",
+                "definitions": [
+                    {
+                        "defn": "以十天干和十二地支循環配合，自甲子至癸亥，六十而一周，因此稱六十年為「一甲子」。例:他們倆結婚已有一甲子了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一價吃到飽",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄚˋ　ㄔ　ㄉㄠˋ　ㄅㄠˇ　（變）一ˊ　ㄐ一ㄚˋ　ㄔ　ㄉㄠˋ　ㄅㄠˇ",
+                "pinyin": "yī jià chī dào bǎo　（變）yí jià chī dào bǎo",
+                "definitions": [
+                    {
+                        "defn": "一種餐飲界推出的經營策略。以一固定的用餐價格，即可任意食用至飽。例:由於撿便宜的心態作祟，採用一價吃到飽經營方式的餐廳，常是高朋滿座。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一介不取",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄝˋ　ㄅㄨˋ　ㄑㄩˇ　（變）一ˊ　ㄐ一ㄝˋ　ㄅㄨˋ　ㄑㄩˇ",
+                "pinyin": "yī jiè bù qǔ　（變）yí jiè bù qǔ",
+                "definitions": [
+                    {
+                        "defn": "一分一毫也不苟取。形容人的操守清廉。語本《孟子．萬章上》。例:他除了應得的俸祿外，餘則一介不取，是個清廉的好官。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一較高下",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄠˋ　ㄍㄠ　ㄒ一ㄚˋ　（變）一ˊ　ㄐ一ㄠˋ　ㄍㄠ　ㄒ一ㄚˋ",
+                "pinyin": "yī jiào gāo xià　（變）yí jiào gāo xià",
+                "definitions": [
+                    {
+                        "defn": "和人較量程度的高低。例:他們約定星期天在籃球場一較高下，看誰的球技好。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一肩挑",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢ　ㄊ一ㄠ　（變）一ˋ　ㄐ一ㄢ　ㄊ一ㄠ",
+                "pinyin": "yī jiān tiāo　（變）yì jiān tiāo",
+                "definitions": [
+                    {
+                        "defn": "負起全部責任。例:這件事由我一肩挑，有什麼問題直接找我就可以了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一見傾心",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢˋ　ㄑ一ㄥ　ㄒ一ㄣ　（變）一ˊ　ㄐ一ㄢˋ　ㄑ一ㄥ　ㄒ一ㄣ",
+                "pinyin": "yī jiàn qīng xīn　（變）yí jiàn qīng xīn",
+                "definitions": [
+                    {
+                        "defn": "初次見面就產生好感。例:我初次遇見她，就已一見傾心，決定非她莫娶。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一箭之仇",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢˋ　ㄓ　ㄔㄡˊ　（變）一ˊ　ㄐ一ㄢˋ　ㄓ　ㄔㄡˊ",
+                "pinyin": "yī jiàn zhī chóu　（變）yí jiàn zhī chóu",
+                "definitions": [
+                    {
+                        "defn": "泛指因某事所結下的怨仇。例:他為了報上次比賽落敗的一箭之仇，每天加緊苦練。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一見鍾情",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢˋ　ㄓㄨㄥ　ㄑ一ㄥˊ　（變）一ˊ　ㄐ一ㄢˋ　ㄓㄨㄥ　ㄑ一ㄥˊ",
+                "pinyin": "yī jiàn zhōng qíng　（變）yí jiàn zhōng qíng",
+                "definitions": [
+                    {
+                        "defn": "初次相見就彼此愛慕。多指男女間之愛情。例:他們倆一見鍾情，交往不到半年就結婚了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一箭雙鵰",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢˋ　ㄕㄨㄤ　ㄉ一ㄠ　（變）一ˊ　ㄐ一ㄢˋ　ㄕㄨㄤ　ㄉ一ㄠ",
+                "pinyin": "yī jiàn shuāng diāo　（變）yí jiàn shuāng diāo",
+                "definitions": [
+                    {
+                        "defn": "比喻一次舉動便可達到雙倍的效果。典出《北史．卷二十二．長孫道生傳》。例:這次緝凶行動一箭雙鵰，不但逮捕到殺人犯，同時也破獲了販毒集團。"
+                    }
+                ],
+                "synonyms": "一石兩鳥"
+            }
+        ]
+    },
+    {
+        "title": "一見如故",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐ一ㄢˋ　ㄖㄨˊ　ㄍㄨˋ　（變）一ˊ　ㄐ一ㄢˋ　ㄖㄨˊ　ㄍㄨˋ",
+                "pinyin": "yī jiàn rú gù　（變）yí jiàn rú gù",
+                "definitions": [
+                    {
+                        "defn": "第一次見面就相處和樂融洽，如同老朋友一樣。例:他們兩人一見如故，談得很投機。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一舉",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩˇ　（變）一ˋ　ㄐㄩˇ　",
+                "pinyin": "yī jǔ　（變）yì jǔ",
+                "definitions": [
+                    {
+                        "defn": "一種舉動、一次行動。例:多此一舉、一舉成名、一舉兩得"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一舉兩得",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩˇ　ㄌ一ㄤˇ　ㄉㄜˊ　（變）一ˋ　ㄐㄩˇ　ㄌ一ㄤˇ　ㄉㄜˊ",
+                "pinyin": "yī jǔ liǎng dé　（變）yì jǔ liǎng dé",
+                "definitions": [
+                    {
+                        "defn": "比喻一種舉動同時兼收兩利。例:種花既可美化環境，又可怡情養性，真是一舉兩得。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一舉成名",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩˇ　ㄔㄥˊ　ㄇ一ㄥˊ　（變）一ˋ　ㄐㄩˇ　ㄔㄥˊ　ㄇ一ㄥˊ",
+                "pinyin": "yī jǔ chéng míng　（變）yì jǔ chéng míng",
+                "definitions": [
+                    {
+                        "defn": "舊指一次科舉便及第成名。今泛稱做成一件事就因此聲名遠播。例:他初登大銀幕就獲得金馬獎最佳男主角獎，在影壇一舉成名。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一舉數得",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩˇ　ㄕㄨˋ　ㄉㄜˊ　（變）一ˋ　ㄐㄩˇ　ㄕㄨˋ　ㄉㄜˊ",
+                "pinyin": "yī jǔ shù dé　（變）yì jǔ shù dé",
+                "definitions": [
+                    {
+                        "defn": "做一件事情同時能得到多方面的好處。例:多吃水果，不但可以補充水分，幫助消化，更可以養顏美容，真是一舉數得。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一舉一動",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩˇ　一　ㄉㄨㄥˋ　（變）一ˋ　ㄐㄩˇ　一ˊ　ㄉㄨㄥˋ",
+                "pinyin": "yī jǔ yī dòng　（變）yì jǔ yí dòng",
+                "definitions": [
+                    {
+                        "defn": "每一個舉動。多指一個人的言行舉止而言。例:在別人家作客，一舉一動都要小心謹慎，以免失禮。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一蹶不振",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩㄝˊ　ㄅㄨˋ　ㄓㄣˋ　（變）一ˋ　ㄐㄩㄝˊ　ㄅㄨˊ　ㄓㄣˋ",
+                "pinyin": "yī jué bù zhèn　（變）yì jué bú zhèn",
+                "definitions": [
+                    {
+                        "defn": "跌了一跤就再也站不起來。後比喻遭受挫折或失敗後，無法再振作恢復。語本漢．劉向《說苑．卷十六．談叢》。例:失敗後要勇敢的站起來，千萬不可一蹶不振。"
+                    }
+                ],
+                "antonyms": "百折不撓"
+            }
+        ]
+    },
+    {
+        "title": "一決雌雄",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄐㄩㄝˊ　ㄘ　ㄒㄩㄥˊ　（變）一ˋ　ㄐㄩㄝˊ　ㄘ　ㄒㄩㄥˊ",
+                "pinyin": "yī jué cī xióng　（變）yì jué cī xióng",
+                "definitions": [
+                    {
+                        "defn": "比喻互相較量以決定勝敗、高下。語本《史記．卷七．項羽本紀》。例:他們兩人實力相當，將在這場比賽中一決雌雄。"
+                    }
+                ],
+                "synonyms": "一較高下、一決勝負"
+            }
+        ]
+    },
+    {
+        "title": "一齊",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ˊ　（變）一ˋ　ㄑ一ˊ",
+                "pinyin": "yī qí　（變）0",
+                "definitions": [
+                    {
+                        "defn": "一同、同時。例:他與好友約好一齊出遊。"
+                    }
+                ],
+                "synonyms": "一同"
+            }
+        ]
+    },
+    {
+        "title": "一起",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ˇ　（變）一ˋ　ㄑ一ˇ",
+                "pinyin": "yī qǐ　（變）yì qǐ",
+                "definitions": [
+                    {
+                        "defn": "1.一塊兒。例:這是兩碼子事，請不要混在一起。\n2.案件一宗。例:警方昨天偵破一起殺人棄屍案，將凶手繩之以法。\n"
+                    }
+                ],
+                "synonyms": "1.一同"
+            }
+        ]
+    },
+    {
+        "title": "一氣呵成",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ˋ　ㄏㄜ　ㄔㄥˊ　（變）一ˊ　ㄑ一ˋ　ㄏㄜ　ㄔㄥˊ",
+                "pinyin": "yī qì hē chéng　（變）yí qì hē chéng",
+                "definitions": [
+                    {
+                        "defn": "一口氣完成。比喻文章或繪畫的氣勢流暢，首尾貫通；或工作安排緊湊、不間斷。例:他做事總是一氣呵成，絕不拖泥帶水。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一氣之下",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ˋ　ㄓ　ㄒ一ㄚˋ　（變）一ˊ　ㄑ一ˋ　ㄓ　ㄒ一ㄚˋ",
+                "pinyin": "yī qì zhī xià　（變）yí qì zhī xià",
+                "definitions": [
+                    {
+                        "defn": "在盛怒、情緒衝動的情況下。例:他一氣之下，拿到任何東西就摔。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一切",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄝˋ",
+                "pinyin": "yī qiè",
+                "definitions": [
+                    {
+                        "defn": "全部、所有。例:你儘管放手去做，一切有我負責。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一切從簡",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄝˋ　ㄘㄨㄥˊ　ㄐ一ㄢˇ　（變）一ˊ　ㄑ一ㄝˋ　ㄘㄨㄥˊ　ㄐ一ㄢˇ",
+                "pinyin": "yī qiè cóng jiǎn　（變）yí qiè cóng jiǎn",
+                "definitions": [
+                    {
+                        "defn": "一切都採用最簡單的形式。例:為了提倡節儉的美德，這次的餐會就一切從簡吧！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一竅不通",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄠˋ　ㄅㄨˋ　ㄊㄨㄥ　（變）一ˊ　ㄑ一ㄠˋ　ㄅㄨˋ　ㄊㄨㄥ",
+                "pinyin": "yī qiào bù tōng　（變）yí qiào bù tōng",
+                "definitions": [
+                    {
+                        "defn": "本指人體七竅中，有一個心竅不通。後用以比喻人一無所知。語本《呂氏春秋．貴直論．過理》「其竅通，則比干不死矣」句下漢．高誘．注。例:他本來對電腦的操作一竅不通，經過幾個月的學習，已經得心應手了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一丘之貉",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄡ　ㄓ　ㄏㄜˊ　（變）一ˋ　ㄑ一ㄡ　ㄓ　ㄏㄜˊ",
+                "pinyin": "yī qiū zhī hé　（變）yì qiū zhī hé",
+                "definitions": [
+                    {
+                        "defn": "同一山丘上的貉。比喻行徑一樣低劣的同類。例:他們根本是一丘之貉，狼狽為奸，令人厭惡。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一親芳澤",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄣ　ㄈㄤ　ㄗㄜˊ　（變）一ˋ　ㄑ一ㄣ　ㄈㄤ　ㄗㄜˊ",
+                "pinyin": "yī qīn fāng zé　（變）yì qīn fāng zé",
+                "definitions": [
+                    {
+                        "defn": "親近自己所喜愛的女性。例:為了一親芳澤，他常常藉故找她聊天。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一清專案",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄥ　ㄓㄨㄢ　ㄢˋ　（變）一ˋ　ㄑ一ㄥ　ㄓㄨㄢ　ㄢˋ",
+                "pinyin": "yī qīng zhuān àn　（變）yì qīng zhuān àn",
+                "definitions": [
+                    {
+                        "defn": "為警方實施檢肅流氓的一個專案計畫。係將有前科、紀錄及登記有案的流氓，依據線民提供可靠線索及蒐集證據，由警政長官召集部署開會計劃行動事宜，然後由行政警察及刑事局聯合展開掃蕩流氓的行動。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一清二楚",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑ一ㄥ　ㄦˋ　ㄔㄨˇ　（變）一ˋ　ㄑ一ㄥ　ㄦˋ　ㄔㄨˇ",
+                "pinyin": "yī qīng èr chǔ　（變）yì qīng èr chǔ",
+                "definitions": [
+                    {
+                        "defn": "十分清楚、明白。例:目擊證人將案發經過說得一清二楚，對警方辦案幫助很大。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一去不返",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄑㄩˋ　ㄅㄨˋ　ㄈㄢˇ　（變）一ˊ　ㄑㄩˋ　ㄅㄨˋ　ㄈㄢˇ",
+                "pinyin": "yī qù bù fǎn　（變）yí qù bù fǎn",
+                "definitions": [
+                    {
+                        "defn": "形容人離去後音訊全無或事物消逝無蹤。例:時光一去不返，要好好珍惜。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一席話",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ˊ　ㄏㄨㄚˋ　（變）一ˋ　ㄒ一ˊ　ㄏㄨㄚˋ",
+                "pinyin": "yī xí huà　（變）yì xí huà",
+                "definitions": [
+                    {
+                        "defn": "一番話。例:與君一席話，勝讀十年書。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一席之地",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ˊ　ㄓ　ㄉ一ˋ　（變）一ˋ　ㄒ一ˊ　ㄓ　ㄉ一ˋ",
+                "pinyin": "yī xí zhī dì　（變）yì xí zhī dì",
+                "definitions": [
+                    {
+                        "defn": "比喻極小的地方或具有某種程度的地位或位置。例:經過多年的努力，他在文壇終於占有一席之地。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一夕",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ˋ　（變）一ˊ　ㄒ一ˋ",
+                "pinyin": "yī xì　（變）yí xì",
+                "definitions": [
+                    {
+                        "defn": "一夜，一晚。例:一夕成功的背後，至少是十五年的歲月。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一下",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄚˋ　（變）一ˊ　ㄒ一ㄚˋ　",
+                "pinyin": "yī xià　（變）yí xià",
+                "definitions": [
+                    {
+                        "defn": "1.一次、一回。例:他打了我一下。\n2.一會兒。比喻極短的時間。例:稍等一下，經理馬上就來了。\n3.附於動詞後面，有略微的意思。例:既然來了，就看一下吧！\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一下子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄚˋ　˙ㄗ　（變）一ˊ　ㄒ一ㄚˋ　˙ㄗ",
+                "pinyin": "yī xià zi　（變）yí xià zi",
+                "definitions": [
+                    {
+                        "defn": "1.一次、一回。例:他的謊言被拆穿了，這一下子看他怎麼向大家解釋。\n2.比喻極短的時間。例:他一下子就把工作做完了。\n3.附於動詞後面，有略微的意思。例:他不是故意的，你就忍耐一下子吧。\n"
+                    }
+                ],
+                "synonyms": "2.一會兒"
+            }
+        ]
+    },
+    {
+        "title": "一些",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄝ　（變）一ˋ　ㄒ一ㄝ",
+                "pinyin": "yī xiē　（變）yì xiē",
+                "definitions": [
+                    {
+                        "defn": "表示不定數量的用語：(1) 數量少、一點點。例:這杯咖啡再加一些糖會更好喝。　(2) 有許多，不是唯一的。例:在當老師前，我做過一些其他工作。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一瀉千里",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄝˋ　ㄑ一ㄢ　ㄌ一ˇ　（變） 一ˊ　ㄒ一ㄝˋ　ㄑ一ㄢ　ㄌ一ˇ",
+                "pinyin": "yī xiè qiān lǐ　（變）yí xiè qiān lǐ",
+                "definitions": [
+                    {
+                        "defn": "1.形容水的奔流通暢快速。例:黃河之水，浩浩蕩蕩，一瀉千里。\n2.比喻行文暢達，氣勢奔放。例:他寫的文章像源泉奔放，一瀉千里。\n3.比喻口才的雄辯。例:他一上場就口若懸河，一瀉千里，逼得對方百口莫辯。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一笑置之",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄠˋ　ㄓˋ　ㄓ　（變）一ˊ　ㄒ一ㄠˋ　ㄓˋ　ㄓ",
+                "pinyin": "yī xiào zhì zhī　（變）yí xiào zhì zhī",
+                "definitions": [
+                    {
+                        "defn": "笑一笑就把它擱放在一旁，表示不值得理睬重視或不當成一回事。語本宋．楊萬里〈觀水歎〉二首之一。例:面對流言，他總是一笑置之，絲毫不放在心上。"
+                    }
+                ],
+                "synonyms": "付之一笑"
+            }
+        ]
+    },
+    {
+        "title": "一線希望",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄢˋ　ㄒ一　ㄨㄤˋ　（變）一ˊ　ㄒ一ㄢˋ　ㄒ一　ㄨㄤˋ",
+                "pinyin": "yī xiàn xī wàng　（變）yí xiàn xī wàng",
+                "definitions": [
+                    {
+                        "defn": "極小的期望、願望。例:得到他的鼓勵，她心中燃起了一線希望。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一線生機",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄢˋ　ㄕㄥ　ㄐ一　（變）一ˊ　ㄒ一ㄢˋ　ㄕㄥ　ㄐ一",
+                "pinyin": "yī xiàn shēng jī　（變）yí xiàn shēng jī",
+                "definitions": [
+                    {
+                        "defn": "很小的生存機會。例:只要有一線生機，就不應輕言放棄。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一線曙光",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄢˋ　ㄕㄨˋ　ㄍㄨㄤ　（變）一ˊ　ㄒ一ㄢˋ　ㄕㄨˋ　ㄍㄨㄤ",
+                "pinyin": "yī xiàn shù guāng　（變）yí xiàn shù guāng",
+                "definitions": [
+                    {
+                        "defn": "比喻一點、些微的希望。例:公司本已瀕臨破產，但在董事長向各方求援後，似乎又有一線曙光。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一心",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄣ　（變）一ˋ　ㄒ一ㄣ",
+                "pinyin": "yī xīn　（變）yì xīn",
+                "definitions": [
+                    {
+                        "defn": "1.同心。例:萬眾一心\n2.專心，全心全意。例:他努力念書，一心想考上理想的學校。\n"
+                    }
+                ],
+                "synonyms": "1.同心"
+            }
+        ]
+    },
+    {
+        "title": "一新耳目",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄣ　ㄦˇ　ㄇㄨˋ　（變）一ˋ　ㄒ一ㄣ　ㄦˇ　ㄇㄨˋ",
+                "pinyin": "yī xīn ěr mù　（變）yì xīn ěr mù",
+                "definitions": [
+                    {
+                        "defn": "所見所聞給人截然不同的新感受。例:近來公司大刀闊斧的改革，令人一新耳目。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一心一德",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄣ　一　ㄉㄜˊ　（變）一ˋ　ㄒ一ㄣ　一ˋ　ㄉㄜˊ",
+                "pinyin": "yī xīn yī dé　（變）yì xīn yì dé",
+                "definitions": [
+                    {
+                        "defn": "齊心同一理念、一條心。例:只要大家一心一德，沒有做不到的事。"
+                    }
+                ],
+                "synonyms": "同心同德",
+                "antonyms": "離心離德"
+            }
+        ]
+    },
+    {
+        "title": "一心一意",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄣ　一　一ˋ　（變）一ˋ　ㄒ一ㄣ　一ˊ　一ˋ",
+                "pinyin": "yī xīn yī yì　（變）yì xīn yí yì",
+                "definitions": [
+                    {
+                        "defn": "心意專一。例:她一心一意想出國留學，繼續深造。"
+                    }
+                ],
+                "synonyms": "全心全意",
+                "antonyms": "三心二意"
+            }
+        ]
+    },
+    {
+        "title": "一相情願",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄤ　ㄑ一ㄥˊ　ㄩㄢˋ　（變）一ˋ　ㄒ一ㄤ　ㄑ一ㄥˊ　ㄩㄢˋ",
+                "pinyin": "yī xiāng qíng yuàn　（變）yì xiāng qíng yuàn",
+                "definitions": [
+                    {
+                        "defn": "完全出自單方面的主觀意願，不管對方的意願如何。例:感情的事要兩情相悅，不可一相情願的強求。"
+                    }
+                ],
+                "antonyms": "兩相情願"
+            }
+        ]
+    },
+    {
+        "title": "一廂情願",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄤ　ㄑ一ㄥˊ　ㄩㄢˋ　（變）一ˋ　ㄒ一ㄤ　ㄑ一ㄥˊ　ㄩㄢˋ",
+                "pinyin": "yī xiāng qíng yuàn　（變）yì xiāng qíng yuàn",
+                "definitions": [
+                    {
+                        "defn": "完全出自單方面的主觀意願，不管對方意願如何。例:這只不過是他一廂情願的想法，我完全沒有這個意思。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一向",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄤˋ　（變）一ˊ　ㄒ一ㄤˋ",
+                "pinyin": "yī xiàng　（變）yí xiàng",
+                "definitions": [
+                    {
+                        "defn": "從來、一直。例:多年來他一向都有晨跑的習慣。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一行人",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄒ一ㄥˊ　ㄖㄣˊ　（變）一ˋ　ㄒ一ㄥˊ　ㄖㄣˊ",
+                "pinyin": "yī xíng rén　（變）yì xíng rén",
+                "definitions": [
+                    {
+                        "defn": "指同行或共事的一群人。例:下星期我們一行人將到陽明山賞花。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一知半解",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓ　ㄅㄢˋ　ㄐ一ㄝˇ　（變）一ˋ　ㄓ　ㄅㄢˋ　ㄐ一ㄝˇ",
+                "pinyin": "yī zhī bàn jiě　（變）yì zhī bàn jiě",
+                "definitions": [
+                    {
+                        "defn": "形容人所知不全，了解不深。例:這個問題我也是一知半解，無法給你圓滿的解答。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一枝獨秀",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓ　ㄉㄨˊ　ㄒ一ㄡˋ　（變）一ˋ　ㄓ　ㄉㄨˊ　ㄒ一ㄡˋ",
+                "pinyin": "yī zhī dú xiù　（變）yì zhī dú xiù",
+                "definitions": [
+                    {
+                        "defn": "比喻最為傑出。例:他的參展作品極有創意，在眾多作品中一枝獨秀，特別引人注目。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一直",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓˊ　（變）一ˋ　ㄓˊ",
+                "pinyin": "yī zhí　（變）yì zhí",
+                "definitions": [
+                    {
+                        "defn": "1.正朝著某方向。例:往前一直走，就可以到達你要去的地方。\n2.持久不變、連續不斷。例:這場雨從昨天一直下到現在，沒有停過。\n"
+                    }
+                ],
+                "synonyms": "2.不斷",
+                "antonyms": "2.間斷、中斷"
+            }
+        ]
+    },
+    {
+        "title": "一擲千金",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓˊ　ㄑ一ㄢ　ㄐ一ㄣ　（變）一ˋ　ㄓˊ　ㄑ一ㄢ　ㄐ一ㄣ",
+                "pinyin": "yī zhí qiān jīn　（變）yì zhí qiān jīn",
+                "definitions": [
+                    {
+                        "defn": "形容用錢豪奢，一點也不吝惜。例:用錢若是沒有節制，一擲千金，縱有億萬家財，也有花光的一天。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一致",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓˋ　（變）一ˊ　ㄓˋ",
+                "pinyin": "yī zhì　（變）yí zhì",
+                "definitions": [
+                    {
+                        "defn": "趨向相同。例:步調一致、言行一致"
+                    }
+                ],
+                "antonyms": "紛歧"
+            }
+        ]
+    },
+    {
+        "title": "一制性資源定位法",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓˋ　ㄒ一ㄥˋ　ㄗ　ㄩㄢˊ　ㄉ一ㄥˋ　ㄨㄟˋ　ㄈㄚˇ　（變）一ˊ　ㄓˋ　ㄒ一ㄥˋ　ㄗ　ㄩㄢˊ　ㄉ一ㄥˋ　ㄨㄟˋ　ㄈㄚˇ",
+                "pinyin": "yī zhì xìng zī yuán dìng wèi fǎ　（變）yí zhì xìng zī yuán dìng wèi fǎ",
+                "definitions": [
+                    {
+                        "defn": "一種指明資料在網際網路上的位置與取得方式的通訊協定。例如：要進入教育部的全球資訊網的網頁，在瀏覽器上鍵入 “http://www.edu.tw”即可，冒號前為指定通訊協定，即網路服務，冒號後的兩條斜線是指要連接的伺服器名稱、通訊埠等、目錄和檔名，縮稱為URL。§英Uniform Resource Locator"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一眨眼",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄚˇ　一ㄢˇ　（變）一ˋ　ㄓㄚˇ　一ㄢˇ",
+                "pinyin": "yī zhǎ yǎn　（變）yì zhǎ yǎn",
+                "definitions": [
+                    {
+                        "defn": "眼皮一開一合。比喻時間很短。例:他剛才明明還在這兒，怎麼一眨眼就不見人影了？"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一朝",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄠ　（變）一ˋ　ㄓㄠ",
+                "pinyin": "yī zhāo　（變）yì zhāo",
+                "definitions": [
+                    {
+                        "defn": "一旦，忽然有一天。例:一朝被蛇咬，十年怕草繩。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一朝一夕",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄠ　一　ㄒ一ˋ　（變）一ˋ　ㄓㄠ　一ˊ　ㄒ一ˋ",
+                "pinyin": "yī zhāo yī xì　（變）yì zhāo yí xì",
+                "definitions": [
+                    {
+                        "defn": "很短暫的時間。例:學語文要靠日積月累的練習，不是一朝一夕就能學得好的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一盞茶工夫",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄢˇ　ㄔㄚˊ　ㄍㄨㄥ　˙ㄈㄨ　（變）一ˋ　ㄓㄢˇ　ㄔㄚˊ　ㄍㄨㄥ　˙ㄈㄨ",
+                "pinyin": "yì zhǎn chá gōng fu　（變）yì zhǎn chá gōng fu",
+                "definitions": [
+                    {
+                        "defn": "比喻極短的時間。例:不到一盞茶工夫，他就背熟了一篇課文。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一展長才",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄢˇ　ㄔㄤˊ　ㄘㄞˊ　（變）一ˋ　ㄓㄢˇ　ㄔㄤˊ　ㄘㄞˊ",
+                "pinyin": "yī zhǎn cháng cái　（變）yì zhǎn cháng cái",
+                "definitions": [
+                    {
+                        "defn": "人能發揮其特有的才能。例:為了一展長才，他辭去工作，與朋友共創新興的微電腦事業。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一針見血",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄣ　ㄐ一ㄢˋ　ㄒ一ㄝˇ　（變）一ˋ　ㄓㄣ　ㄐ一ㄢˋ　ㄒ一ㄝˇ",
+                "pinyin": "yī zhēn jiàn xiě　（變）yì zhēn jiàn xiě",
+                "definitions": [
+                    {
+                        "defn": "比喻議論透澈而中肯。例:他一針見血的指出公司的弊端，頗得大家的贊同。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一陣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄣˋ　（變）一ˊ　ㄓㄣˋ",
+                "pinyin": "yī zhèn　（變）yí zhèn",
+                "definitions": [
+                    {
+                        "defn": "一段時間的連續動作或狀況。例:夏天的午後下了一陣大雨，頓時感覺清涼。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一陣子",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄣˋ　˙ㄗ　（變）一ˊ　ㄓㄣˋ　˙ㄗ",
+                "pinyin": "yī zhèn zi　（變）yí zhèn zi",
+                "definitions": [
+                    {
+                        "defn": "一段時間。例:大學時代他曾當過一陣子的家教。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一整天",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄥˇ　ㄊ一ㄢ　（變）一ˋ　ㄓㄥˇ　ㄊ一ㄢ",
+                "pinyin": "yī zhěng tiān　（變）yì zhěng tiān",
+                "definitions": [
+                    {
+                        "defn": "全天。例:一本書和一杯茶，就可以讓他消磨一整天。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一炷香",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄨˋ　ㄒ一ㄤ　（變）一ˊ　ㄓㄨˋ　ㄒ一ㄤ",
+                "pinyin": "yī zhù xiāng　（變）yí zhù xiāng",
+                "definitions": [
+                    {
+                        "defn": "燒燃一支香的時間。比喻極短的時間。例:咱們再等一炷香的時間，他再不來，咱們就走了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一轉眼",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄓㄨㄢˇ　一ㄢˇ　（變）一ˋ　ㄓㄨㄢˇ　一ㄢˇ",
+                "pinyin": "yī zhuǎn yǎn　（變）yì zhuǎn yǎn",
+                "definitions": [
+                    {
+                        "defn": "形容極短的時間。例:他剛剛明明還站在這裡，怎麼一轉眼人就不見了？"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一剎那",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄚˋ　ㄋㄚˋ　（變）一ˊ　ㄔㄚˋ　ㄋㄚˋ",
+                "pinyin": "yī chà nà　（變）yí chà nà",
+                "definitions": [
+                    {
+                        "defn": "佛經說人的一個念頭之中含有九十個剎那。一剎那指極短的時間。例:他跑得真快，一剎那就不見了。"
+                    }
+                ],
+                "synonyms": "一瞬間"
+            }
+        ]
+    },
+    {
+        "title": "一籌莫展",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄡˊ　ㄇㄛˋ　ㄓㄢˇ　（變）一ˋ　ㄔㄡˊ　ㄇㄛˋ　ㄓㄢˇ",
+                "pinyin": "yī chóu mò zhǎn　（變）yì chóu mò zhǎn",
+                "definitions": [
+                    {
+                        "defn": "一點計策也施展不出來。比喻毫無辦法。例:面對這個棘手的難題，大家都一籌莫展。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一塵不染",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄣˊ　ㄅㄨˋ　ㄖㄢˇ　（變）一ˋ　ㄔㄣˊ　ㄅㄨˋ　ㄖㄢˇ",
+                "pinyin": "yī chén bù rǎn　（變）yì chén bù rǎn",
+                "definitions": [
+                    {
+                        "defn": "非常乾淨，一點灰塵都沒有。例:她很愛乾淨，家裡總是打掃得一塵不染。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一償宿願",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄤˊ　ㄙㄨˋ　ㄩㄢˋ　（變）一ˋ　ㄔㄤˊ　ㄙㄨˋ　ㄩㄢˋ",
+                "pinyin": "yī cháng sù yuàn　（變）yì cháng sù yuàn",
+                "definitions": [
+                    {
+                        "defn": "實現舊日的願望。例:多年來她想出國遊學的夢想，終於在今年得以一償宿願。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一成不變",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄥˊ　ㄅㄨˋ　ㄅ一ㄢˋ　（變）一ˋ　ㄔㄥˊ　ㄅㄨˊ　ㄅ一ㄢˋ",
+                "pinyin": "yī chéng bù biàn　（變）yì chéng bú biàn",
+                "definitions": [
+                    {
+                        "defn": "1.本指刑罰一經執行，犯人或死或傷的事實，絕不可改變。後指一切依然如故，沒有什麼改變。語本《禮記．王制》。例:這裡的景物十年來仍是一成不變，令人感覺非常熟悉。\n2.比喻墨守成規，不知變通。例:做事若是一成不變，不隨時代改進，總有一天會被淘汰。\n"
+                    }
+                ],
+                "antonyms": "變化多端、千變萬化、瞬息萬變"
+            }
+        ]
+    },
+    {
+        "title": "一處",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄨˋ　（變）一ˊ　ㄔㄨˋ",
+                "pinyin": "yī chù　（變）yí chù",
+                "definitions": [
+                    {
+                        "defn": "一個地方。例:走遍全世界，找不到一處比家更可愛的地方。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一觸即發",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄔㄨˋ　ㄐ一ˊ　ㄈㄚ　（變）一ˊ　ㄔㄨˋ　ㄐ一ˊ　ㄈㄚ",
+                "pinyin": "yī chù jí fā　（變）yí chù jí fā",
+                "definitions": [
+                    {
+                        "defn": "比喻情勢非常緊急，隨時會發生變化。例:兩軍對壘，雙方都嚴陣以待，已達一觸即發的地步。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一失足成千古恨",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕ　ㄗㄨˊ　ㄔㄥˊ　ㄑ一ㄢ　ㄍㄨˇ　ㄏㄣˋ　（變）一ˋ　ㄕ　ㄗㄨˊ　ㄔㄥˊ　ㄑ一ㄢ　ㄍㄨˇ　ㄏㄣˋ",
+                "pinyin": "yī shī zú chéng qiān gǔ hèn　（變）yì shī zú chéng qiān gǔ hèn",
+                "definitions": [
+                    {
+                        "defn": "一次犯錯墮落，便造成一輩子的悔恨。例:一失足成千古恨，再回頭已百年身。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一時",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˊ　（變）一ˋ　ㄕˊ",
+                "pinyin": "yī shí　（變）yì shí",
+                "definitions": [
+                    {
+                        "defn": "1.一段時期。例:風靡一時、此一時彼一時\n2.暫時、短時間內。例:這個東西一時還用不著，先擱一旁吧！\n3.突然、臨時。例:一時興起、一時衝動\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一石兩鳥",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˊ　ㄌ一ㄤˇ　ㄋ一ㄠˇ　（變）一ˋ　ㄕˊ　ㄌ一ㄤˇ　ㄋ一ㄠˇ",
+                "pinyin": "yī shí liǎng niǎo　（變）yì shí liǎng niǎo",
+                "definitions": [
+                    {
+                        "defn": "比喻做一件事能獲得兩種效果。例:這個辦法不但可行，還能夠事半功倍，真不失為一石兩鳥之計。"
+                    }
+                ],
+                "synonyms": "一箭雙鵰"
+            }
+        ]
+    },
+    {
+        "title": "一時之間",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˊ　ㄓ　ㄐ一ㄢ　（變）一ˋ　ㄕˊ　ㄓ　ㄐ一ㄢ",
+                "pinyin": "yī shí zhī jiān　（變）yì shí zhī jiān",
+                "definitions": [
+                    {
+                        "defn": "形容很短的時間。例:大家面對這突如其來的狀況，一時之間不知如何是好。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一世",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˋ　（變）一ˊ　ㄕˋ",
+                "pinyin": "yī shì　（變）yí shì",
+                "definitions": [
+                    {
+                        "defn": "1.一生。例:一生一世、一世難忘\n2.一代。例:一世梟雄\n3.古以三十年為一世。\n"
+                    }
+                ],
+                "synonyms": "1.一生"
+            }
+        ]
+    },
+    {
+        "title": "一試",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˋ　（變）一ˊ　ㄕˋ",
+                "pinyin": "yī shì　（變）yí shì",
+                "definitions": [
+                    {
+                        "defn": "嘗試看看。例:值得一試"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一視同仁",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˋ　ㄊㄨㄥˊ　ㄖㄣˊ　（變）一ˊ　ㄕˋ　ㄊㄨㄥˊ　ㄖㄣˊ",
+                "pinyin": "yī shì tóng rén　（變）yí shì tóng rén",
+                "definitions": [
+                    {
+                        "defn": "平等對待，毫無歧視。例:主管一再表示，對於公司每一位伙伴都一視同仁，不會有差別待遇。"
+                    }
+                ],
+                "antonyms": "厚此薄彼"
+            }
+        ]
+    },
+    {
+        "title": "一事無成",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕˋ　ㄨˊ　ㄔㄥˊ　（變）一ˊ　ㄕˋ　ㄨˊ　ㄔㄥˊ",
+                "pinyin": "yī shì wú chéng　（變）yí shì wú chéng",
+                "definitions": [
+                    {
+                        "defn": "在事業功名上沒有任何成就。為慨嘆之詞。例:離鄉奮鬥多年，卻一事無成，怎麼有臉回去呢！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一手",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄡˇ　（變）一ˋ　ㄕㄡˇ",
+                "pinyin": "yī shǒu　（變）yì shǒu",
+                "definitions": [
+                    {
+                        "defn": "1.一隻手。例:他不費吹灰之力，一手舉起三十磅重的啞鈴。\n2.指整手、全手。例:他拿了一手好牌，不贏才怪。\n3.一人之力。例:這次展覽的大小事情，都是由他一手包辦的。\n4.最初的、原始的。相對於「二手」。例:一手車、一手貨、一手資料\n5.數量詞：(1)用指技藝或本領。例:寫得一手好字、煮得一手好菜、下得一手好棋　(2)用於啤酒。啤酒多以六瓶放置於一個提籃，方便單手提攜，故後來習稱六瓶為「一手」。例:大家酒興真好，才一會兒工夫就喝掉了一手啤酒。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一手包辦",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄡˇ　ㄅㄠ　ㄅㄢˋ　（變）一ˋ　ㄕㄡˇ　ㄅㄠ　ㄅㄢˋ",
+                "pinyin": "yī shǒu bāo bàn　（變）yì shǒu bāo bàn",
+                "definitions": [
+                    {
+                        "defn": "全由一人獨力處理。例:這次旅遊的食宿、交通等問題全由陳先生一手包辦。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一手遮天",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄡˇ　ㄓㄜ　ㄊ一ㄢ　（變）一ˋ　ㄕㄡˇ　ㄓㄜ　ㄊ一ㄢ",
+                "pinyin": "yī shǒu zhē tiān　（變）yì shǒu zhē tiān",
+                "definitions": [
+                    {
+                        "defn": "比喻玩弄權術，欺瞞眾人的耳目。語本唐．曹鄴（ㄧㄝˋ）〈讀李斯傳〉詩。例:他事事專斷獨行，以為可以一手遮天，未免太異想天開了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一閃神",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄢˇ　ㄕㄣˊ　（變）一ˋ　ㄕㄢˇ　ㄕㄣˊ",
+                "pinyin": "yī shǎn shén　（變）yì shǎn shén",
+                "definitions": [
+                    {
+                        "defn": "一個不留意。例:她一閃神，差點被車子撞到。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一身",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄣ　（變）一ˋ　ㄕㄣ",
+                "pinyin": "yī shēn　（變）yì shēn",
+                "definitions": [
+                    {
+                        "defn": "1.一人。例:孑然一身\n2.全身。例:他因為沒帶傘，被雨淋了一身。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一身是膽",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄣ　ㄕˋ　ㄉㄢˇ　（變）一ˋ　ㄕㄣ　ㄕˋ　ㄉㄢˇ",
+                "pinyin": "yī shēn shì dǎn　（變）yì shēn shì dǎn",
+                "definitions": [
+                    {
+                        "defn": "形容膽量極大，勇猛無比。例:他一身是膽，屢次率先攻入槍擊要犯窩藏的地方，將其逮捕。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一生",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄥ　（變）一ˋ　ㄕㄥ",
+                "pinyin": "yī shēng　（變）yì shēng",
+                "definitions": [
+                    {
+                        "defn": "畢生、一輩子。例:一生一世"
+                    }
+                ],
+                "synonyms": "終身、終生、一世"
+            }
+        ]
+    },
+    {
+        "title": "一聲不響",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄥ　ㄅㄨˋ　ㄒ一ㄤˇ　（變）一ˋ　ㄕㄥ　ㄅㄨˋ　ㄒ一ㄤˇ",
+                "pinyin": "yī shēng bù xiǎng　（變）yì shēng bù xiǎng",
+                "definitions": [
+                    {
+                        "defn": "不發出任何聲音。例:他一聲不響的走到我身後，把我嚇了一跳。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一聲令下",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄥ　ㄌ一ㄥˋ　ㄒ一ㄚˋ　（變）一ˋ　ㄕㄥ　ㄌ一ㄥˋ　ㄒ一ㄚˋ",
+                "pinyin": "yī shēng lìng xià　（變）yì shēng lìng xià",
+                "definitions": [
+                    {
+                        "defn": "一發出命令。例:老師一聲令下，全班馬上開始大掃除。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一瞬間",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄕㄨㄣˋ　ㄐ一ㄢ　（變）一ˊ　ㄕㄨㄣˋ　ㄐ一ㄢ",
+                "pinyin": "yī shùn jiān　（變）yí shùn jiān",
+                "definitions": [
+                    {
+                        "defn": "形容很短的時間。例:在風勢的助長下，那棟木造的房子在一瞬間就被大火吞噬了。"
+                    }
+                ],
+                "synonyms": "一剎那"
+            }
+        ]
+    },
+    {
+        "title": "一日不見，如隔三秋",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄖˋ　ㄅㄨˋ　ㄐ一ㄢˋ　ㄖㄨˊ　ㄍㄜˊ　ㄙㄢ　ㄑ一ㄡ　（變）一ˊ　ㄖˋ　ㄅㄨˊ　ㄐ一ㄢˋ　ㄖㄨˊ　ㄍㄜˊ　ㄙㄢ　ㄑ一ㄡ",
+                "pinyin": "yī rì bù jiàn rú gé sān qiū　（變）yí rì bú jiàn rú gé sān qiū",
+                "definitions": [
+                    {
+                        "defn": "(諺語)一天不見面，就好像隔了三年一樣。形容思念殷切。語本《詩經．王風．采葛》。例:他與女友感情深厚，一日不見，如隔三秋，所以幾乎天天膩在一起。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一日千里",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄖˋ　ㄑ一ㄢ　ㄌ一ˇ　（變）一ˊ　ㄖˋ　ㄑ一ㄢ　ㄌ一ˇ",
+                "pinyin": "yī rì qiān lǐ　（變）yí rì qiān lǐ",
+                "definitions": [
+                    {
+                        "defn": "形容良馬跑得很快。後比喻進步神速或事業發展得很快。語本《莊子．秋水》。例:因為覓得好老師，使他的英文程度一日千里，大有進步。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一日三秋",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄖˋ　ㄙㄢ　ㄑ一ㄡ　（變）一ˊ　ㄖˋ　ㄙㄢ　ㄑ一ㄡ",
+                "pinyin": "yī rì sān qiū　（變）yí rì sān qiū",
+                "definitions": [
+                    {
+                        "defn": "一天不見面，就好像隔了三年一樣。形容思念殷切。語本《詩經．王風．采葛》。例:老公才出差兩天，她就有一日三秋的感覺。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一如",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄖㄨˊ　（變）一ˋ　ㄖㄨˊ",
+                "pinyin": "yī rú　（變）yì rú",
+                "definitions": [
+                    {
+                        "defn": "完全一樣。例:努力之於成功，一如水到自然渠成。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一如既往",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄖㄨˊ　ㄐ一ˋ　ㄨㄤˇ　（變）一ˋ　ㄖㄨˊ　ㄐ一ˋ　ㄨㄤˇ",
+                "pinyin": "yī rú jì wǎng　（變）yì rú jì wǎng",
+                "definitions": [
+                    {
+                        "defn": "和過去完全一樣。例:我們將一如既往，本著熱誠繼續為大家服務。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一字千金",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄗˋ　ㄑ一ㄢ　ㄐ一ㄣ　（變）一ˊ　ㄗˋ　ㄑ一ㄢ　ㄐ一ㄣ",
+                "pinyin": "yī zì qiān jīn　（變）yí zì qiān jīn",
+                "definitions": [
+                    {
+                        "defn": "秦代呂不韋集門客撰《呂氏春秋》，書成之後，公布在咸陽城門，聲明如果有能增刪書中一字的人，就賞給千金。後以一字千金比喻文辭精當，價值極高。典出《史記．卷八十五．呂不韋傳》。例:韓愈的〈師說〉傳誦至今，真是一字千金的名作。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一再",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄗㄞˋ　（變）一ˊ　ㄗㄞˋ",
+                "pinyin": "yī zài　（變）yí zài",
+                "definitions": [
+                    {
+                        "defn": "一次又一次的。例:我一再的叮嚀，他仍然粗心犯錯，真是不可原諒。"
+                    }
+                ],
+                "synonyms": "屢次、再三"
+            }
+        ]
+    },
+    {
+        "title": "一早",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄗㄠˇ　（變）一ˋ　ㄗㄠˇ",
+                "pinyin": "yī zǎo　（變）yì zǎo",
+                "definitions": [
+                    {
+                        "defn": "清晨。例:他明天一早就要起程到國外旅行。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一走了之",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄗㄡˇ　ㄌ一ㄠˇ　ㄓ　（變）一ˋ　ㄗㄡˇ　ㄌ一ㄠˇ　ㄓ",
+                "pinyin": "yī zǒu liǎo zhī　（變）yì zǒu liǎo zhī",
+                "definitions": [
+                    {
+                        "defn": "放下未完的事情，不負責任的離開。例:事情才進行到一半，你怎可一走了之？"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一次全倒",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄘˋ　ㄑㄩㄢˊ　ㄉㄠˇ　（變）一ˊ　ㄘˋ　ㄑㄩㄢˊ　ㄉㄠˇ",
+                "pinyin": "yī cì quán dǎo　（變）yí cì quán dǎo",
+                "definitions": [
+                    {
+                        "defn": "保齡球運動中指第一球便將十個球瓶全部擊倒。例:他一局最高紀錄可打出七個一次全倒。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一側",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄘㄜˋ　（變）一ˊ　ㄘㄜˋ",
+                "pinyin": "yī cè　（變）yí cè",
+                "definitions": [
+                    {
+                        "defn": "指物體的一邊。例:他坐在桌子的另一側，不知道在想些什麼？"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一蹴可幾",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄘㄨˋ　ㄎㄜˇ　ㄐ一　（變）一ˊ　ㄘㄨˋ　ㄎㄜˇ　ㄐ一",
+                "pinyin": "yī cù kě jī　（變）yí cù kě jī",
+                "definitions": [
+                    {
+                        "defn": "比喻非常容易成功。例:她能有今天的成就，並非一蹴可幾，而是多年努力的結果。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一絲",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙ　（變）一ˋ　ㄙ",
+                "pinyin": "yi sī　（變）yì sī",
+                "definitions": [
+                    {
+                        "defn": "形容數量極少。例:一絲不苟、一絲一毫"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一絲不苟",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙ　ㄅㄨˋ　ㄍㄡˇ　（變）一ˋ　ㄙ　ㄅㄨˋ　ㄍㄡˇ",
+                "pinyin": "yī sī bù gǒu　（變）yì sī bù gǒu",
+                "definitions": [
+                    {
+                        "defn": "做事認真，一點也不馬虎。例:他做事一絲不苟，深得老闆的器重。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一絲不掛",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙ　ㄅㄨˋ　ㄍㄨㄚˋ　（變）一ˋ　ㄙ　ㄅㄨˊ　ㄍㄨㄚˋ",
+                "pinyin": "yī sī bù guà　（變）yì sī bú guà",
+                "definitions": [
+                    {
+                        "defn": "身上一件衣服都沒穿。例:小弟弟洗完澡後，常一絲不掛的在家裡跑來跑去。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一絲絲",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙ　ㄙ　（變）一ˋ　ㄙ　ㄙ",
+                "pinyin": "yī sī sī　（變）yì sī sī",
+                "definitions": [
+                    {
+                        "defn": "形容一點點，極少。例:只要還存有一絲絲的希望，就絕不放棄。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一絲一毫",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙ　一　ㄏㄠˊ　（變）一ˋ　ㄙ　一ˋ　ㄏㄠˊ",
+                "pinyin": "yī sī yī háo　（變）yì sī yì háo",
+                "definitions": [
+                    {
+                        "defn": "形容極其細微。例:他為人謹慎，東西託交給他，一絲一毫都不會少的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一掃而光",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄙㄠˇ　ㄦˊ　ㄍㄨㄤ　（變）一ˋ　ㄙㄠˇ　ㄦˊ　ㄍㄨㄤ",
+                "pinyin": "yī sǎo ér guāng　（變）yì sǎo ér guāng",
+                "definitions": [
+                    {
+                        "defn": "全部清除乾淨。例:他餓得把桌上的食物一掃而光。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一一",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一",
+                "pinyin": "yī yī",
+                "definitions": [
+                    {
+                        "defn": "逐一、一個接一個。例:父母叮囑的話，他一一牢記在心。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一意孤行",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ˋ　ㄍㄨ　ㄒ一ㄥˊ　（變）一ˊ　一ˋ　ㄍㄨ　ㄒ一ㄥˊ",
+                "pinyin": "yī yì gū xíng　（變）yí yì gū xíng",
+                "definitions": [
+                    {
+                        "defn": "謝絕一切請託，按照自己的意見獨立處理公事。後用以指不接受勸告，固執己見，獨斷獨行。語本《史記．卷一二二．酷吏傳．趙禹傳》。例:做事要廣採各方意見，一意孤行只會壞事。"
+                    }
+                ],
+                "antonyms": "從善如流"
+            }
+        ]
+    },
+    {
+        "title": "一葉知秋",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄝˋ　ㄓ　ㄑ一ㄡ　（變）一ˊ　一ㄝˋ　ㄓ　ㄑ一ㄡ",
+                "pinyin": "yī yè zhī qiū　（變）yí yè zhī qiū",
+                "definitions": [
+                    {
+                        "defn": "看見一片落葉便知道秋天已經到了。比喻由局部的、細小的徵兆，就可以推知事物的演變和趨勢。語本《淮南子．說山》。例:前人說一葉知秋，眼看局勢不對，還是趁早打算的好！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言不發",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄅㄨˋ　ㄈㄚ　（變）一ˋ　一ㄢˊ　ㄅㄨˋ　ㄈㄚ",
+                "pinyin": "yī yán bù fā　（變）yì yán bù fā",
+                "definitions": [
+                    {
+                        "defn": "一句話也不說。例:他心情不佳，一言不發的坐在一旁生悶氣。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言不合",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄅㄨˋ　ㄏㄜˊ　（變）一ˋ　一ㄢˊ　ㄅㄨˋ　ㄏㄜˊ",
+                "pinyin": "yī yán bù hé　（變）yì yán bù hé",
+                "definitions": [
+                    {
+                        "defn": "兩人談話，有一句話不能投機。例:他們二人聊著聊著，突然一言不合，吵了起來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言難盡",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄋㄢˊ　ㄐ一ㄣˋ　（變）一ˋ　一ㄢˊ　ㄋㄢˊ　ㄐ一ㄣ",
+                "pinyin": "yī yán nán jìn　（變）yì yán nán jīn",
+                "definitions": [
+                    {
+                        "defn": "事情非常複雜，無法用簡單的話把它說得清楚。例:他創業過程所遭受的艱難，真是一言難盡。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言既出，駟馬難追",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄐ一ˋ　ㄔㄨ　ㄙˋ　ㄇㄚˇ　ㄋㄢˊ　ㄓㄨㄟ　（變）一ˋ　一ㄢˊ　ㄐ一ˋ　ㄔㄨ　ㄙˋ　ㄇㄚˇ　ㄋㄢˊ　ㄓㄨㄟ",
+                "pinyin": "yī yán jì chū sì mǎ nán zhuī　（變）yì yán jì chū sì mǎ nán zhuī",
+                "definitions": [
+                    {
+                        "defn": "(諺語)一句話說出口，就是四匹馬拉的車也追不上。比喻話已說出口，難再收回。例:大丈夫一言既出，駟馬難追，豈有反悔的道理。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言九鼎",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄐ一ㄡˇ　ㄉ一ㄥˇ　（變）一ˋ　一ㄢˊ　ㄐ一ㄡˇ　ㄉ一ㄥˇ",
+                "pinyin": "yī yán jiǔ dǐng　（變）yì yán jiǔ dǐng",
+                "definitions": [
+                    {
+                        "defn": "形容說話很有分量。例:他在商界一言九鼎，所以大家有什麼困難都找他幫忙。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言以蔽之",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　一ˇ　ㄅ一ˋ　ㄓ　（變）一ˋ　一ㄢˊ　一ˇ　ㄅ一ˋ　ㄓ",
+                "pinyin": "yī yán yǐ bì zhī　（變）yì yán yǐ bì zhī",
+                "definitions": [
+                    {
+                        "defn": "用一句話來概括它。例:大家七舌八嘴討論了老半天，一言以蔽之，無非是希望公司更進步。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一言為定",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄢˊ　ㄨㄟˊ　ㄉ一ㄥˋ　（變）一ˋ　一ㄢˊ　ㄨㄟˊ　ㄉ一ㄥˋ",
+                "pinyin": "yī yán wéi dìng　（變）yì yán wéi dìng",
+                "definitions": [
+                    {
+                        "defn": "比喻事情既然已經談妥，便信守諾言，不再改變。例:我們就此一言為定，誰也不能耍賴。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一飲而盡",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄣˇ　ㄦˊ　ㄐ一ㄣˋ　（變）一ˋ　一ㄣˇ　ㄦˊ　ㄐ一ㄣˋ",
+                "pinyin": "yī yǐn ér jìn　（變）yì yǐn ér jìn",
+                "definitions": [
+                    {
+                        "defn": "一口氣喝完。例:他渴得把整杯水一飲而盡。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一氧化碳",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄤˇ　ㄏㄨㄚˋ　ㄊㄢˋ",
+                "pinyin": "yī yǎng huà tàn",
+                "definitions": [
+                    {
+                        "defn": "一種無色無臭的氣體，毒性極強，比空氣輕，燃燒時發出淡藍色火焰，並放出大量的熱。可以用做燃料，也是化工原料。例:許多在火災中罹難的人，都是因為吸入過量的一氧化碳而致死的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一樣",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄤˋ　（變）一ˊ　一ㄤˋ",
+                "pinyin": "yī yàng　（變）yí yàng",
+                "definitions": [
+                    {
+                        "defn": "1.相同、相似。例:一模一樣\n2.一種。例:他準備了一樣禮物，要送給媽媽。\n3.一般。例:發生這麼嚴重的事，他竟然還像個沒事人一樣，安如泰山。\n"
+                    }
+                ],
+                "synonyms": "1.相同　 3.一般",
+                "antonyms": "1.不同"
+            }
+        ]
+    },
+    {
+        "title": "一應俱全",
+        "heteronyms": [
+            {
+                "bopomofo": "一　一ㄥ　ㄐㄩˋ　ㄑㄩㄢˊ　（變）一ˋ　一ㄥ　ㄐㄩˋ　ㄑㄩㄢˊ",
+                "pinyin": "yī yīng jù quán　（變）yì yīng jù quán",
+                "definitions": [
+                    {
+                        "defn": "應有的一切都很齊全。例:這間家具店很有規模，各式各樣的家具一應俱全。"
+                    }
+                ],
+                "synonyms": "應有盡有"
+            }
+        ]
+    },
+    {
+        "title": "一無是處",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨˊ　ㄕˋ　ㄔㄨˋ　（變）一ˋ　ㄨˊ　ㄕˋ　ㄔㄨˋ",
+                "pinyin": "yī wú shì chù　（變）yì wú shì chù",
+                "definitions": [
+                    {
+                        "defn": "沒有一點正確或值得肯定的地方。例:他並非一無是處，我們不可以看輕他。"
+                    }
+                ],
+                "antonyms": "盡善盡美、十全十美"
+            }
+        ]
+    },
+    {
+        "title": "一無所知",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨˊ　ㄙㄨㄛˇ　ㄓ　（變）一ˋ　ㄨˊ　ㄙㄨㄛˇ　ㄓ",
+                "pinyin": "yī wú suǒ zhī　（變）yì wú suǒ zhī",
+                "definitions": [
+                    {
+                        "defn": "什麼也不知道。例:他對這件事一無所知，問他也是白問。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一無所有",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨˊ　ㄙㄨㄛˇ　一ㄡˇ　（變）一ˋ　ㄨˊ　ㄙㄨㄛˇ　一ㄡˇ",
+                "pinyin": "yī wú suǒ yǒu　（變）yì wú suǒ yǒu",
+                "definitions": [
+                    {
+                        "defn": "什麼都沒有。例:雖然他現在一無所有，但是，我相信他以後一定會大有作為。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一五一十",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨˇ　一　ㄕˊ　（變）一ˋ　ㄨˇ　一ˋ　ㄕˊ",
+                "pinyin": "yī wǔ yī shí　（變）yì wǔ yì shí",
+                "definitions": [
+                    {
+                        "defn": "比喻敘述詳細，沒有遺漏。例:竊犯將偷竊的經過，一五一十的向警方和盤托出。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一窩蜂",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄛ　ㄈㄥ　（變）一ˋ　ㄨㄛ　ㄈㄥ",
+                "pinyin": "yī wō fēng　（變）yì wō fēng",
+                "definitions": [
+                    {
+                        "defn": "1.形容人很多，如群蜂般一擁而上。例:影迷們看見自己的偶像出現，便一窩蜂的上前要求簽名。\n2.比喻盲目的跟從時尚。例:不論是否適合自己，一窩蜂的跟隨流行，是非常不智的作法。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一味",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄟˋ　（變）一ˊ　ㄨㄟˋ",
+                "pinyin": "yī wèi　（變）yí wèi",
+                "definitions": [
+                    {
+                        "defn": "1.單純的。例:人與人之間應作良性溝通，而不是一味的遷就忍讓。\n2.只有一種菜餚。例:他的早餐很簡單，只有稀飯配一味醬菜就解決了。\n3.中醫上稱藥一種為「一味」。例:一味藥材\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一文不值",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄣˊ　ㄅㄨˋ　ㄓˊ　（變）一ˋ　ㄨㄣˊ　ㄅㄨˋ　ㄓˊ",
+                "pinyin": "yī wén bù zhí　（變）yì wén bù zhí",
+                "definitions": [
+                    {
+                        "defn": "比喻毫無價值。例:這些東西在別人眼中雖一文不值，對他來說，卻是無價之寶。"
+                    }
+                ],
+                "antonyms": "價值連城"
+            }
+        ]
+    },
+    {
+        "title": "一問三不知",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄣˋ　ㄙㄢ　ㄅㄨˋ　ㄓ　（變）一ˊ　ㄨㄣˋ　ㄙㄢ　ㄅㄨˋ　ㄓ",
+                "pinyin": "yī wèn sān bù zhī　（變）yí wèn sān bù zhī",
+                "definitions": [
+                    {
+                        "defn": "1.從頭至尾全部都不知道。語本《左傳．哀公二十七年》。例:事情發生時他並不在場，實情如何，他當然一問三不知。\n2.假裝不知道而故意不回答。例:他打算只要有人問起這件事，就來個一問三不知，推個乾淨。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一網打盡",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄤˇ　ㄉㄚˇ　ㄐ一ㄣˋ　（變）一ˋ　ㄨㄤˇ　ㄉㄚˇ　ㄐ一ㄣˋ",
+                "pinyin": "yī wǎng dǎ jìn　（變）yì wǎng dǎ jìn",
+                "definitions": [
+                    {
+                        "defn": "比喻澈底消滅。例:警方出動大批人力，希望能將歹徒一網打盡。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一往情深",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄤˇ　ㄑ一ㄥˊ　ㄕㄣ　（變）一ˋ　ㄨㄤˇ　ㄑ一ㄥˊ　ㄕㄣ",
+                "pinyin": "yī wǎng qíng shēn　（變）yì wǎng qíng shēn",
+                "definitions": [
+                    {
+                        "defn": "形容人的情感深厚、真摯，一旦投入，始終不變。語本南朝宋．劉義慶《世說新語．任誕》。例:他對老婆一往情深，看了真令人羨慕。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一望無際",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄤˋ　ㄨˊ　ㄐ一ˋ　（變）一ˊ　ㄨㄤˋ　ㄨˊ　ㄐ一ˋ",
+                "pinyin": "yī wàng wú jì　（變）yí wàng wú jì",
+                "definitions": [
+                    {
+                        "defn": "一眼望去看不著邊際。形容寬廣、遼闊。例:登上樓頂，是一望無際的藍天白雲，頓時感覺神清氣爽。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一望無垠",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄨㄤˋ　ㄨˊ　一ㄣˊ　（變）一ˊ　ㄨㄤˋ　ㄨˊ　一ㄣˊ",
+                "pinyin": "yī wàng wú yín　（變）yí wàng wú yín",
+                "definitions": [
+                    {
+                        "defn": "一眼望去看不到邊際。形容寬廣、遼闊。例:他喜歡騎著馬，奔馳在一望無垠的草原上。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一隅",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄩˊ　（變）一ˋ　ㄩˊ",
+                "pinyin": "yī yú　（變）yì yú",
+                "definitions": [
+                    {
+                        "defn": "一個角落。例:他獨自躲在一隅發呆。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一語道破",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄩˇ　ㄉㄠˋ　ㄆㄛˋ　（變）一ˋ　ㄩˇ　ㄉㄠˋ　ㄆㄛˋ",
+                "pinyin": "yī yǔ dào pò　（變）yì yǔ dào pò",
+                "definitions": [
+                    {
+                        "defn": "一句話就能說中事情的要點或真相。例:他像是會看透人般，一語道破了我的心事。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一語中的",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄩˇ　ㄓㄨㄥˋ　ㄉ一ˋ　（變）一ˋ　ㄩˇ　ㄓㄨㄥˋ　ㄉ一ˋ",
+                "pinyin": "yī yǔ zhòng dì　（變）yì yǔ zhòng dì",
+                "definitions": [
+                    {
+                        "defn": "一句話就說中事情的重點。例:你這一句話果真是一語中的，把問題重心都點出來了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一躍而起",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄩㄝˋ　ㄦˊ　ㄑ一ˇ　（變）一ˊ　ㄩㄝˋ　ㄦˊ　ㄑ一ˇ",
+                "pinyin": "yī yuè ér qǐ　（變）yí yuè ér qǐ",
+                "definitions": [
+                    {
+                        "defn": "一下子就跳起來。例:聽到急促的電鈴聲，他馬上一躍而起，跑去開門。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "一元復始",
+        "heteronyms": [
+            {
+                "bopomofo": "一　ㄩㄢˊ　ㄈㄨˋ　ㄕˇ　（變）一ˋ　ㄩㄢˊ　ㄈㄨˋ　ㄕˇ",
+                "pinyin": "yī yuán fù shǐ　（變）yì yuán fù shǐ",
+                "definitions": [
+                    {
+                        "defn": "天地之氣在新的一年又回到起點重新運轉。借指新的一年開始。語本《公羊傳．隱公元年》。例:一元復始，萬象更新。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "乙",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˇ",
+                "pinyin": "yǐ",
+                "definitions": [
+                    {
+                        "defn": "1.天干的第二位。例:民國八十四年歲次乙亥。\n2.人、物的代稱。例:某乙、乙地\n3.次序或等級屬於第二的。例:乙班、乙等、乙級\n4.一。例:包裹乙件\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "乙",
+        "non_radical_stroke_count": 0,
+        "stroke_count": 1
+    }
+]
