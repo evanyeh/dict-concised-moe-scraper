@@ -1,0 +1,327 @@
+[
+    {
+        "title": "灤",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "→灤河"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 23,
+        "stroke_count": 26
+    },
+    {
+        "title": "灤河",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ　ㄏㄜˊ",
+                "pinyin": "luán hé",
+                "definitions": [
+                    {
+                        "defn": "源出於察哈爾省沽源縣北的河川。經熱河東南流入河北，合青龍河注入渤海。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "矚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˇ",
+                "pinyin": "zhǔ",
+                "definitions": [
+                    {
+                        "defn": "注視。例:凝矚、高瞻遠矚"
+                    }
+                ]
+            }
+        ],
+        "radical": "目",
+        "non_radical_stroke_count": 21,
+        "stroke_count": 26
+    },
+    {
+        "title": "矚目",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˇ　ㄇㄨˋ",
+                "pinyin": "zhǔ mù",
+                "definitions": [
+                    {
+                        "defn": "注視。例:他才一出道，便成為眾所矚目的對象。"
+                    }
+                ],
+                "synonyms": "注目"
+            }
+        ]
+    },
+    {
+        "title": "矚望",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˇ　ㄨㄤˋ",
+                "pinyin": "zhǔ wàng",
+                "definitions": [
+                    {
+                        "defn": "期望。例:每個父母莫不矚望自己的子女將來能成就一番事業。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "蠼",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐㄩㄝˊ",
+                "pinyin": "jué",
+                "definitions": [
+                    {
+                        "defn": "1.母猴。\n2.一種大猴子，又泛指一般的猴子。\n3.龍的形貌。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "虫",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 26
+    },
+    {
+        "title": "讚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ",
+                "pinyin": "zàn",
+                "definitions": [
+                    {
+                        "defn": "1.稱美、頌揚。例:讚美、讚不絕口\n2.一種用來稱頌人物功德事蹟的文體。通「贊」。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "言",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 26
+    },
+    {
+        "title": "讚不絕口",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄅㄨˋ　ㄐㄩㄝˊ　ㄎㄡˇ",
+                "pinyin": "zàn bù jué kǒu",
+                "definitions": [
+                    {
+                        "defn": "口中不停的稱讚。例:客人們對媽媽烹調的菜餚讚不絕口。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讚佩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄆㄟˋ",
+                "pinyin": "zàn pèi",
+                "definitions": [
+                    {
+                        "defn": "讚揚且欽佩。例:他捨己救人的精神令人讚佩。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讚美",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄇㄟˇ",
+                "pinyin": "zàn měi",
+                "definitions": [
+                    {
+                        "defn": "稱揚別人的長處或美德。例:老師在全班同學的面前，讚美小明拾金不昧的誠實行為。"
+                    }
+                ],
+                "synonyms": "誇獎、稱讚",
+                "antonyms": "批評、詆毀、唾罵、嘲笑、責備、責怪、毀謗"
+            }
+        ]
+    },
+    {
+        "title": "讚嘆",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄊㄢˋ",
+                "pinyin": "zàn tàn",
+                "definitions": [
+                    {
+                        "defn": "讚美、驚嘆。例:面對尼加拉瀑布的壯麗景觀，我不禁讚嘆大自然的奧妙神奇。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讚許",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄒㄩˇ",
+                "pinyin": "zàn xǔ",
+                "definitions": [
+                    {
+                        "defn": "讚美、嘉許。例:這次作文比賽的成果輝煌，老師特別表示讚許。"
+                    }
+                ],
+                "antonyms": "斥責"
+            }
+        ]
+    },
+    {
+        "title": "讚賞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄕㄤˇ",
+                "pinyin": "zàn shǎng",
+                "definitions": [
+                    {
+                        "defn": "欣賞、讚美。例:這件作品，獲得大部分評審委員的讚賞，而得到比賽的第一名。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讚頌",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄙㄨㄥˋ",
+                "pinyin": "zàn sòng",
+                "definitions": [
+                    {
+                        "defn": "讚揚、稱頌。例:他捨己救人的高尚情操，為人們讚頌不已。"
+                    }
+                ],
+                "synonyms": "謳歌"
+            }
+        ]
+    },
+    {
+        "title": "讚揚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　一ㄤˊ",
+                "pinyin": "zàn yáng",
+                "definitions": [
+                    {
+                        "defn": "讚美、宣揚他人的行為或長處。例:校長讚揚孝行楷模的孝順行止，並希望全校師生能起而效倣。"
+                    }
+                ],
+                "synonyms": "稱道、稱讚、稱頌、稱譽",
+                "antonyms": "貶抑、批評、詆毀、毀謗"
+            }
+        ]
+    },
+    {
+        "title": "讚譽",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄢˋ　ㄩˋ",
+                "pinyin": "zàn yù",
+                "definitions": [
+                    {
+                        "defn": "讚美稱譽。例:這件宋代玉器雕刻令與會的鑑賞專家讚譽不絕。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑷",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋ一ㄝˋ",
+                "pinyin": "niè",
+                "definitions": [
+                    {
+                        "defn": "1.拔除毛髮或夾取細小東西的鉗子。例:媽媽用小鐵鑷拔除雞皮上的細毛。　△鑷子\n2.用鑷子夾取東西或拔取毛髮。例:物理老師將砝碼鑷到天秤上，向同學示範計算重量的方法。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 26
+    },
+    {
+        "title": "驢",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄩˊ",
+                "pinyin": "lǘ",
+                "definitions": [
+                    {
+                        "defn": "1.動物名。哺乳綱奇蹄目馬科。外形像馬而體形較小，耳朵較長，毛多為灰褐色，尾部像牛尾。性溫馴，能負物及供坐騎。例:小毛驢　△驢子\n2.形容笨拙、拙、土氣、愚蠢。例:你別瞧他一付驢樣兒，私底下可精明得很呢！\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 26
+    },
+    {
+        "title": "驢子",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄩˊ　˙ㄗ",
+                "pinyin": "lǘ zi",
+                "definitions": [
+                    {
+                        "defn": "1.→驢\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驥",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ˋ",
+                "pinyin": "jì",
+                "definitions": [
+                    {
+                        "defn": "1.千里馬。例:良驥、騏驥\n2.比喻傑出的人才。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 26
+    },
+    {
+        "title": "鬮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄡ",
+                "pinyin": "jiū",
+                "definitions": [
+                    {
+                        "defn": "供抓取以決定勝負、可否的一種器具。例:抓鬮、拈鬮　△鬮兒"
+                    }
+                ]
+            }
+        ],
+        "radical": "鬥",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 26
+    }
+]

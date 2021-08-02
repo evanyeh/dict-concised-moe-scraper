@@ -1,0 +1,19 @@
+[
+    {
+        "title": "灩",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ",
+                "pinyin": "yàn",
+                "definitions": [
+                    {
+                        "defn": "→瀲灩"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 28,
+        "stroke_count": 31
+    }
+]

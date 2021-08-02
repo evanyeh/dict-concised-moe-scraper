@@ -1,0 +1,905 @@
+[
+    {
+        "title": "廳",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ",
+                "pinyin": "tīng",
+                "definitions": [
+                    {
+                        "defn": "1.屋內的正堂。例:大廳、正廳\n2.可容納多人的房間、場所。例:餐廳、理髮廳、音樂廳\n3.政府機構之一。例:教育廳、農林廳、建設廳\n4.清代府下所設與州、縣同級的地方行政單位。如清代在臺灣設有淡水廳、噶瑪蘭廳等。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "广",
+        "non_radical_stroke_count": 22,
+        "stroke_count": 25
+    },
+    {
+        "title": "廳堂",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄊㄤˊ",
+                "pinyin": "tīng táng",
+                "definitions": [
+                    {
+                        "defn": "大廳。例:除夕夜，大家都聚在廳堂裡守夜。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "廳舍",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄕㄜˋ",
+                "pinyin": "tīng shè",
+                "definitions": [
+                    {
+                        "defn": "日治時代的機關建築。例:這排木造廳舍是日治時代遺留下來的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "欖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ",
+                "pinyin": "lǎn",
+                "definitions": [
+                    {
+                        "defn": "→橄欖"
+                    }
+                ]
+            }
+        ],
+        "radical": "木",
+        "non_radical_stroke_count": 21,
+        "stroke_count": 25
+    },
+    {
+        "title": "欖仁樹",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ　ㄖㄣˊ　ㄕㄨˋ",
+                "pinyin": "lǎn rén shù",
+                "definitions": [
+                    {
+                        "defn": "植物名。使君子科欖仁樹屬，落葉大喬木。老樹根株生有板根，葉具短柄，呈倒卵形，叢生，秋季葉落前常變為紫紅色。核果扁橢圓形，果皮富於纖維，種子富含油分。例:某些熱帶地區種植欖仁樹以作為行道樹。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灣",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ",
+                "pinyin": "wān",
+                "definitions": [
+                    {
+                        "defn": "1.水流彎曲的地方。例:河灣、海灣、水灣\n2.海岸深曲可以停泊船隻的地方。例:港灣、渤海灣、廣州灣\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 22,
+        "stroke_count": 25
+    },
+    {
+        "title": "籩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄅ一ㄢ",
+                "pinyin": "biān",
+                "definitions": [
+                    {
+                        "defn": "古代祭祀或宴會上用來盛果實、肉乾等的竹編器具。例:籩豆"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "籬",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ",
+                "pinyin": "lí",
+                "definitions": [
+                    {
+                        "defn": "用竹子或樹枝編成的柵欄。例:籬笆、圍籬、竹籬"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "籬笆",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ　ㄅㄚ",
+                "pinyin": "lí bā",
+                "definitions": [
+                    {
+                        "defn": "用竹條或木條編成的柵欄。例:爸爸在籬笆旁種了許多花草，使院落顯得更雅緻。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "籮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ",
+                "pinyin": "luó",
+                "definitions": [
+                    {
+                        "defn": "方底圓口的盛物竹器。例:籮筐"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "籮筐",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ　ㄎㄨㄤ",
+                "pinyin": "luó kuāng",
+                "definitions": [
+                    {
+                        "defn": "用竹篾或藤條編製成的盛物器具。例:今年豐收，農民籮筐滿載，個個露出快樂的笑容。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "糶",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄠˋ",
+                "pinyin": "tiào",
+                "definitions": [
+                    {
+                        "defn": "出售穀物。與「糴」相對。例:農家好，農家好，糶穀糴米農事了。"
+                    }
+                ]
+            }
+        ],
+        "radical": "米",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "臠",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "1.肉塊。例:臠分、臠割\n2.→禁臠\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "肉",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "蠻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ",
+                "pinyin": "mán",
+                "definitions": [
+                    {
+                        "defn": "1.古代對南方種族的稱呼。例:蠻族、南蠻\n2.強橫、粗野、不通情理。例:蠻橫、蠻幹、蠻不講理\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "虫",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 25
+    },
+    {
+        "title": "蠻幹",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ　ㄍㄢˋ",
+                "pinyin": "mán gàn",
+                "definitions": [
+                    {
+                        "defn": "不顧一切的去做。例:這件事必須要從長計議，蠻幹只會壞事。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "蠻橫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ　ㄏㄥˋ",
+                "pinyin": "mán hèng",
+                "definitions": [
+                    {
+                        "defn": "不講道理。例:他的態度非常蠻橫，使得協調的工作無法繼續進行。"
+                    }
+                ],
+                "synonyms": "霸道",
+                "antonyms": "和善、和藹、講理"
+            }
+        ]
+    },
+    {
+        "title": "蠻荒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ　ㄏㄨㄤ",
+                "pinyin": "mán huāng",
+                "definitions": [
+                    {
+                        "defn": "偏遠、未開化的地方。例:他喜好挑戰性的生活，因此常隻身前往蠻荒地區探險。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "蠻夷",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ　一ˊ",
+                "pinyin": "mán yí",
+                "definitions": [
+                    {
+                        "defn": "漢族對外族四夷的稱呼。例:中國古代對蠻夷的稱呼常與動物有關。　△戎狄、夷狄"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀",
+        "heteronyms": [
+            {
+                "bopomofo": "(一)ㄍㄨㄢ",
+                "pinyin": "(一)guān",
+                "definitions": [
+                    {
+                        "defn": "1.察看、審視。例:觀看、觀察、觀測\n2.欣賞。例:觀光、觀賞、參觀\n3.景像、情景。例:奇觀、壯觀、外觀\n4.看法。例:客觀、主觀、人生觀\n"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(二)ㄍㄨㄢˋ",
+                "pinyin": "(二)guàn",
+                "definitions": [
+                    {
+                        "defn": "1.道教的廟宇。例:道觀\n2.六十四卦之一。坤（）下巽（）上。象先王教化風行於世之意。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "見",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 25
+    },
+    {
+        "title": "觀摩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄇㄛˊ",
+                "pinyin": "guān mó",
+                "definitions": [
+                    {
+                        "defn": "觀察別人的優點，加以揣摩、學習。例:藉由這次兩校的交流活動，大家可以互相觀摩學習。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀點",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄉ一ㄢˇ",
+                "pinyin": "guān diǎn",
+                "definitions": [
+                    {
+                        "defn": "研究分析或批評問題、事項等所依據的立場。例:關於這個議題，由於雙方的觀點差距太大，始終無法達成共識。"
+                    }
+                ],
+                "synonyms": "看法"
+            }
+        ]
+    },
+    {
+        "title": "觀念",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄋ一ㄢˋ",
+                "pinyin": "guān niàn",
+                "definitions": [
+                    {
+                        "defn": "因文化背景或生活經驗而形成對人事物等的認知與看法。例:我倆的觀念相去甚遠，實在很難認同你的看法。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀禮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄌ一ˇ",
+                "pinyin": "guān lǐ",
+                "definitions": [
+                    {
+                        "defn": "觀看典禮的進行。例:今年的國慶大典，很多海外僑胞應邀回國觀禮。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀感",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄍㄢˇ",
+                "pinyin": "guān gǎn",
+                "definitions": [
+                    {
+                        "defn": "觀察人事物後所引發的感想。例:老師請同學們發表對此次民意代表選舉的觀感。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀光",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄍㄨㄤ",
+                "pinyin": "guān guāng",
+                "definitions": [
+                    {
+                        "defn": "遊覽觀賞外國或外地的風土人情、文物建設等。例:每年春假，他都會出國觀光。"
+                    }
+                ],
+                "synonyms": "遊覽"
+            }
+        ]
+    },
+    {
+        "title": "觀光客",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄍㄨㄤ　ㄎㄜˋ",
+                "pinyin": "guān guāng kè",
+                "definitions": [
+                    {
+                        "defn": "到他處遊覽參觀的人。例:此處風景優美，一年四季都有觀光客前來遊賞。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀光事業",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄍㄨㄤ　ㄕˋ　一ㄝˋ",
+                "pinyin": "guān guāng shì yè",
+                "definitions": [
+                    {
+                        "defn": "規劃一國的名勝古蹟，以供人參觀遊覽，並配合完善的交通、餐廳、旅館等設施，以服務為主的事業。例:瑞士因為風景優美，吸引許多遊客，觀光事業很發達。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀看",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄎㄢˋ",
+                "pinyin": "guān kàn",
+                "definitions": [
+                    {
+                        "defn": "觀賞察看。例:他喜歡到球場觀看比賽，感受現場緊張刺激的氣氛。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀護",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄏㄨˋ",
+                "pinyin": "guān hù",
+                "definitions": [
+                    {
+                        "defn": "法律上指觀察和保護，並加以輔導與約束。例:少年觀護"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀護人",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄏㄨˋ　ㄖㄣˊ",
+                "pinyin": "guān hù rén",
+                "definitions": [
+                    {
+                        "defn": "觀察保護觸法的少年人的專業人員。主要任務是調查蒐集關於少年管訓事件的資料，以及掌理保護管束的事項。例:他擔任觀護人多年，對觸法受管訓少年的輔導矯正，貢獻良多。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀照",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄓㄠˋ",
+                "pinyin": "guān zhào",
+                "definitions": [
+                    {
+                        "defn": "以省思的態度深刻檢驗人生。例:文藝家多以觀照的態度品味人生，從事創作。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀瞻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄓㄢ",
+                "pinyin": "guān zhān",
+                "definitions": [
+                    {
+                        "defn": "1.觀賞、觀看。例:小鎮建築雅致，風情無限，旅客無不駐足觀瞻，流連忘返。\n2.外觀和外觀給人的印象。例:亂丟垃圾有礙觀瞻，影響市容。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀眾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄓㄨㄥˋ",
+                "pinyin": "guān zhòng",
+                "definitions": [
+                    {
+                        "defn": "觀看影視、表演、比賽、或展示的人。例:這兩支球隊由於實力相當，所以決賽時吸引了大批的觀眾入場觀賞。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀察",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄔㄚˊ",
+                "pinyin": "guān chá",
+                "definitions": [
+                    {
+                        "defn": "仔細察看。例:那個小男孩蹲在牆腳，好奇地觀察螞蟻的活動。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀察員",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄔㄚˊ　ㄩㄢˊ",
+                "pinyin": "guān chá yuán",
+                "definitions": [
+                    {
+                        "defn": "由國家派遣列席國際會議的代表。例:依照國際慣例，觀察員只有發言權而無表決權。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀賞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄕㄤˇ",
+                "pinyin": "guān shǎng",
+                "definitions": [
+                    {
+                        "defn": "觀看欣賞。例:晚會的節目非常精彩，歡迎大家前往觀賞。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀賞魚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄕㄤˇ　ㄩˊ",
+                "pinyin": "guān shǎng yú",
+                "definitions": [
+                    {
+                        "defn": "專門培育供作觀賞的魚類，外形奇特，顏色美麗。可分為淡水魚及海水魚，如金魚、錦鯉等。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀測",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄘㄜˋ",
+                "pinyin": "guān cè",
+                "definitions": [
+                    {
+                        "defn": "對事物的觀察與測量。例:氣象觀測、星象觀測、地形觀測"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀音菩薩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　一ㄣ　ㄆㄨˊ　ㄙㄚˋ",
+                "pinyin": "guān yīn pú sà",
+                "definitions": [
+                    {
+                        "defn": "阿彌陀佛的左脅侍，西方三聖之一，是慈悲的象徵。例:這座寺廟供奉觀音菩薩，每天都有許多善男信女前來燒香膜拜。　△觀世音菩薩"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觀望",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢ　ㄨㄤˋ",
+                "pinyin": "guān wàng",
+                "definitions": [
+                    {
+                        "defn": "靜觀事情的發展變化，再做決定。例:由於今年房地產市場不景氣，許多投資者決定再觀望一陣子。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "觿",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一",
+                "pinyin": "xī",
+                "definitions": [
+                    {
+                        "defn": "用獸骨製成的錐子。可解開繩結，亦可作為佩飾。例:配觿"
+                    }
+                ]
+            }
+        ],
+        "radical": "角",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 25
+    },
+    {
+        "title": "躡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋ一ㄝˋ",
+                "pinyin": "niè",
+                "definitions": [
+                    {
+                        "defn": "1.放輕腳步行走。例:躡足、躡手躡腳\n2.追隨、跟蹤。例:躡蹤\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "足",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 25
+    },
+    {
+        "title": "躡手躡腳",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋ一ㄝˋ　ㄕㄡˇ　ㄋ一ㄝˋ　ㄐ一ㄠˇ",
+                "pinyin": "niè shǒu niè jiǎo",
+                "definitions": [
+                    {
+                        "defn": "放輕手腳走路、行動小心而不敢聲張的樣子。例:他回家後躡手躡腳的進到房間，以免吵醒已經入睡的父母。"
+                    }
+                ],
+                "antonyms": "大模大樣、大搖大擺"
+            }
+        ]
+    },
+    {
+        "title": "躡足",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋ一ㄝˋ　ㄗㄨˊ",
+                "pinyin": "niè zú",
+                "definitions": [
+                    {
+                        "defn": "1.踩別人的腳，表示參與或有所示意。例:躡足其間、躡足附耳\n2.以腳尖著地，輕輕的走。例:他躡足而過，深恐吵醒了熟睡的爺爺。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "釁",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄣˋ",
+                "pinyin": "xìn",
+                "definitions": [
+                    {
+                        "defn": "1.古人用牲畜的血塗在新造器物的縫隙所舉行的祭祀儀式。例:釁鐘、釁鼓\n2.嫌隙、爭端。例:尋釁、挑釁、啟釁\n3.徵兆。例:傾覆之釁\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "酉",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 25
+    },
+    {
+        "title": "鑰",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄠˋ",
+                "pinyin": "yào",
+                "definitions": [
+                    {
+                        "defn": "鑰匙，開鎖的器具。"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 25
+    },
+    {
+        "title": "鑰匙",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄠˋ　˙ㄕ",
+                "pinyin": "yào shi",
+                "definitions": [
+                    {
+                        "defn": "開鎖的器物。例:小明出門時忘記帶鑰匙，只好站在門外等媽媽回來。　△鎖匙"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄢˊ",
+                "pinyin": "chán",
+                "definitions": [
+                    {
+                        "defn": "古代一種掘土的鐵器。亦泛稱針、錐等銳利的鐵器。例:鐵鑱、長鑱"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 25
+    },
+    {
+        "title": "鑲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄤ",
+                "pinyin": "xiāng",
+                "definitions": [
+                    {
+                        "defn": "把東西嵌入、配置在另一物體的中間或邊緣。例:鑲牙、鑲邊、鑲框"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 25
+    },
+    {
+        "title": "鑲嵌",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄤ　ㄑ一ㄢ",
+                "pinyin": "xiāng qiān",
+                "definitions": [
+                    {
+                        "defn": "把某樣東西嵌入另一物體中。例:傳統螺鈿家具，是用貝殼鑲嵌而成。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˊ",
+                "pinyin": "lú",
+                "definitions": [
+                    {
+                        "defn": "頭骨。亦泛指頭部。例:頭顱、顱內出血"
+                    }
+                ]
+            }
+        ],
+        "radical": "頁",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 25
+    },
+    {
+        "title": "顱骨",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˊ　ㄍㄨˇ",
+                "pinyin": "lú gǔ",
+                "definitions": [
+                    {
+                        "defn": "構成頭顱的骨頭。包括額骨、頂骨、枕骨等，主要功用為保護腦部。例:他在一次嚴重車禍中，顱骨破裂，腦部受損，嚴重影響語言能力。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "饞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄢˊ",
+                "pinyin": "chán",
+                "definitions": [
+                    {
+                        "defn": "貪吃。例:饞相、嘴饞"
+                    }
+                ]
+            }
+        ],
+        "radical": "食",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 25
+    },
+    {
+        "title": "饞涎欲滴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄢˊ　ㄒ一ㄢˊ　ㄩˋ　ㄉ一",
+                "pinyin": "chán xián yù dī",
+                "definitions": [
+                    {
+                        "defn": "形容貪食的樣子。例:他一聞到酒菜的香味，就饞涎欲滴，想大吃一頓。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "髖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄎㄨㄢ",
+                "pinyin": "kuān",
+                "definitions": [
+                    {
+                        "defn": "兩股上接於腰部的骨頭。由腸骨、坐骨、恥骨合成，左右各一。為組成骨盆的大骨之一。"
+                    }
+                ]
+            }
+        ],
+        "radical": "骨",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 25
+    },
+    {
+        "title": "鬣",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ㄝˋ",
+                "pinyin": "liè",
+                "definitions": [
+                    {
+                        "defn": "1.獸頸上的長毛。例:馬鬣、豬鬣\n2.魚類頷旁的鰭。例:鯨鬣\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "髟",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 25
+    },
+    {
+        "title": "鬣狗",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ㄝˋ　ㄍㄡˇ",
+                "pinyin": "liè gǒu",
+                "definitions": [
+                    {
+                        "defn": "動物名。哺乳綱食肉目。形似狗，前腿長，後腿短，毛棕黃色或棕褐色，晝伏夜出，以獸類屍體的腐肉為食，多產於非洲和亞洲的西部。如斑點鬣狗、條紋鬣狗及棕鬣狗。例:鬣狗常撿食獅子吃剩的食物，是動物界中的清道夫。　△土狼"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "黌",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄥˊ",
+                "pinyin": "hóng",
+                "definitions": [
+                    {
+                        "defn": "學校。例:黌舍"
+                    }
+                ]
+            }
+        ],
+        "radical": "黃",
+        "non_radical_stroke_count": 13,
+        "stroke_count": 25
+    },
+    {
+        "title": "黌宮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄥˊ　ㄍㄨㄥ",
+                "pinyin": "hóng gōng",
+                "definitions": [
+                    {
+                        "defn": "學校。例:學校古稱黌宮，是個傳道、授業、解惑的莊嚴所在。"
+                    }
+                ]
+            }
+        ]
+    }
+]

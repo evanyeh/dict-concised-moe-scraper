@@ -1,0 +1,19 @@
+[
+    {
+        "title": "麤",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄘㄨ",
+                "pinyin": "cū",
+                "definitions": [
+                    {
+                        "defn": "同「粗」。"
+                    }
+                ]
+            }
+        ],
+        "radical": "鹿",
+        "non_radical_stroke_count": 22,
+        "stroke_count": 33
+    }
+]

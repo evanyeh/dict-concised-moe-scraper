@@ -1,0 +1,33 @@
+[
+    {
+        "title": "籲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ",
+                "pinyin": "yù",
+                "definitions": [
+                    {
+                        "defn": "呼喊、請求。例:呼籲、籲天"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 26,
+        "stroke_count": 32
+    },
+    {
+        "title": "籲請",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄑ一ㄥˇ",
+                "pinyin": "yù qǐng",
+                "definitions": [
+                    {
+                        "defn": "呼籲請求。例:最近投資糾紛頻傳，經濟部籲請民眾投資前應審慎小心，以免上當。"
+                    }
+                ]
+            }
+        ]
+    }
+]

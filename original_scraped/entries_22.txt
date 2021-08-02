@@ -1,0 +1,3894 @@
+[
+    {
+        "title": "儻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄤˇ",
+                "pinyin": "tǎng",
+                "definitions": [
+                    {
+                        "defn": "1.假使、如果。同「倘」。\n2.→倜儻\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "人",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 22
+    },
+    {
+        "title": "儼",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˇ",
+                "pinyin": "yǎn",
+                "definitions": [
+                    {
+                        "defn": "1.莊重、嚴肅。例:望之儼然，即之也溫。（《論語．子張》）\n2.整齊。例:土地平曠，屋舍儼然。（晉．陶淵明〈桃花源記〉）\n3.相同、一致。例:儼如、儼若、儼似\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "人",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 22
+    },
+    {
+        "title": "儼然",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˇ　ㄖㄢˊ",
+                "pinyin": "yǎn rán",
+                "definitions": [
+                    {
+                        "defn": "1.莊重、恭敬的樣子。例:他一改平日嬉鬧模樣，儼然端坐著，不發一語。\n2.整齊的樣子。例:土地平曠，屋舍儼然。（晉．陶淵明〈桃花源記〉）\n3.彷彿、好像。例:他年紀雖小，但言行舉止儼然大人一般。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "儼如",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˇ　ㄖㄨˊ",
+                "pinyin": "yǎn rú",
+                "definitions": [
+                    {
+                        "defn": "好像。例:遠遠望去，瀑布儼如一條白練，懸掛於山間。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囈",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˋ",
+                "pinyin": "yì",
+                "definitions": [
+                    {
+                        "defn": "夢中說話。例:夢囈"
+                    }
+                ]
+            }
+        ],
+        "radical": "口",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "囈語",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˋ　ㄩˇ",
+                "pinyin": "yì yǔ",
+                "definitions": [
+                    {
+                        "defn": "1.夢話。例:他在睡夢中的囈語，反映了現實生活中的焦慮。\n2.比喻不實際或無稽的言談。例:這種毫無意義的囈語實在不必理會。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囉",
+        "heteronyms": [
+            {
+                "bopomofo": "(一)ㄌㄨㄛ",
+                "pinyin": "(一)luō",
+                "definitions": [
+                    {
+                        "defn": "→囉嗦\n(二)ㄌㄨㄛˊ\nluó"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(二)ㄌㄨㄛˊ",
+                "pinyin": "(二)luó",
+                "definitions": [
+                    {
+                        "defn": "→嘍囉\n(一)ㄌㄨㄛ\nluō"
+                    }
+                ]
+            }
+        ],
+        "radical": "口",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "囉嗦",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛ　ㄙㄨㄛ　（變）ㄌㄨㄛ　˙ㄙㄨㄛ",
+                "pinyin": "luō suō（變）luō suo",
+                "definitions": [
+                    {
+                        "defn": "1.多言不止。例:他既然已經知道錯了，你就別再囉嗦了。\n2.麻煩。例:這道手續看似簡單，辦起來還真囉嗦。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囉唆",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛ　ㄙㄨㄛ　（變）ㄌㄨㄛ　˙ㄙㄨㄛ",
+                "pinyin": "luō suō（變）luō suo",
+                "definitions": [
+                    {
+                        "defn": "1.多言不止。例:父母親不停的囉唆都是為了子女。\n2.麻煩。例:這種事平常很快就可以辦好的，今天怎麼那麼囉唆。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囊",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋㄤˊ",
+                "pinyin": "náng",
+                "definitions": [
+                    {
+                        "defn": "1.口袋、袋子。例:行囊、香囊、探囊取物\n2.似袋子的物品。例:膽囊、皮囊、氣囊\n3.像袋子包裹物品般的。例:囊括四海\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "口",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "囊袋",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋㄤˊ　ㄉㄞˋ",
+                "pinyin": "náng dài",
+                "definitions": [
+                    {
+                        "defn": "裝東西的袋子。例:母袋鼠腹部有個囊袋，用以養育幼鼠。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囊括",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋㄤˊ　ㄍㄨㄚ",
+                "pinyin": "náng guā",
+                "definitions": [
+                    {
+                        "defn": "包羅、席捲一切。例:她在這次區運會中，囊括各項短跑比賽的冠軍。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "囊空如洗",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄋㄤˊ　ㄎㄨㄥ　ㄖㄨˊ　ㄒ一ˇ",
+                "pinyin": "náng kōng rú xǐ",
+                "definitions": [
+                    {
+                        "defn": "比喻非常窮困。例:長年的疾病纏身，已經使得他耗盡家財，囊空如洗了。"
+                    }
+                ],
+                "synonyms": "阮囊羞澀",
+                "antonyms": "腰纏萬貫"
+            }
+        ]
+    },
+    {
+        "title": "孿",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "→孿生"
+                    }
+                ]
+            }
+        ],
+        "radical": "子",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "孿生",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ　ㄕㄥ",
+                "pinyin": "luán shēng",
+                "definitions": [
+                    {
+                        "defn": "雙胞胎。例:妳們倆容貌如此相似，活像一對孿生姐妹。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "巒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "連綿不斷的山群。例:大屯山脈山巒起伏，地形變化很大。"
+                    }
+                ]
+            }
+        ],
+        "radical": "山",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "巔",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄢ",
+                "pinyin": "diān",
+                "definitions": [
+                    {
+                        "defn": "1.山頂。例:山巔\n2.最高的。例:巔峰、巔頂\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "山",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "巔峰",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄢ　ㄈㄥ",
+                "pinyin": "diān fēng",
+                "definitions": [
+                    {
+                        "defn": "1.山頂、頂端。例:這座山的巔峰長年煙靄繚繞，宛若人間仙境。\n2.比喻情況到達最高點。例:他的人生正值巔峰狀態，卻因染上毒癮，而失去一切。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "彎",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ",
+                "pinyin": "wān",
+                "definitions": [
+                    {
+                        "defn": "1.屈曲。與「直」相對。例:彎曲\n2.使屈曲。例:彎腰\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "弓",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "彎道",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ　ㄉㄠˋ",
+                "pinyin": "wān dào",
+                "definitions": [
+                    {
+                        "defn": "曲折不直的路徑。例:前方不遠處有一個連續彎道的交通標誌，警告駕駛人多加小心。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "彎度",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ　ㄉㄨˋ",
+                "pinyin": "wān dù",
+                "definitions": [
+                    {
+                        "defn": "物體彎曲的程度。例:這段山路的彎度很大，請小心駕駛。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "彎曲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ　ㄑㄩ",
+                "pinyin": "wān qū",
+                "definitions": [
+                    {
+                        "defn": "屈曲、不直。例:水道彎曲的地方，水流的速度會減慢。"
+                    }
+                ],
+                "antonyms": "筆直、挺直"
+            }
+        ]
+    },
+    {
+        "title": "彎腰駝背",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ　一ㄠ　ㄊㄨㄛˊ　ㄅㄟˋ",
+                "pinyin": "wān yāo tuó bèi",
+                "definitions": [
+                    {
+                        "defn": "弓著身子，彎曲脊背。形容姿勢難看。例:年輕人應抬頭挺胸，不要老是彎腰駝背，顯得沒有朝氣。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "彎彎曲曲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄨㄢ　ㄨㄢ　ㄑㄩ　ㄑㄩ",
+                "pinyin": "wān wān qū qū",
+                "definitions": [
+                    {
+                        "defn": "不直、曲折。例:這條山路彎彎曲曲，非常難走。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "懿",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˋ",
+                "pinyin": "yì",
+                "definitions": [
+                    {
+                        "defn": "美好的。例:懿德、懿行"
+                    }
+                ]
+            }
+        ],
+        "radical": "心",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 22
+    },
+    {
+        "title": "懿德",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˋ　ㄉㄜˊ",
+                "pinyin": "yì dé",
+                "definitions": [
+                    {
+                        "defn": "美德。多指婦女溫柔美善的德行。例:舊時的貞節牌坊旨在表彰婦女守節的懿德。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "懿旨",
+        "heteronyms": [
+            {
+                "bopomofo": "一ˋ　ㄓˇ",
+                "pinyin": "yì zhǐ",
+                "definitions": [
+                    {
+                        "defn": "舊稱皇太后或皇后的詔令。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攢",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)ㄘㄨㄢˊ",
+                "pinyin": "(二)cuán",
+                "definitions": [
+                    {
+                        "defn": "拼湊、聚合。例:攢聚、攢眉\n(一)ㄗㄢˇ\nzǎn"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)ㄗㄢˇ",
+                "pinyin": "(一)zǎn",
+                "definitions": [
+                    {
+                        "defn": "積蓄、儲蓄。例:他辛苦攢下來的錢全敗在不成材的兒子手上。\n(二)ㄘㄨㄢˊ\ncuán"
+                    }
+                ]
+            }
+        ],
+        "radical": "手",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "攢眉",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄘㄨㄢˊ　ㄇㄟˊ",
+                "pinyin": "cuán méi",
+                "definitions": [
+                    {
+                        "defn": "皺緊眉頭。形容憂慮不快的神態。例:看他攢眉不語的樣子，一定發生了什麼事。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攢錢",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)ㄘㄨㄢˊ　ㄑ一ㄢˊ",
+                "pinyin": "(二)cuán qián",
+                "definitions": [
+                    {
+                        "defn": "湊集眾人所出的錢。例:大家攢錢替他解決困難。\n(一)ㄗㄢˇ\nㄑ\nㄧ\nㄢˊ\nzǎn\nqián"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)ㄗㄢˇ　ㄑ一ㄢˊ",
+                "pinyin": "(一)zǎn qián",
+                "definitions": [
+                    {
+                        "defn": "集聚、積存錢財。例:為了維持一家十口的生計，他日夜辛勤的攢錢。\n(二)ㄘㄨㄢˊ\nㄑ\nㄧ\nㄢˊ\ncuán\nqián"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ",
+                "pinyin": "tān",
+                "definitions": [
+                    {
+                        "defn": "1.平鋪、擺開。例:她把蓆子攤在地上，準備野餐。\n2.設於路旁、夜市等地，簡單的貨物零售處。例:地攤、攤販、小吃攤\n3.分擔、分配。例:攤錢、均攤任務\n4.公開而無所隱瞞。例:讓我們把話攤開來說清楚，免得造成誤會。\n5.將糊狀物在鍋中鋪平成片狀的烹飪方法。例:攤春捲皮\n6.量詞。計算靜止在一處或鋪開成一片的液體和糊狀物的單位。例:一攤水、一攤泥\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "手",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "攤牌",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄆㄞˊ",
+                "pinyin": "tān pái",
+                "definitions": [
+                    {
+                        "defn": "1.玩牌時，公開手中的牌。例:五張牌都已發齊，大家可以攤牌比大小了。\n2.比喻坦白表示或到最後階段向對方公開條件、實力等。例:談判才開始，怎麼可以向對手攤牌呢？\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤派",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄆㄞˋ",
+                "pinyin": "tān pài",
+                "definitions": [
+                    {
+                        "defn": "平均分派。例:老師將掃除工作平均攤派給每一位同學。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤販",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄈㄢˋ",
+                "pinyin": "tān fàn",
+                "definitions": [
+                    {
+                        "defn": "擺攤子出售貨物的攤位或人。例:這條人行道攤販林立，使人寸步難行。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤開",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄎㄞ",
+                "pinyin": "tān kāi",
+                "definitions": [
+                    {
+                        "defn": "展開，平鋪開來。例:他攤開地圖尋找名勝古蹟的位置。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤還",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄏㄨㄢˊ",
+                "pinyin": "tān huán",
+                "definitions": [
+                    {
+                        "defn": "分期償還。例:他們的房屋貸款是以分期攤還的方式償付給銀行。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤子",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　˙ㄗ",
+                "pinyin": "tān zi",
+                "definitions": [
+                    {
+                        "defn": "陳設在路旁的簡易售貨場所。例:那個攤子所烹調的各種小吃，都相當精緻可口。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "攤位",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄨㄟˋ",
+                "pinyin": "tān wèi",
+                "definitions": [
+                    {
+                        "defn": "擺放攤子的位置。例:校慶園遊會場設置了各式各樣的攤位，供師生同樂。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ",
+                "pinyin": "quán",
+                "definitions": [
+                    {
+                        "defn": "1.勢力、威勢。例:君權、權威、大權旁落\n2.因人為因素所產生的力量與利益。例:版權、投票權、所有權\n3.衡量。例:權衡、權度\n4.暫且。例:權充、權當\n5.姓。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "木",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 22
+    },
+    {
+        "title": "權柄",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄅ一ㄥˇ",
+                "pinyin": "quán bǐng",
+                "definitions": [
+                    {
+                        "defn": "權力。例:他握有極大的權柄，公司裡的重大決策都由他決定。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權謀",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄇㄡˊ",
+                "pinyin": "quán móu",
+                "definitions": [
+                    {
+                        "defn": "隨機變通的權術謀略。例:他頭腦機智，長於權謀，是一個很好的幕僚人才。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權力",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄌ一ˋ",
+                "pinyin": "quán lì",
+                "definitions": [
+                    {
+                        "defn": "可控制、管轄、支配等的職權或力量。例:這片土地是他私人所有，他有權力做任何處置，誰也無法干涉。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權貴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄍㄨㄟˋ",
+                "pinyin": "quán guì",
+                "definitions": [
+                    {
+                        "defn": "地位高、有勢力的人。例:檢察官不懼權貴的脅迫，秉持公理，依法辦案。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權衡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄏㄥˊ",
+                "pinyin": "quán héng",
+                "definitions": [
+                    {
+                        "defn": "衡量、評估事物的輕重得失。例:權衡輕重、權衡得失、權衡利弊"
+                    }
+                ],
+                "synonyms": "衡量"
+            }
+        ]
+    },
+    {
+        "title": "權限",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄒ一ㄢˋ",
+                "pinyin": "quán xiàn",
+                "definitions": [
+                    {
+                        "defn": "權力的界限、範圍。例:公司裡的每一個人都有自己的工作權限，最好不要越權行事。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權杖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄓㄤˋ",
+                "pinyin": "quán zhàng",
+                "definitions": [
+                    {
+                        "defn": "象徵某種權力、榮耀的手杖。例:剛獲得選美冠軍的佳麗，頭戴后冠，手執權杖，接受眾人的喝采。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權充",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄔㄨㄥ",
+                "pinyin": "quán chōng",
+                "definitions": [
+                    {
+                        "defn": "臨時替代。例:奶奶說：「就要這根木頭權充拐杖吧！」"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權勢",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄕˋ",
+                "pinyin": "quán shì",
+                "definitions": [
+                    {
+                        "defn": "權力威勢。例:他為人淡泊名利，對於財富、權勢總是不屑營求。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權術",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄕㄨˋ",
+                "pinyin": "quán shù",
+                "definitions": [
+                    {
+                        "defn": "機巧的權謀、手段。例:腳踏實地的苦幹，要比玩弄權術來得可靠實在。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權責",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄗㄜˊ",
+                "pinyin": "quán zé",
+                "definitions": [
+                    {
+                        "defn": "權力和責任。例:每個部門若能將權責劃分清楚，進而分工合作，便可提高工作效率。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權宜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　一ˊ",
+                "pinyin": "quán yí",
+                "definitions": [
+                    {
+                        "defn": "因應情勢而調整、變通。例:權宜之計"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權宜之計",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　一ˊ　ㄓ　ㄐ一ˋ",
+                "pinyin": "quán yí zhī jì",
+                "definitions": [
+                    {
+                        "defn": "因應某種時機而暫用的計謀。例:暫時歇業只是權宜之計，只要時機好轉，馬上復業。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權益",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　一ˋ",
+                "pinyin": "quán yì",
+                "definitions": [
+                    {
+                        "defn": "人民依法所享有的利益。例:我們應勇於舉發不法的製造商，才不致讓自己的消費權益受損。"
+                    }
+                ],
+                "synonyms": "權利"
+            }
+        ]
+    },
+    {
+        "title": "權威",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄨㄟ",
+                "pinyin": "quán wēi",
+                "definitions": [
+                    {
+                        "defn": "1.權力和威勢。例:在上位者若單憑權威制人，難以贏得部屬的崇敬。\n2.在某一領域中具有崇高地位和影響力的人。例:王教授是目前國內顏面矯正手術的權威。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "權位",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ　ㄨㄟˋ",
+                "pinyin": "quán wèi",
+                "definitions": [
+                    {
+                        "defn": "權力和地位。例:公司這次的人事改組，被視為歷年來競爭最激烈的權位之爭。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ",
+                "pinyin": "huān",
+                "definitions": [
+                    {
+                        "defn": "1.喜樂、高興。例:歡樂、歡心、歡天喜地\n2.指情人。例:舊愛新歡\n3.→喜歡\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "欠",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 22
+    },
+    {
+        "title": "歡度",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄉㄨˋ",
+                "pinyin": "huān dù",
+                "definitions": [
+                    {
+                        "defn": "快樂歡喜的度過。例:歡度佳節、歡度新年"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡騰",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄊㄥˊ",
+                "pinyin": "huān téng",
+                "definitions": [
+                    {
+                        "defn": "高興得歡呼跳躍。例:欣逢雙十國慶，普天同慶，舉國歡騰。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡天喜地",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄊ一ㄢ　ㄒ一ˇ　ㄉ一ˋ",
+                "pinyin": "huān tiān xǐ dì",
+                "definitions": [
+                    {
+                        "defn": "形容非常歡喜高興。例:小弟金榜題名的喜訊傳來，全家上下莫不歡天喜地。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡樂",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄌㄜˋ",
+                "pinyin": "huān lè",
+                "definitions": [
+                    {
+                        "defn": "歡喜快樂。例:春節期間處處洋溢著歡樂的氣氛。"
+                    }
+                ],
+                "antonyms": "悲苦、悲戚、悲傷、哀傷、憂傷、痛苦、哀痛"
+            }
+        ]
+    },
+    {
+        "title": "歡呼",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄏㄨ",
+                "pinyin": "huān hū",
+                "definitions": [
+                    {
+                        "defn": "快樂的呼叫。例:鼓掌歡呼"
+                    }
+                ],
+                "antonyms": "悲嘆、哀號"
+            }
+        ]
+    },
+    {
+        "title": "歡聚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄐㄩˋ",
+                "pinyin": "huān jù",
+                "definitions": [
+                    {
+                        "defn": "歡樂的聚會。例:歡聚一堂"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡聚一堂",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄐㄩˋ　一　ㄊㄤˊ　（變）ㄏㄨㄢ　ㄐㄩˋ　一ˋ　ㄊㄤˊ",
+                "pinyin": "huān jù yī táng　（變）huān jù yì táng",
+                "definitions": [
+                    {
+                        "defn": "歡樂的相聚在一起。例:爺爺看到全家人歡聚一堂，心裡感到十分欣慰。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡慶",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄑ一ㄥˋ",
+                "pinyin": "huān qìng",
+                "definitions": [
+                    {
+                        "defn": "1.歡樂喜慶的。例:過年時震耳欲聾的鞭炮聲，增添了年節的歡慶味道。\n2.歡樂地慶祝。例:除了北天燈、南蜂炮之外，各地也都舉辦燈會、燈謎等活動歡慶元宵。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡喜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄒ一ˇ",
+                "pinyin": "huān xǐ",
+                "definitions": [
+                    {
+                        "defn": "快樂、高興。例:滿心歡喜"
+                    }
+                ],
+                "synonyms": "欣喜",
+                "antonyms": "悲痛、悲傷、悲哀"
+            }
+        ]
+    },
+    {
+        "title": "歡喜冤家",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄒ一ˇ　ㄩㄢ　ㄐ一ㄚ　（變）ㄏㄨㄢ　ㄒ一ˇ　ㄩㄢ　˙ㄐ一ㄚ",
+                "pinyin": "huān xǐ yuān jiā （變）huān xǐ yuān jiɑ",
+                "definitions": [
+                    {
+                        "defn": "似相怨而實相愛的戀人或夫妻。例:他們兩人吵吵和和了數十年，真是一對十足的歡喜冤家。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡笑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄒ一ㄠˋ",
+                "pinyin": "huān xiào",
+                "definitions": [
+                    {
+                        "defn": "歡樂的笑。例:他的幽默和機智，經常給班上帶來許多歡笑。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡心",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄒ一ㄣ",
+                "pinyin": "huān xīn",
+                "definitions": [
+                    {
+                        "defn": "高興歡喜的心情。例:妹妹的乖巧懂事，很討奶奶的歡心。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡欣鼓舞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄒ一ㄣ　ㄍㄨˇ　ㄨˇ",
+                "pinyin": "huān xīn gǔ wǔ",
+                "definitions": [
+                    {
+                        "defn": "形容非常歡樂興奮。例:我國青棒隊獲得世界冠軍的消息傳來，全國上下莫不歡欣鼓舞。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡唱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄔㄤˋ",
+                "pinyin": "huān chàng",
+                "definitions": [
+                    {
+                        "defn": "快活的歌唱。例:齊聲歡唱"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡聲雷動",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄕㄥ　ㄌㄟˊ　ㄉㄨㄥˋ",
+                "pinyin": "huān shēng léi dòng",
+                "definitions": [
+                    {
+                        "defn": "歡呼的聲音像雷響一樣。形容熱烈歡呼的場面。例:當總統蒞臨國慶慶祝大會會場時，全場一片歡聲雷動。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡送",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄙㄨㄥˋ",
+                "pinyin": "huān sòng",
+                "definitions": [
+                    {
+                        "defn": "高興誠懇的送別。例:大家在登機門前列隊歡送他出國。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡顏",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　一ㄢˊ",
+                "pinyin": "huān yán",
+                "definitions": [
+                    {
+                        "defn": "歡樂的容顏。例:剛上小學的弟弟，臉上經常露出童稚的歡顏，非常純真、可愛。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡迎",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　一ㄥˊ",
+                "pinyin": "huān yíng",
+                "definitions": [
+                    {
+                        "defn": "1.高興的迎接。例:列隊歡迎\n2.誠心希望，樂意接受。例:歡迎光臨、歡迎投稿\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡娛",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄩˊ",
+                "pinyin": "huān yú",
+                "definitions": [
+                    {
+                        "defn": "歡喜快樂。例:孩子們追逐嬉鬧著，臉上都帶著歡娛的笑容。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡愉",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄩˊ",
+                "pinyin": "huān yú",
+                "definitions": [
+                    {
+                        "defn": "歡樂愉快。例:每到農作物豐收的季節，整個農村便呈現出一片歡愉的景象。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "歡悅",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄢ　ㄩㄝˋ",
+                "pinyin": "huān yuè",
+                "definitions": [
+                    {
+                        "defn": "喜悅。例:不知她近來有什麼喜事，歡悅的表情整天洋溢臉上。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄙㄚˇ",
+                "pinyin": "sǎ",
+                "definitions": [
+                    {
+                        "defn": "1.把水或液體散布出去。例:灑水、灑掃、灑淚、噴灑農藥\n2.將東西散落或傾倒出來，多指水或液體。例:他一不小心打翻了杯子，把咖啡灑在衣服上面。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "灑脫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄙㄚˇ　ㄊㄨㄛ",
+                "pinyin": "sǎ tuō",
+                "definitions": [
+                    {
+                        "defn": "態度自然大方，不受拘束的樣子。例:他個性灑脫，不拘小節。"
+                    }
+                ],
+                "antonyms": "拘泥"
+            }
+        ]
+    },
+    {
+        "title": "灑落",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄙㄚˇ　ㄌㄨㄛˋ",
+                "pinyin": "sǎ luò",
+                "definitions": [
+                    {
+                        "defn": "散落、掉落。例:金黃色的陽光灑落在冬日午後的公園裡，顯得溫馨而寧靜。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灑水",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄙㄚˇ　ㄕㄨㄟˇ",
+                "pinyin": "sǎ shuǐ",
+                "definitions": [
+                    {
+                        "defn": "把水散潑在地面。例:在地面上灑水，可避免塵土飛揚。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灑掃",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄙㄚˇ　ㄙㄠˇ",
+                "pinyin": "sǎ sǎo",
+                "definitions": [
+                    {
+                        "defn": "灑水掃地。例:新年將到，弟妹們也都提著水桶、拿起掃帚，幫忙媽媽灑掃庭院。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灕",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ",
+                "pinyin": "lí",
+                "definitions": [
+                    {
+                        "defn": "→灕江"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "灕江",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ　ㄐ一ㄤ",
+                "pinyin": "lí jiāng",
+                "definitions": [
+                    {
+                        "defn": "發源於廣西省興安縣陽關山的河川。與湘水同源，至興安縣北乃分為二流，灕江西南流至桂林為桂江。　△灕水"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "灘",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ",
+                "pinyin": "tān",
+                "definitions": [
+                    {
+                        "defn": "1.水邊的沙石地。例:沙灘、海灘\n2.江河中水淺石多而流急的地方。例:船夫小心翼翼的避開可能造成翻船的險灘。\n3.量詞。計算擴散成片的糊狀物或液體的單位。例:兩灘血、一灘爛泥\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "水",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "灘頭",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄢ　ㄊㄡˊ",
+                "pinyin": "tān tóu",
+                "definitions": [
+                    {
+                        "defn": "沙灘。例:這條船受到巨浪襲擊而擱淺在灘頭。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "玀",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ",
+                "pinyin": "luó",
+                "definitions": [
+                    {
+                        "defn": "→豬玀"
+                    }
+                ]
+            }
+        ],
+        "radical": "犬",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "瓤",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄖㄤˊ",
+                "pinyin": "ráng",
+                "definitions": [
+                    {
+                        "defn": "1.瓜、果內部可食的部分。例:瓤肉、絲瓜瓤\n2.物體內部所包含的東西。例:信瓤、枕瓤\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "瓜",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "疊",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ",
+                "pinyin": "dié",
+                "definitions": [
+                    {
+                        "defn": "1.堆聚、累積。例:堆疊、疊羅漢、疊石為山\n2.用手摺疊。例:疊被、折疊\n3.一層一層的。例:疊峰、疊浪、重巖疊嶂\n4.重複。例:重疊\n5.量詞：(1) 計算重疊堆積物的單位。例:一疊紙、兩疊文件　(2) 計算樂曲章節的重覆吟唱或演奏的單位。例:陽關三疊\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "田",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "疊被",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄅㄟˋ",
+                "pinyin": "dié bèi",
+                "definitions": [
+                    {
+                        "defn": "摺疊棉被。例:每天起床後，他一定先疊被，再去刷牙洗臉。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊羅漢",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄌㄨㄛˊ　ㄏㄢˋ",
+                "pinyin": "dié luó hàn",
+                "definitions": [
+                    {
+                        "defn": "一種雜技表演。人上架人，可變化各種式樣。例:這次慶典中的疊羅漢表演，博得了大家熱烈的掌聲。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊嶂",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄓㄤˋ",
+                "pinyin": "dié zhàng",
+                "definitions": [
+                    {
+                        "defn": "重重相疊的山峰。例:層巒疊嶂"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊床架屋",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄔㄨㄤˊ　ㄐ一ㄚˋ　ㄨ",
+                "pinyin": "dié chuáng jià wū",
+                "definitions": [
+                    {
+                        "defn": "比喻事權管理或文章結構重複累贅。語本北齊．顏之推《顏氏家訓．序致》。例:這篇文章有疊床架屋的毛病，若能稍加刪節會更好。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊字",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄗˋ",
+                "pinyin": "dié zì",
+                "definitions": [
+                    {
+                        "defn": "複詞的一種。由兩個相同的單字，重疊組成的詞語，稱為「疊字」，如層層、藍藍、炎炎。亦有以聲音關係衍生的詞語，稱為「疊字衍聲複詞」。如爸爸、媽媽、支支吾吾。　△重言"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊詞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄘˊ",
+                "pinyin": "dié cí",
+                "definitions": [
+                    {
+                        "defn": "相同兩字構成的詞。如匆匆、潺潺等。例:運用疊詞可加深文句的韻律。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊映",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　一ㄥˋ",
+                "pinyin": "dié yìng",
+                "definitions": [
+                    {
+                        "defn": "相互掩映。例:遠處兩排路燈燈光疊映，使路的盡頭顯得有些迷茫。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "疊韻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ㄝˊ　ㄩㄣˋ",
+                "pinyin": "dié yùn",
+                "definitions": [
+                    {
+                        "defn": "兩個字的韻母相同，稱為「疊韻」。如「逍」、「遙」的韻母都是「ㄧㄠ」，「逍」和「遙」就是具有疊韻關係。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "癬",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄢˇ",
+                "pinyin": "xiǎn",
+                "definitions": [
+                    {
+                        "defn": "一種由黴菌所引起的皮膚病。患處會發癢，生白色的鱗狀皮，具傳染性。例:白癬、頭癬、腳癬"
+                    }
+                ]
+            }
+        ],
+        "radical": "疒",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "癬疥",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄢˇ　ㄐ一ㄝˋ",
+                "pinyin": "xiǎn jiè",
+                "definitions": [
+                    {
+                        "defn": "癬、疥皆為不會致命的皮膚傳染病。比喻輕微不足為害的禍患。例:這次的損失只是皮上癬疥，不致影響公司營運。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "癮",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄣˇ",
+                "pinyin": "yǐn",
+                "definitions": [
+                    {
+                        "defn": "已成為習慣且不易改變的嗜好或癖好。例:煙癮、酒癮、毒癮"
+                    }
+                ]
+            }
+        ],
+        "radical": "疒",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "癮君子",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄣˇ　ㄐㄩㄣ　ㄗˇ",
+                "pinyin": "yǐn jūn zǐ",
+                "definitions": [
+                    {
+                        "defn": "諷稱有鴉片煙癮的人。今多指煙癮很大的人。例:癮君子需要有極大的決心和毅力，才能成功的戒除煙癮。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "礴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄅㄛˊ",
+                "pinyin": "bó",
+                "definitions": [
+                    {
+                        "defn": "→磅礴"
+                    }
+                ]
+            }
+        ],
+        "radical": "石",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "禳",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄖㄤˊ",
+                "pinyin": "ráng",
+                "definitions": [
+                    {
+                        "defn": "祈求消除災禍、疾病的祭祀。例:禳禱、禳災"
+                    }
+                ]
+            }
+        ],
+        "radical": "示",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 22
+    },
+    {
+        "title": "籙",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˋ",
+                "pinyin": "lù",
+                "definitions": [
+                    {
+                        "defn": "1.書籍。例:圖籙、鬼籙\n2.道家用的祕文、符咒。例:符籙\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "籜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄨㄛˋ",
+                "pinyin": "tuò",
+                "definitions": [
+                    {
+                        "defn": "竹皮、筍殼。例:竹籜、筍籜"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "籟",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄞˋ",
+                "pinyin": "lài",
+                "definitions": [
+                    {
+                        "defn": "本指從孔竅中所發出的聲音，後泛指聲音。例:天籟、萬籟俱寂"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "籠",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ",
+                "pinyin": "lóng",
+                "definitions": [
+                    {
+                        "defn": "1.用來盛裝或覆蓋東西的竹編器具。例:燈籠、蒸籠、竹籠\n2.用來拘囚人或鳥獸的器具。例:鳥籠、牢籠、囚籠\n3.包羅、囊括。例:籠統、籠括\n4.遮住、覆蓋。例:籠罩、籠蓋\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "竹",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "籠統",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄊㄨㄥˇ",
+                "pinyin": "lóng tǒng",
+                "definitions": [
+                    {
+                        "defn": "概括而不加分析的。有含混、不明確的意思。例:對於記者提問，他只籠統說明，而不願正面給予明確的答案。"
+                    }
+                ],
+                "antonyms": "具體"
+            }
+        ]
+    },
+    {
+        "title": "籠絡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄌㄨㄛˋ",
+                "pinyin": "lóng luò",
+                "definitions": [
+                    {
+                        "defn": "籠與絡均為羈絆動物的器具。引申為以權術或手段統御他人。例:用權位作為釣餌，是很難籠絡到有骨氣的人才。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "籠罩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄓㄠˋ",
+                "pinyin": "lóng zhào",
+                "definitions": [
+                    {
+                        "defn": "由四面八方加以覆蓋。例:父親受傷至今仍昏迷不醒，使全家籠罩在一片愁雲慘霧之中。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "籠中鳥",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄓㄨㄥ　ㄋ一ㄠˇ",
+                "pinyin": "lóng zhōng niǎo",
+                "definitions": [
+                    {
+                        "defn": "關在籠中的鳥不能自由飛行。比喻失去自由的人。例:即使目前的情況不如意，也不可把自己視為籠中鳥，必得努力去突破困境。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "籠子",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　˙ㄗ",
+                "pinyin": "lóng zi",
+                "definitions": [
+                    {
+                        "defn": "用來拘囚人或鳥獸的器具。例:這隻鳥被關進籠子後，就顯得毫無生氣了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "糴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉ一ˊ",
+                "pinyin": "dí",
+                "definitions": [
+                    {
+                        "defn": "買入穀物。與糶相對。例:那個地方正在鬧饑荒，他決定糴米前往救濟災民。"
+                    }
+                ]
+            }
+        ],
+        "radical": "米",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "罏",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˊ",
+                "pinyin": "lú",
+                "definitions": [
+                    {
+                        "defn": "1.一種形似瓶子的盛酒器具。例:酒罏\n2.爐子。通「爐」。例:藥罏\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "缶",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "聽",
+        "heteronyms": [
+            {
+                "bopomofo": "(一)ㄊ一ㄥ",
+                "pinyin": "(一)tīng",
+                "definitions": [
+                    {
+                        "defn": "1.用耳朵接收聲音。例:聆聽、傾聽、聽音樂\n2.順從、服從。例:聽從、聽命、言聽計從、唯命是聽\n3.等候、等待。例:聽候\n4.量詞。計算罐頭食品的單位。§英tin例:一聽奶粉\n"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(二)ㄊ一ㄥˋ",
+                "pinyin": "(二)tìng",
+                "definitions": [
+                    {
+                        "defn": "1.治理、處理。例:垂簾聽政\n2.裁決、裁斷。例:聽獄、聽訟\n3.任由、任憑。例:聽其自然、悉聽尊便、聽天由命\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "耳",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "聽筒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄊㄨㄥˇ",
+                "pinyin": "tīng tǒng",
+                "definitions": [
+                    {
+                        "defn": "1.電話機的受話機。例:因為忘了把聽筒掛好，所以電話一直打不進來。\n2.→聽診器\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽力",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄌ一ˋ",
+                "pinyin": "tīng lì",
+                "definitions": [
+                    {
+                        "defn": "耳朵辨別聲音的能力。例:他的耳朵曾受過傷，所以聽力有點受損。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽課",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄎㄜˋ",
+                "pinyin": "tīng kè",
+                "definitions": [
+                    {
+                        "defn": "聽人講授課程。例:這位老師的授課方法非常靈活，臺下聽課的學生都很喜歡他。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽候",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄏㄡˋ",
+                "pinyin": "tīng hòu",
+                "definitions": [
+                    {
+                        "defn": "等待、等候。例:聽候差遣"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽話",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄏㄨㄚˋ",
+                "pinyin": "tīng huà",
+                "definitions": [
+                    {
+                        "defn": "順從。例:為人子女的應該好好聽話，不要時常頂撞父母。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽講",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄐ一ㄤˇ",
+                "pinyin": "tīng jiǎng",
+                "definitions": [
+                    {
+                        "defn": "聆聽授課或講演。例:老師上課的時候，大家都應用心聽講。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽覺",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄐㄩㄝˊ",
+                "pinyin": "tīng jué",
+                "definitions": [
+                    {
+                        "defn": "耳朵接受聲波的刺激，由神經傳達到大腦所形成的知覺。例:狗的聽覺特別靈敏，善於辨別不同的聲音。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽取",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄑㄩˇ",
+                "pinyin": "tīng qǔ",
+                "definitions": [
+                    {
+                        "defn": "聆聽接受。例:執政者應時常下鄉聽取百姓的建議，才能知道人民生活的實況。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽信",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄒ一ㄣˋ",
+                "pinyin": "tīng xìn",
+                "definitions": [
+                    {
+                        "defn": "1.聽從相信。例:不要輕易聽信傳聞，凡事最好能親自查證再下判斷。\n2.等候信息。例:你安心聽信吧！若有消息，我一定會馬上告訴你。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽訓",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄒㄩㄣˋ",
+                "pinyin": "tīng xùn",
+                "definitions": [
+                    {
+                        "defn": "聆聽訓示。例:違規的學生被罰在中午時到辦公室聽訓。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽診",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄣˇ",
+                "pinyin": "tīng zhěn",
+                "definitions": [
+                    {
+                        "defn": "一種醫療診察的方法。用耳朵或聽診器來聽取心、肺、呼吸等內臟器官的聲音，以診斷是否異常。例:醫生為小妹聽診後，認為患了流行性感冒。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽診器",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄣˇ　ㄑ一ˋ",
+                "pinyin": "tīng zhěn qì",
+                "definitions": [
+                    {
+                        "defn": "一種醫生用來診斷病情的器具。是由一條中空橡皮軟管，一端接喇叭口狀物，置於聲源外部；另一端分接二根帶耳件的金屬硬管，放入聽者雙耳中，可將聲音放大，而聽取物體或人體內的聲音。例:醫生用聽診器來聽取心、肺等內臟器官的聲音，以診斷是否異常。　△聽筒"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽障",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄤˋ",
+                "pinyin": "tīng zhàng",
+                "definitions": [
+                    {
+                        "defn": "因耳部疾病或功能缺損所引起聽力減低或喪失的現象。例:中耳炎、耳管炎等若沒有即時治療，會引起聽障。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽證",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄥˋ",
+                "pinyin": "tīng zhèng",
+                "definitions": [
+                    {
+                        "defn": "一種在有決策權的機構或官員前，表達自我主張或對抗他人指控的機會。最早僅限於陪審團面前的司法審理，而後人權擴張，於是產生行政聽證。今美國國會有立法聽證的慣例，以表明其公平性。例:聽證制度的建立，可供政府參擇採證，使決策更具公平、公正性。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽證會",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄥˋ　ㄏㄨㄟˋ",
+                "pinyin": "tīng zhèng huì",
+                "definitions": [
+                    {
+                        "defn": "一種為聽證而召開的會議。當政府或國會為了解特殊事件或問題的真象時，聽取有關人員的說明作證而舉行的會議。起源於英美法系中對公平聽證一事的重視，現今美國國會常舉辦此種正當的法律程序。例:對於這件法案，立委們決定邀請相關人員舉行聽證會，聽取各方意見後，再予立法。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽眾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄓㄨㄥˋ",
+                "pinyin": "tīng zhòng",
+                "definitions": [
+                    {
+                        "defn": "聆聽演說、演唱或廣播的群眾。例:這次演講的內容非常精彩，得到聽眾很高的評價。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽差",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄔㄞ",
+                "pinyin": "tīng chāi",
+                "definitions": [
+                    {
+                        "defn": "聽候差遣。例:有什麼事儘管吩咐，我隨時準備聽差。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽審",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄕㄣˇ",
+                "pinyin": "tīng shěn",
+                "definitions": [
+                    {
+                        "defn": "聆聽審訊裁判。例:此案近日內聽審。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽說",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄕㄨㄛ",
+                "pinyin": "tīng shuō",
+                "definitions": [
+                    {
+                        "defn": "聽他人所說。例:這座城門，聽說是清代所遺留下來的古蹟。"
+                    }
+                ],
+                "synonyms": "據說"
+            }
+        ]
+    },
+    {
+        "title": "聽從",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄘㄨㄥˊ",
+                "pinyin": "tīng cóng",
+                "definitions": [
+                    {
+                        "defn": "聽命、服從。例:只要聽從上級的指示，凡事按部就班，就能如期完成。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽友",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　一ㄡˇ",
+                "pinyin": "tīng yǒu",
+                "definitions": [
+                    {
+                        "defn": "收聽廣播節目的聽眾。例:這個廣播節目很受歡迎，聽友遍及全國各地。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽聞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥ　ㄨㄣˊ",
+                "pinyin": "tīng wén",
+                "definitions": [
+                    {
+                        "defn": "1.耳聞。例:他的善心善行，大家早已有所聽聞。\n2.所聽到的事情。例:駭人聽聞、聳人聽聞\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽憑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥˋ　ㄆ一ㄥˊ",
+                "pinyin": "tìng píng",
+                "definitions": [
+                    {
+                        "defn": "任隨、任憑。例:陳小姐因為疏忽而犯錯，只得聽憑上級處置。"
+                    }
+                ],
+                "synonyms": "聽任"
+            }
+        ]
+    },
+    {
+        "title": "聽命",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)ㄊ一ㄥˋ　ㄇ一ㄥˋ",
+                "pinyin": "(二)tìng mìng",
+                "definitions": [
+                    {
+                        "defn": "任憑天意及命運而自然發展。例:凡事盡力去做就對了，能不能成功，只能聽命了。\n(一)ㄊ\nㄧ\nㄥ\nㄇ\nㄧ\nㄥˋ\ntīn\ng\nmìn\ng"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)ㄊ一ㄥ　ㄇ一ㄥˋ",
+                "pinyin": "(一)tīng mìng",
+                "definitions": [
+                    {
+                        "defn": "聽從命令。例:軍人講究百分之百的服從，只要是長官的指示，下屬就要聽命。\n(二)ㄊ\nㄧ\nㄥˋ\nㄇ\nㄧ\nㄥˋ\ntīn\ng\nmìn\ng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽天由命",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥˋ　ㄊ一ㄢ　一ㄡˊ　ㄇ一ㄥˋ",
+                "pinyin": "tìng tiān yóu mìng",
+                "definitions": [
+                    {
+                        "defn": "任憑天意及命運自然發展。例:能做的，都已經做了，咱們就聽天由命吧！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽其自然",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥˋ　ㄑ一ˊ　ㄗˋ　ㄖㄢˊ",
+                "pinyin": "tìng qí zì rán",
+                "definitions": [
+                    {
+                        "defn": "任由人、事、物自然發展，而不加以過問及干涉。例:這件事既然已經無力挽回，就只有聽其自然！"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聽任",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊ一ㄥˋ　ㄖㄣˋ",
+                "pinyin": "tìng rèn",
+                "definitions": [
+                    {
+                        "defn": "任憑去做，而不加以約束。例:只要事情能如期完成，老闆總是聽任我們照自己的意思去做。"
+                    }
+                ],
+                "synonyms": "聽憑"
+            }
+        ]
+    },
+    {
+        "title": "聾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ",
+                "pinyin": "lóng",
+                "definitions": [
+                    {
+                        "defn": "1.聽覺遲鈍或聽不到聲音。例:聾人、聾子、聾啞\n2.昏昧不明。例:聾昧、聾聵\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "耳",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "聾胞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄅㄠ",
+                "pinyin": "lóng bāo",
+                "definitions": [
+                    {
+                        "defn": "聽覺有障礙的人。一般多指失去聽覺的人。例:他自幼失聰，所以深知聾胞的痛苦和需要。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聾人",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　ㄖㄣˊ",
+                "pinyin": "lóng rén",
+                "definitions": [
+                    {
+                        "defn": "聽覺有障礙或完全聽不見的人。例:貝多芬雖因耳疾而成為聾人，但仍對音樂熱情不減，創作出充滿生命力的第九交響曲。　△聾子"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "聾啞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄥˊ　一ㄚˇ",
+                "pinyin": "lóng yǎ",
+                "definitions": [
+                    {
+                        "defn": "聽覺和說話均有障礙。例:對於聾啞的孩子，我們必須付出更多的愛心和耐心。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "臞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩˊ",
+                "pinyin": "qú",
+                "definitions": [
+                    {
+                        "defn": "瘦弱的樣子。例:清臞、臞容"
+                    }
+                ]
+            }
+        ],
+        "radical": "肉",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 22
+    },
+    {
+        "title": "臟",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄤˋ",
+                "pinyin": "zàng",
+                "definitions": [
+                    {
+                        "defn": "胸、腹腔內各器官的總稱。例:心臟、腎臟、肝臟"
+                    }
+                ]
+            }
+        ],
+        "radical": "肉",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 22
+    },
+    {
+        "title": "臟腑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄤˋ　ㄈㄨˇ",
+                "pinyin": "zàng fǔ",
+                "definitions": [
+                    {
+                        "defn": "人體內部器官的總稱。例:中醫強調，人體內各臟腑的陰陽精氣，要調和暢通，才能長保健康。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "艫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˊ",
+                "pinyin": "lú",
+                "definitions": [
+                    {
+                        "defn": "→舳艫"
+                    }
+                ]
+            }
+        ],
+        "radical": "舟",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "襯",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ",
+                "pinyin": "chèn",
+                "definitions": [
+                    {
+                        "defn": "1.墊在衣、帽、鞋內的布。例:鞋襯、帽襯、裡襯\n2.墊於內的。例:襯裙、襯衫\n3.烘托。例:襯托、陪襯\n4.施與、幫忙。例:幫襯、齋襯\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "衣",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "襯托",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　ㄊㄨㄛ",
+                "pinyin": "chèn tuō",
+                "definitions": [
+                    {
+                        "defn": "烘托，使主體明顯。例:這湖水在山林的襯托之下，更添靈秀之氣。"
+                    }
+                ],
+                "synonyms": "烘托、渲染"
+            }
+        ]
+    },
+    {
+        "title": "襯裡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　ㄌ一ˇ",
+                "pinyin": "chèn lǐ",
+                "definitions": [
+                    {
+                        "defn": "添襯在衣服裡面的布，使衣服厚暖硬挺。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襯裙",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　ㄑㄩㄣˊ",
+                "pinyin": "chèn qún",
+                "definitions": [
+                    {
+                        "defn": "女子裙內所穿的裡裙。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襯衫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　ㄕㄢ",
+                "pinyin": "chèn shān",
+                "definitions": [
+                    {
+                        "defn": "穿在西裝裡面的上衣，亦可單獨穿著。例:公司規定男同事上班時一律穿著白襯衫並繫上領帶。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襯衣",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　一",
+                "pinyin": "chèn yī",
+                "definitions": [
+                    {
+                        "defn": "內衣。例:這件襯衫的質料有點透明，最好先穿件襯衣比較好。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襯映",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄣˋ　一ㄥˋ",
+                "pinyin": "chèn yìng",
+                "definitions": [
+                    {
+                        "defn": "烘托對映。例:湖光襯映著山色。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ˊ",
+                "pinyin": "xí",
+                "definitions": [
+                    {
+                        "defn": "1.依循原有的而不改變。例:沿襲、因襲\n2.繼承、接受。例:世襲、襲爵\n3.乘人不備而攻擊。例:偷襲、侵襲、襲擊\n4.觸及、撲向。例:春風襲面、涼意襲人\n5.量詞。計算成套的衣服或被褥的單位。例:一襲灰衣\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "衣",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 22
+    },
+    {
+        "title": "襲擊",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ˊ　ㄐ一ˊ",
+                "pinyin": "xí jí",
+                "definitions": [
+                    {
+                        "defn": "趁人沒有防備的時候，突然發動攻擊。例:他被人自背後襲擊，頭上腫了一個包。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襲捲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ˊ　ㄐㄩㄢˇ",
+                "pinyin": "xí juǎn",
+                "definitions": [
+                    {
+                        "defn": "全面侵襲。例:大水襲捲了整個村莊，損失慘重。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "襲取",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ˊ　ㄑㄩˇ",
+                "pinyin": "xí qǔ",
+                "definitions": [
+                    {
+                        "defn": "1.趁其不備而奪取。例:他們奉命襲取彈藥庫，切斷敵軍火力的支援。\n2.沿用。例:她襲取梁山伯與祝英臺的故事，編寫了這齣戲。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)ㄉㄡˋ",
+                "pinyin": "(二)dòu",
+                "definitions": [
+                    {
+                        "defn": "句中語意未完，讀時須停頓的地方。通「逗」。例:句讀\n(一)ㄉㄨˊ\ndú"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)ㄉㄨˊ",
+                "pinyin": "(一)dú",
+                "definitions": [
+                    {
+                        "defn": "1.照著文字唸出聲音。例:誦讀、朗讀、宣讀\n2.看書。例:閱讀、值得一讀\n3.學習、研究。例:他之所以讀醫科，完全是基於自己的志趣。\n4.字的唸法。例:文讀、白讀\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "言",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "讀本",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄅㄣˇ",
+                "pinyin": "dú běn",
+                "definitions": [
+                    {
+                        "defn": "供研讀的書冊，多指語文方面的課本。例:英語讀本"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀秒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄇ一ㄠˇ",
+                "pinyin": "dú miǎo",
+                "definitions": [
+                    {
+                        "defn": "讀出秒數，用以提醒時間。如拳擊賽時，裁判對被擊倒的一方，進行讀秒；火箭發射在倒數時刻的讀秒；西洋人在除夕夜最後十秒的讀秒等。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀後感",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄏㄡˋ　ㄍㄢˇ",
+                "pinyin": "dú hòu gǎn",
+                "definitions": [
+                    {
+                        "defn": "看完文章或書本內容後的內心感受。例:老師要求我們選讀一本偉人傳記，然後寫下讀後感，當作暑假作業。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀取",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄑㄩˇ",
+                "pinyin": "dú qǔ",
+                "definitions": [
+                    {
+                        "defn": "由電腦的輸入單元，如磁碟、磁帶取得資訊，放入記憶體或暫存器的動作。例:唯讀記憶體只能讀取而不能寫入資料。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀寫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄒ一ㄝˇ",
+                "pinyin": "dú xiě",
+                "definitions": [
+                    {
+                        "defn": "電腦的讀取和寫入兩種動作。讀取是指資料由輸入單元，傳送到記憶體或暫存器的動作。寫入是指資料由記憶體或暫存器，傳送到輸出單元的動作。例:隨機存取記憶體具有讀寫功能，速度也很快。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀者",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄓㄜˇ",
+                "pinyin": "dú zhě",
+                "definitions": [
+                    {
+                        "defn": "閱讀書報雜誌文章的人。例:他是這份刊物的忠實讀者。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀者投書",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄓㄜˇ　ㄊㄡˊ　ㄕㄨ",
+                "pinyin": "dú zhě tóu shū",
+                "definitions": [
+                    {
+                        "defn": "新聞媒體在不經潤飾，或以不傷原意的前提下，僅作文字潤飾以刊出的讀者來信。內容性質大部分為個人經驗或事件的說明，或當下對公共事務、新聞事件的意見表達等。亦指媒體刊出該書信的版欄。例:讀者投書可以及時反映讀者意見，兼可提供關懷社會的溝通平臺。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀書",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄕㄨ",
+                "pinyin": "dú shū",
+                "definitions": [
+                    {
+                        "defn": "閱讀書籍。例:他的嗜好是讀書，所以常逛書店買書。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀書人",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄕㄨ　ㄖㄣˊ",
+                "pinyin": "dú shū rén",
+                "definitions": [
+                    {
+                        "defn": "指知識分子。例:他溫文有禮，出口成章，一看就知道是個讀書人。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀數",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄕㄨˋ",
+                "pinyin": "dú shù",
+                "definitions": [
+                    {
+                        "defn": "儀表、機器上，由指針或水銀柱等指出的刻度數目，稱為「讀數」。例:老師正在教學生如何準確看出儀器上的讀數。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀死書",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄙˇ　ㄕㄨ",
+                "pinyin": "dú sǐ shū",
+                "definitions": [
+                    {
+                        "defn": "執著於書本所說而不曉得變通、靈活運用。例:讀書而不能活用，就是讀死書。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀友",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　一ㄡˇ",
+                "pinyin": "dú yǒu",
+                "definitions": [
+                    {
+                        "defn": "經由讀物建立友誼的人。例:這本書的作者將親自為讀友簽名留念。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀音",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　一ㄣ",
+                "pinyin": "dú yīn",
+                "definitions": [
+                    {
+                        "defn": "1.字的唸法。例:統一讀音，能使國民語言相通，感情融洽。\n2.漢字在讀書或文言詞裡的唸法。如「追奔逐北」的「北」，讀音為ㄅㄛˋ，語音為ㄅㄟˇ。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讀物",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ　ㄨˋ",
+                "pinyin": "dú wù",
+                "definitions": [
+                    {
+                        "defn": "可供閱讀的書籍、雜誌、報紙等。例:書架上各種不同類型的兒童讀物，深深吸引了小朋友們的注意。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "贖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ",
+                "pinyin": "shú",
+                "definitions": [
+                    {
+                        "defn": "1.以財物換回人質或抵押品。例:贖金、贖回人質\n2.以財物或勞役來抵銷罪過或免除刑罰。例:將功贖罪\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "貝",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "贖款",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄎㄨㄢˇ",
+                "pinyin": "shú kuǎn",
+                "definitions": [
+                    {
+                        "defn": "為換取人身自由或取回典當物品所支付的錢。例:經過警方連日來的偵查，終於將歹徒緝捕並救回人質取回贖款。"
+                    }
+                ],
+                "synonyms": "贖金"
+            }
+        ]
+    },
+    {
+        "title": "贖回",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄏㄨㄟˊ",
+                "pinyin": "shú huí",
+                "definitions": [
+                    {
+                        "defn": "付出代價或用錢把抵押的東西取回來。例:他拿到獎金，立刻到當鋪把車子贖回。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "贖金",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄐ一ㄣ",
+                "pinyin": "shú jīn",
+                "definitions": [
+                    {
+                        "defn": "為取回典當物品或換取人身自由所付出的金錢。例:警方在歹徒現身取贖金的同時，將其逮捕到案。"
+                    }
+                ],
+                "synonyms": "贖款"
+            }
+        ]
+    },
+    {
+        "title": "贖刑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄒ一ㄥˊ",
+                "pinyin": "shú xíng",
+                "definitions": [
+                    {
+                        "defn": "古代稱以錢財來減免罪刑的刑罰。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "贖身",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄕㄣ",
+                "pinyin": "shú shēn",
+                "definitions": [
+                    {
+                        "defn": "用金錢來換回身體的自由。例:他想要為淪落風塵的朋友贖身，所以才變賣家當。"
+                    }
+                ],
+                "antonyms": "賣身"
+            }
+        ]
+    },
+    {
+        "title": "贖罪",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄕㄨˊ　ㄗㄨㄟˋ",
+                "pinyin": "shú zuì",
+                "definitions": [
+                    {
+                        "defn": "1.用行動或財物來抵銷所犯的罪過或免除刑罰。例:他對自己的惡行深表悔意，願意拿出一筆錢來贖罪。\n2.基督教及猶太教徒稱祭獻上帝以贖己罪為「贖罪」。例:她到教堂祈禱，向上帝贖罪。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "贗",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ",
+                "pinyin": "yàn",
+                "definitions": [
+                    {
+                        "defn": "假的、偽造的。例:贗品、贗本"
+                    }
+                ]
+            }
+        ],
+        "radical": "貝",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "贗品",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　ㄆ一ㄣˇ",
+                "pinyin": "yàn pǐn",
+                "definitions": [
+                    {
+                        "defn": "偽造仿冒的物品。例:警方在臨檢時，從一部可疑的車輛裡查獲一批名牌贗品手錶。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "躑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓˊ",
+                "pinyin": "zhí",
+                "definitions": [
+                    {
+                        "defn": "→躑躅"
+                    }
+                ]
+            }
+        ],
+        "radical": "足",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "躑躅",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓˊ　ㄓㄨˊ",
+                "pinyin": "zhí zhú",
+                "definitions": [
+                    {
+                        "defn": "徘徊不前的樣子。例:他走到門口卻又躑躅不前，不知有何顧忌。"
+                    }
+                ],
+                "synonyms": "踟躕、躊躇"
+            }
+        ]
+    },
+    {
+        "title": "躓",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓˋ",
+                "pinyin": "zhì",
+                "definitions": [
+                    {
+                        "defn": "1.跌倒。例:顛躓、躓踣（ㄅㄛˊ）\n2.阻礙、不順利。例:困躓\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "足",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "躕",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄨˊ",
+                "pinyin": "chú",
+                "definitions": [
+                    {
+                        "defn": "→踟躕"
+                    }
+                ]
+            }
+        ],
+        "radical": "足",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "轡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄆㄟˋ",
+                "pinyin": "pèi",
+                "definitions": [
+                    {
+                        "defn": "1.控制牛、馬等牲口的韁繩。例:並轡而行\n2.指韁繩與套在牲口嘴中控制用的器具。例:鞍轡、轡頭\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "車",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 22
+    },
+    {
+        "title": "酈",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˋ",
+                "pinyin": "lì",
+                "definitions": [
+                    {
+                        "defn": "姓。"
+                    }
+                ]
+            }
+        ],
+        "radical": "邑",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 22
+    },
+    {
+        "title": "鑄",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˋ",
+                "pinyin": "zhù",
+                "definitions": [
+                    {
+                        "defn": "1.將金屬鎔化倒入模型中冷卻凝固，做成各種器物。例:鑄錢、鑄劍\n2.造就、培養。例:鑄成大錯\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "鑄鐵",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˋ　ㄊ一ㄝˇ",
+                "pinyin": "zhù tiě",
+                "definitions": [
+                    {
+                        "defn": "含鐵的礦石在經過鼓風爐冶鍊後，所得到最初的粗鐵。含碳量最高，體硬且脆。可繼續鍛鍊，除去碳和雜質，來製造鐵或鋼等。例:鑄鐵鍛鍊後的鋼鐵，可用為汽車、國防、造船等工業的原料。　△生鐵、銑鐵"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑄工",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˋ　ㄍㄨㄥ",
+                "pinyin": "zhù gōng",
+                "definitions": [
+                    {
+                        "defn": "1.鑄造器物的技術。例:這件上古銅器的鑄工很精緻，極富觀賞和研究價值。\n2.鑄造器物的技術工人。例:他是一位技術很好的鑄工。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑄造",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨˋ　ㄗㄠˋ",
+                "pinyin": "zhù zào",
+                "definitions": [
+                    {
+                        "defn": "將金屬鎔融後，注入特定形狀的模子裡，等冷卻變硬後，便可從模子中取出鑄成的物品。例:每當新年將屆，中央印製廠都會鑄造生肖紀念金幣，向外界公開發行。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑊",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄛˋ",
+                "pinyin": "huò",
+                "definitions": [
+                    {
+                        "defn": "1.古代烹煮食物的大鍋。例:鼎鑊\n2.古代一種烹人的刑具。例:鑊烹、鑊煮\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "鑑",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ",
+                "pinyin": "jiàn",
+                "definitions": [
+                    {
+                        "defn": "1.鏡子。例:銅鑑\n2.可以作為警惕、教訓、紀念等的事。例:前車之鑑\n3.作為證明的信物。例:印鑑\n4.照、映照。例:光可鑑人、水清可鑑\n5.審察、細看。例:鑑別、鑑定、鑑賞\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "鑑別",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄅ一ㄝˊ",
+                "pinyin": "jiàn bié",
+                "definitions": [
+                    {
+                        "defn": "審察辨別事物的真假好壞。例:她是位鑑別波斯古物的專家，在國際上享有極高的聲譽。"
+                    }
+                ],
+                "synonyms": "鑑識"
+            }
+        ]
+    },
+    {
+        "title": "鑑定",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄉ一ㄥˋ",
+                "pinyin": "jiàn dìng",
+                "definitions": [
+                    {
+                        "defn": "判定事物的真偽優劣。例:經過專家鑑定，這件瓷器確實是古董。　△鑒定"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑑古推今",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄍㄨˇ　ㄊㄨㄟ　ㄐ一ㄣ",
+                "pinyin": "jiàn gǔ tuī jīn",
+                "definitions": [
+                    {
+                        "defn": "觀察歷史的教訓或足以效法的地方，以推知現今的作法優劣。例:歷史就像一面鏡子，可以讓後人鑑古推今，避免重蹈覆轍。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑑識",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄕˋ",
+                "pinyin": "jiàn shì",
+                "definitions": [
+                    {
+                        "defn": "鑑察識別。例:請你鑑識一下這是不是一張假美鈔。"
+                    }
+                ],
+                "synonyms": "鑑別"
+            }
+        ]
+    },
+    {
+        "title": "鑑賞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄕㄤˇ",
+                "pinyin": "jiàn shǎng",
+                "definitions": [
+                    {
+                        "defn": "鑑定賞玩。例:他鑒賞古代書畫的能力，受到同行一致的肯定。　△鑒賞"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ",
+                "pinyin": "jiàn",
+                "definitions": [
+                    {
+                        "defn": "1.鏡子。同「鑑」。\n2.明察、審察。例:鑒定、鑒別\n3.借鏡、可以作為警戒或教訓的事。例:殷鑒不遠\n4.書信用語。用於開頭的稱謂之後，表示請人看信的意思。例:鈞鑒、大鑒、臺鑒\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "鑒定",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄉ一ㄥˋ",
+                "pinyin": "jiàn dìng",
+                "definitions": [
+                    {
+                        "defn": "→鑑定"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑒賞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢˋ　ㄕㄤˇ",
+                "pinyin": "jiàn shǎng",
+                "definitions": [
+                    {
+                        "defn": "→鑑賞"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "霽",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ˋ",
+                "pinyin": "jì",
+                "definitions": [
+                    {
+                        "defn": "1.雨後或霜雪過後轉晴。例:雪霽、秋雨新霽、大雪初霽\n2.明朗的。例:霽月、霽日\n3.比喻怒氣消散，臉色轉為和悅。例:色霽\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "雨",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "霾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄞˊ",
+                "pinyin": "mái",
+                "definitions": [
+                    {
+                        "defn": "懸浮在空氣中的煙、塵等微粒聚集形成的昏暗現象。例:天空一片陰霾。"
+                    }
+                ]
+            }
+        ],
+        "radical": "雨",
+        "non_radical_stroke_count": 14,
+        "stroke_count": 22
+    },
+    {
+        "title": "韁",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄤ",
+                "pinyin": "jiāng",
+                "definitions": [
+                    {
+                        "defn": "繫在牲口頸上，用以拴住牽拉的繩子。例:脫韁野馬"
+                    }
+                ]
+            }
+        ],
+        "radical": "革",
+        "non_radical_stroke_count": 13,
+        "stroke_count": 22
+    },
+    {
+        "title": "韁繩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄤ　ㄕㄥˊ",
+                "pinyin": "jiāng shéng",
+                "definitions": [
+                    {
+                        "defn": "拴住及操縱牲口的繩子。例:騎馬時，要確實握緊韁繩，以免發生危險。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "韃",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄚˊ",
+                "pinyin": "dá",
+                "definitions": [
+                    {
+                        "defn": "→韃靼"
+                    }
+                ]
+            }
+        ],
+        "radical": "革",
+        "non_radical_stroke_count": 13,
+        "stroke_count": 22
+    },
+    {
+        "title": "韃靼",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄚˊ　ㄉㄚˊ",
+                "pinyin": "dá dá",
+                "definitions": [
+                    {
+                        "defn": "唐末蒙古種族之一。是契丹的西北族，沙陀的別種，散居在中國西北、蒙古、中亞、獨立國協東部等地。元亡後，其宗族走漠北，於清朝時歸附。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "韃虜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄚˊ　ㄌㄨˇ",
+                "pinyin": "dá lǔ",
+                "definitions": [
+                    {
+                        "defn": "原指中國大陸北方蒙古、女真等遊牧民族，清末特指滿清。例:國父孫中山先生成立同盟會時，提出以「驅逐韃虜，恢復中華，創立民國，平均地權」十六字做為政治綱領。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ",
+                "pinyin": "zhàn",
+                "definitions": [
+                    {
+                        "defn": "1.身體因受寒或驚恐而抖動。例:顫悸、寒顫、手顫腳麻\n2.物體搖動或晃動。例:顫動、顫震\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "頁",
+        "non_radical_stroke_count": 13,
+        "stroke_count": 22
+    },
+    {
+        "title": "顫抖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　ㄉㄡˇ",
+                "pinyin": "zhàn dǒu",
+                "definitions": [
+                    {
+                        "defn": "身體抖動。例:氣溫突然下降，衣服單薄，令人不由得顫抖起來。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫動",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　ㄉㄨㄥˋ",
+                "pinyin": "zhàn dòng",
+                "definitions": [
+                    {
+                        "defn": "顫抖、振動。例:早上發生有感地震，門窗玻璃顫動不已。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫慄",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　ㄌ一ˋ",
+                "pinyin": "zhàn lì",
+                "definitions": [
+                    {
+                        "defn": "身體因恐懼、寒冷或激動而抖動。例:那部恐怖電影情節詭異，畫面血腥，從頭到尾令人顫慄不已。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫聲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　ㄕㄥ",
+                "pinyin": "zhàn shēng",
+                "definitions": [
+                    {
+                        "defn": "因情緒激動或害怕而顫抖的聲音。例:從顫聲中可以感覺到她情緒非常激動。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫音",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　一ㄣ",
+                "pinyin": "zhàn yīn",
+                "definitions": [
+                    {
+                        "defn": "1.一種樂器演奏法。演奏樂器時，將上下兩音急速交替奏出，產生具有特殊效果的共鳴聲音。　△震音\n2.氣流由喉至口腔，藉由發聲器官中，舌或脣的急速顫動，使氣流通道開放、阻塞急速交替，所構成的一種輔音。　△抖音\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "顫巍巍",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄢˋ　ㄨㄟˊ　ㄨㄟˊ",
+                "pinyin": "zhàn wéi wéi",
+                "definitions": [
+                    {
+                        "defn": "形容顫動、搖曳、閃爍的樣子。例:門口走進一位婦人，身軀一步一搖，頭髮上那枝金釵隨著顫巍巍的晃著。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "饕",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄠ",
+                "pinyin": "tāo",
+                "definitions": [
+                    {
+                        "defn": "1.貪求。例:饕家、饕戾\n2.→饕餮\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "食",
+        "non_radical_stroke_count": 13,
+        "stroke_count": 22
+    },
+    {
+        "title": "饕餮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄊㄠ　ㄊ一ㄝˋ",
+                "pinyin": "tāo tiè",
+                "definitions": [
+                    {
+                        "defn": "1.傳說中一種凶惡貪食的野獸。古代鐘鼎彝器多刻其頭形以為飾。例:青銅器上的饕餮面紋，變化眾多。\n2.比喻貪吃的人。簡稱為「饕」。如老饕\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驊",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄚˊ",
+                "pinyin": "huá",
+                "definitions": [
+                    {
+                        "defn": "→驊騮"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 12,
+        "stroke_count": 22
+    },
+    {
+        "title": "驊騮",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄨㄚˊ　ㄌ一ㄡˊ",
+                "pinyin": "huá liú",
+                "definitions": [
+                    {
+                        "defn": "周穆王八匹駿馬之一。後泛指紅色的駿馬。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驍",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄠ",
+                "pinyin": "xiāo",
+                "definitions": [
+                    {
+                        "defn": "勇武剛健。例:驍勇、驍悍"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 12,
+        "stroke_count": 22
+    },
+    {
+        "title": "驍勇",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄠ　ㄩㄥˇ",
+                "pinyin": "xiāo yǒng",
+                "definitions": [
+                    {
+                        "defn": "勇猛。例:漢朝名將李廣驍勇善戰，屢破匈奴而立下奇功。"
+                    }
+                ],
+                "antonyms": ""
+            }
+        ]
+    },
+    {
+        "title": "驕",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ",
+                "pinyin": "jiāo",
+                "definitions": [
+                    {
+                        "defn": "1.自高、自滿。例:驕傲、驕兵必敗\n2.受寵愛的。通「嬌」。例:驕妾、天之驕子\n3.猛烈、強烈。例:驕陽\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 12,
+        "stroke_count": 22
+    },
+    {
+        "title": "驕橫",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄏㄥˋ",
+                "pinyin": "jiāo hèng",
+                "definitions": [
+                    {
+                        "defn": "傲慢蠻橫。例:在老師耐心的開導之下，原本驕橫無禮的學生漸漸走回正軌。"
+                    }
+                ],
+                "antonyms": "謙恭、謙和、謙虛、謙遜"
+            }
+        ]
+    },
+    {
+        "title": "驕矜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄐ一ㄣ",
+                "pinyin": "jiāo jīn",
+                "definitions": [
+                    {
+                        "defn": "傲慢、自大。例:我看他小有成就已有驕矜之色，恐難成大器。"
+                    }
+                ],
+                "antonyms": "謙虛"
+            }
+        ]
+    },
+    {
+        "title": "驕寵",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄔㄨㄥˇ",
+                "pinyin": "jiāo chǒng",
+                "definitions": [
+                    {
+                        "defn": "極受寵愛。例:小妹是家中倍受父母驕寵的么女。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驕奢",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄕㄜ",
+                "pinyin": "jiāo shē",
+                "definitions": [
+                    {
+                        "defn": "驕縱奢侈。例:那個富家子驕奢成性，不久就把祖傳的家產給敗光了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驕奢淫逸",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄕㄜ　一ㄣˊ　一ˋ",
+                "pinyin": "jiāo shē yín yì",
+                "definitions": [
+                    {
+                        "defn": "驕橫奢侈，荒淫無度。例:綜觀歷史，治國者若驕奢淫逸，最終往往走上亡國之路。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "驕恣",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄗˋ",
+                "pinyin": "jiāo zì",
+                "definitions": [
+                    {
+                        "defn": "傲慢、任性。例:他的個性驕恣，所作所為常令人反感。"
+                    }
+                ],
+                "synonyms": "驕縱"
+            }
+        ]
+    },
+    {
+        "title": "驕縱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄗㄨㄥˋ",
+                "pinyin": "jiāo zòng",
+                "definitions": [
+                    {
+                        "defn": "傲慢任性。例:過度溺愛小孩，容易養成其驕縱的性格。"
+                    }
+                ],
+                "synonyms": "驕恣"
+            }
+        ]
+    },
+    {
+        "title": "驕傲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　ㄠˋ",
+                "pinyin": "jiāo ào",
+                "definitions": [
+                    {
+                        "defn": "傲慢自大。例:他因驕傲輕敵而輸掉這場比賽。"
+                    }
+                ],
+                "synonyms": "高傲",
+                "antonyms": "謙虛、謙遜"
+            }
+        ]
+    },
+    {
+        "title": "驕陽",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄠ　一ㄤˊ",
+                "pinyin": "jiāo yáng",
+                "definitions": [
+                    {
+                        "defn": "強烈的陽光。例:運動員在驕陽下揮汗練習，希望能在這次國際比賽中為國爭光。"
+                    }
+                ],
+                "synonyms": "烈日"
+            }
+        ]
+    },
+    {
+        "title": "鬚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒㄩ",
+                "pinyin": "xū",
+                "definitions": [
+                    {
+                        "defn": "1.生於人類下巴的鬍子。例:鬍鬚、鬚髯\n2.動物的觸鬚。例:羊鬚、鼠鬚、虎鬚\n3.像鬚一樣的東西。例:參鬚、鬚根\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "髟",
+        "non_radical_stroke_count": 12,
+        "stroke_count": 22
+    },
+    {
+        "title": "鬚眉",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒㄩ　ㄇㄟˊ",
+                "pinyin": "xū méi",
+                "definitions": [
+                    {
+                        "defn": "本指鬍鬚和眉毛。後借指成年男子。例:花木蘭代父從軍，英勇不讓鬚眉。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ",
+                "pinyin": "yù",
+                "definitions": [
+                    {
+                        "defn": "1.賣。例:鬻文、賣官鬻爵\n2.幼稚、幼小。例:鬻子\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "鬲",
+        "non_radical_stroke_count": 12,
+        "stroke_count": 22
+    },
+    {
+        "title": "鰱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ㄢˊ",
+                "pinyin": "lián",
+                "definitions": [
+                    {
+                        "defn": "動物名。脊椎動物亞門硬骨魚綱鯉目鯉科。體側扁而較高，呈紡錘形。鱗細，色灰白，稱為「白鰱」。其性活潑，善跳躍。體色較黑者稱為「黑鰱」，因頭較大，亦稱為「大頭鰱」。後者性較溫和。均以浮游生物為主食，棲息在淡水河川或湖泊中。是我國重要的淡水養殖魚類之一。"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鰲",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄠˊ",
+                "pinyin": "áo",
+                "definitions": [
+                    {
+                        "defn": "一種海中的大龜。例:巨鰲、獨占鰲頭"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鰹",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄐ一ㄢ",
+                "pinyin": "jiān",
+                "definitions": [
+                    {
+                        "defn": "動物名。硬骨魚綱鱸目鯖科。體長可達一公尺，呈紡錘形，藍色，背側有淺色斑條，腹部銀白色，兩側有褐色縱條。頭大，口尖，尾細小。游泳迅速，以小魚和浮游甲殼類為食。肉厚刺少，滋味鮮美，含有豐富的蛋白質，是海洋漁業重要的經濟魚類。"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鰻",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ",
+                "pinyin": "mán",
+                "definitions": [
+                    {
+                        "defn": "動物名。脊椎動物亞門硬骨魚綱鰻目。頭尖，體圓柱狀而細長，似蛇，富黏液，滑溜難抓。生長於河流湖泊中，產卵期則游至海中繁殖。　△鰻魚、白鱔"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鰻魚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄇㄢˊ　ㄩˊ",
+                "pinyin": "mán yú",
+                "definitions": [
+                    {
+                        "defn": "→鰻"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鰾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄅ一ㄠˋ",
+                "pinyin": "biào",
+                "definitions": [
+                    {
+                        "defn": "魚胞，大多數硬骨魚類所具有的浮力器官。位於胸部中間，內有氣體，可以自由漲縮以調節魚體的比重，使魚在水中能上升或下沉。又可作為發聲的共鳴箱或輔助呼吸。某些底棲和深海硬骨魚以及全部軟骨魚無鰾。　△氣鰾、魚鰾、泳鰾"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鱈",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒㄩㄝˇ",
+                "pinyin": "xuě",
+                "definitions": [
+                    {
+                        "defn": "動物名。鱈形目鱈科。產於寒冷的深海。體長，口大，鱗細，下頷有一觸鬚。肉白似雪，可供食用。肝含脂量高，可製魚肝油。例:鱈的肉質鮮美，適合清蒸食用。　△鱈魚"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鱉",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄅ一ㄝ",
+                "pinyin": "biē",
+                "definitions": [
+                    {
+                        "defn": "動物名。脊椎動物亞門爬蟲綱龜鱉目。外形像龜，背甲圓形，呈灰黑色，有軟皮。腹部白色或淡黃色。頸部甚長，四肢粗短，有厚蹼。多棲息於湖沼等溫、熱帶水域。　△團魚、甲魚、王八"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鷓",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄜˋ",
+                "pinyin": "zhè",
+                "definitions": [
+                    {
+                        "defn": "→鷓鴣"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鷓鴣",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄜˋ　ㄍㄨ",
+                "pinyin": "zhè gū",
+                "definitions": [
+                    {
+                        "defn": "動物名。鳥綱鳩鴿目。體大如鳩，頭頂暗紫紅色，背灰褐色。嘴紅，腹部帶黃色，腳深紅。群棲地上，築巢於土穴中。捕食昆蟲及蚯蚓等。例:晉朝的左思曾形容鷓鴣鳴叫的聲音像「行不得也哥哥」。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鷗",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄡ",
+                "pinyin": "ōu",
+                "definitions": [
+                    {
+                        "defn": "鷗目鷗科鳥類的通稱。種類繁多，體型大小不一。羽毛大多以白色為主。頭、背、尾呈黑或灰色。嘴的前端彎曲如鉤。趾間有蹼，善游水。翼長，善於飛行，但很少飛到遠洋地區。大多在陸地上繁殖和覓食，雜食性，素有「海邊的清道夫」之稱。"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 11,
+        "stroke_count": 22
+    },
+    {
+        "title": "鼴",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˇ",
+                "pinyin": "yǎn",
+                "definitions": [
+                    {
+                        "defn": "→鼴鼠"
+                    }
+                ]
+            }
+        ],
+        "radical": "鼠",
+        "non_radical_stroke_count": 9,
+        "stroke_count": 22
+    },
+    {
+        "title": "鼴鼠",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˇ　ㄕㄨˇ",
+                "pinyin": "yǎn shǔ",
+                "definitions": [
+                    {
+                        "defn": "動物名。哺乳綱食蟲目。體為圓筒形，稍扁平。身長五寸多，毛黑褐色。眼極小，常年居土中，不見日光，視覺因而喪失。嗅覺、聽覺特別敏銳。趾上有鉤爪，善於掘土。以捕食昆蟲為生。例:鼴鼠白天躲在地洞中，夜晚才出來捕食昆蟲。　△田鼠、錢鼠、偃鼠"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "齪",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄔㄨㄛˋ",
+                "pinyin": "chuò",
+                "definitions": [
+                    {
+                        "defn": "→齷齪"
+                    }
+                ]
+            }
+        ],
+        "radical": "齒",
+        "non_radical_stroke_count": 7,
+        "stroke_count": 22
+    },
+    {
+        "title": "齬",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˇ",
+                "pinyin": "yǔ",
+                "definitions": [
+                    {
+                        "defn": "→齟齬"
+                    }
+                ]
+            }
+        ],
+        "radical": "齒",
+        "non_radical_stroke_count": 7,
+        "stroke_count": 22
+    },
+    {
+        "title": "龔",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄥ",
+                "pinyin": "gōng",
+                "definitions": [
+                    {
+                        "defn": "姓。"
+                    }
+                ]
+            }
+        ],
+        "radical": "龍",
+        "non_radical_stroke_count": 6,
+        "stroke_count": 22
+    },
+    {
+        "title": "龕",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄎㄢ",
+                "pinyin": "kān",
+                "definitions": [
+                    {
+                        "defn": "供奉神、佛像或祖先牌位的石室或櫥櫃。例:神龕、佛龕"
+                    }
+                ]
+            }
+        ],
+        "radical": "龍",
+        "non_radical_stroke_count": 6,
+        "stroke_count": 22
+    },
+    {
+        "title": "龢",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄏㄜˊ",
+                "pinyin": "hé",
+                "definitions": [
+                    {
+                        "defn": "調諧。同「和」(一)3.。"
+                    }
+                ]
+            }
+        ],
+        "radical": "龠",
+        "non_radical_stroke_count": 5,
+        "stroke_count": 22
+    }
+]
