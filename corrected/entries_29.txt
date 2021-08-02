@@ -1,0 +1,186 @@
+[
+    {
+        "title": "爨",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄘㄨㄢˋ",
+                "pinyin": "cuàn",
+                "definitions": [
+                    {
+                        "defn": "1.用火燒熟食物。例:分爨\n2.爐灶。例:爨下\n3.中國少數民族之一。主要分布在今雲南省東部地區。\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "火",
+        "non_radical_stroke_count": 25,
+        "stroke_count": 29
+    },
+    {
+        "title": "驪",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ",
+                "pinyin": "lí",
+                "definitions": [
+                    {
+                        "defn": "純黑色的馬。例:驪駒"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 29
+    },
+    {
+        "title": "驪歌",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ　ㄍㄜ",
+                "pinyin": "lí gē",
+                "definitions": [
+                    {
+                        "defn": "離別時所唱的歌。例:每當驪歌聲起，校園裡就充滿了離別的愁緒。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬱",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ",
+                "pinyin": "yù",
+                "definitions": [
+                    {
+                        "defn": "1.積聚，凝滯。例:鬱積、鬱結\n2.愁悶。例:憂鬱、鬱氣\n3.茂盛。例:鬱茂、蓊鬱\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "鬯",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 29
+    },
+    {
+        "title": "鬱悶",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄇㄣˋ",
+                "pinyin": "yù mèn",
+                "definitions": [
+                    {
+                        "defn": "愁悶不舒暢的樣子。例:他最近身體不好，時常感到胸口鬱悶。"
+                    }
+                ],
+                "antonyms": "暢快、舒坦、舒暢、爽快"
+            }
+        ]
+    },
+    {
+        "title": "鬱積",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄐ一",
+                "pinyin": "yù jī",
+                "definitions": [
+                    {
+                        "defn": "積聚。例:聽到那個好消息，她心中鬱積多時的陰霾終於一掃而空。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬱結",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄐ一ㄝˊ",
+                "pinyin": "yù jié",
+                "definitions": [
+                    {
+                        "defn": "積聚不舒暢。例:心有鬱結，當然悶悶不樂。"
+                    }
+                ],
+                "synonyms": "鬱積"
+            }
+        ]
+    },
+    {
+        "title": "鬱金香",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄐ一ㄣ　ㄒ一ㄤ",
+                "pinyin": "yù jīn xiāng",
+                "definitions": [
+                    {
+                        "defn": "植物名。百合科山慈姑屬，多生年草本。原產於小亞細亞。葉接莖下部互生，呈廣披針形或橢圓狀披針形，葉緣略向內捲。花似倒鐘形，亦稱為「鬱金香」，花瓣六片，有單瓣也有重瓣，很容易產生變種。原種為白色紅緣，另有赤、黃、白、紫等色。主供觀賞。例:鬱金香是荷蘭花卉出口的大宗。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬱卒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄗㄨˊ",
+                "pinyin": "yù zú",
+                "definitions": [
+                    {
+                        "defn": "閩南方言。心中愁悶不暢快。例:成績單一發下來，五科當了四科，真叫人鬱卒。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬱鬱不樂",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄩˋ　ㄅㄨˋ　ㄌㄜˋ　（變）ㄩˋ　ㄩˋ　ㄅㄨˊ　ㄌㄜˋ",
+                "pinyin": "yù yù bù lè　（變）yù yù bú lè",
+                "definitions": [
+                    {
+                        "defn": "憂悶的樣子。例:為了老師的責備，他一整天都鬱鬱不樂。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鬱鬱寡歡",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄩˋ　ㄩˋ　ㄍㄨㄚˇ　ㄏㄨㄢ",
+                "pinyin": "yù yù guǎ huān",
+                "definitions": [
+                    {
+                        "defn": "悶悶不樂。例:他這幾日來愁眉不展，鬱鬱寡歡，不知有什麼煩惱。"
+                    }
+                ],
+                "synonyms": "悶悶不樂、悒悒不樂、怏怏不樂",
+                "antonyms": "洋洋得意"
+            }
+        ]
+    },
+    {
+        "title": "鸛",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄍㄨㄢˋ",
+                "pinyin": "guàn",
+                "definitions": [
+                    {
+                        "defn": "泛指鸛形目鸛科的鳥類。嘴頸皆長，以蛇、蛙、魚類、昆蟲等為食，常棲息於水澤邊。善於飛行，因不具鳴管而無法發聲，僅能碰撞兩嘴表示情感。主要分布於熱帶和溫帶地區。"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 29
+    }
+]

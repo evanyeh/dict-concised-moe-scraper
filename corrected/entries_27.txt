@@ -1,0 +1,439 @@
+[
+    {
+        "title": "纜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ",
+                "pinyin": "lǎn",
+                "definitions": [
+                    {
+                        "defn": "1.繫船用的繩索。例:船纜、解纜\n2.粗繩或繩狀物。例:纜繩、電纜\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "糸",
+        "non_radical_stroke_count": 21,
+        "stroke_count": 27
+    },
+    {
+        "title": "纜線",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ　ㄒ一ㄢˋ",
+                "pinyin": "lǎn xiàn",
+                "definitions": [
+                    {
+                        "defn": "粗的繩狀物。例:颱風過後，電力公司出動大批人力搶修受損的纜線，希望能儘速恢復供電。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "纜車",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ　ㄔㄜ",
+                "pinyin": "lǎn chē",
+                "definitions": [
+                    {
+                        "defn": "一種以電力操縱，利用鋼索和滑輪運輸的交通工具。有地上及空中兩種，可載運貨物或旅客。例:滑雪者乘坐纜車到山頂，再滑行下來。　△懸空電車"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "纜繩",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄢˇ　ㄕㄥˊ",
+                "pinyin": "lǎn shéng",
+                "definitions": [
+                    {
+                        "defn": "用多股棕麻、金屬絲等材料等所擰絞成的粗繩。例:拔河比賽時，裁判將纜繩中央的紅布對準分界，然後才進行比賽。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "讜",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄤˇ",
+                "pinyin": "dǎng",
+                "definitions": [
+                    {
+                        "defn": "正直的。例:讜論、讜言"
+                    }
+                ]
+            }
+        ],
+        "radical": "言",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 27
+    },
+    {
+        "title": "讞",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ",
+                "pinyin": "yàn",
+                "definitions": [
+                    {
+                        "defn": "審判定罪。例:三審定讞"
+                    }
+                ]
+            }
+        ],
+        "radical": "言",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 27
+    },
+    {
+        "title": "躪",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ㄣˋ",
+                "pinyin": "lìn",
+                "definitions": [
+                    {
+                        "defn": "踐踏。例:蹂躪"
+                    }
+                ]
+            }
+        ],
+        "radical": "足",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 27
+    },
+    {
+        "title": "鑼",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ",
+                "pinyin": "luó",
+                "definitions": [
+                    {
+                        "defn": "樂器名。屬打擊樂器。為銅製的淺平圓盤，用槌敲擊發聲。例:銅鑼、鑼鼓"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 27
+    },
+    {
+        "title": "鑼鼓",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ　ㄍㄨˇ",
+                "pinyin": "luó gǔ",
+                "definitions": [
+                    {
+                        "defn": "泛指各種打擊樂器。例:這支由小朋友組成的鑼鼓樂隊，鏗鏗鏘鏘的搶足了所有遊行隊伍的風頭。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑼鼓喧天",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄛˊ　ㄍㄨˇ　ㄒㄩㄢ　ㄊ一ㄢ",
+                "pinyin": "luó gǔ xuān tiān",
+                "definitions": [
+                    {
+                        "defn": "形容氣氛熱鬧非凡。例:迎神賽會裡，到處都是鑼鼓喧天的歡樂場面。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽探",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　ㄊㄢˋ",
+                "pinyin": "zuān tàn",
+                "definitions": [
+                    {
+                        "defn": "1.向地下鑽孔，取出土壤或岩心，以供研究地層的構造、土壤的性質或探勘礦藏。例:石油公司的技術人員從外海的一口油井鑽探到豐富的油氣，正準備開採。\n2.比喻刻意的挖取。例:喜歡鑽探別人隱私，又到處宣揚的人，最令人討厭。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽天入地",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　ㄊ一ㄢ　ㄖㄨˋ　ㄉ一ˋ",
+                "pinyin": "zuān tiān rù dì",
+                "definitions": [
+                    {
+                        "defn": "形容到處營謀尋求。例:他因為資金周轉不靈，急得鑽天入地的到處找人幫忙。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽牛角尖",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　ㄋ一ㄡˊ　ㄐ一ㄠˇ　ㄐ一ㄢ",
+                "pinyin": "zuān niú jiǎo jiān",
+                "definitions": [
+                    {
+                        "defn": "比喻人固執而不知變通，費力的研究無用或無法解決的問題。例:凡事要想開點，不要鑽牛角尖。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽孔",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　ㄎㄨㄥˇ",
+                "pinyin": "zuān kǒng",
+                "definitions": [
+                    {
+                        "defn": "穿孔。例:工人用電鑽鑽孔，準備安裝新的機器。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽床",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　ㄔㄨㄤˊ",
+                "pinyin": "zuān chuáng",
+                "definitions": [
+                    {
+                        "defn": "一種切削金屬的工具機。利用馬達旋轉帶動鑽頭，能將工件鑽孔。例:鑽床放置工件處是一個平臺，所以稱為「鑽床」。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽研",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　一ㄢˊ",
+                "pinyin": "zuān yán",
+                "definitions": [
+                    {
+                        "defn": "深入研究。例:她不斷鑽研繪畫技巧，因此畫風日益高明。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽營",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢ　一ㄥˊ",
+                "pinyin": "zuān yíng",
+                "definitions": [
+                    {
+                        "defn": "攀附權貴，以達某一目的。例:小沈一味鑽營巴結，以求升官，同事莫不引以為恥。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽",
+        "heteronyms": [
+            {
+                "bopomofo": "(二)ㄗㄨㄢˋ",
+                "pinyin": "(二)zuàn",
+                "definitions": [
+                    {
+                        "defn": "1.穿孔的器具。例:電鑽、冰鑽、鑽頭\n2.金剛石。化學成分為純粹的碳素，為等軸晶系，常為八面體，對光線的折射率強，多用來作飾品、鑽頭等。例:金剛鑽、碎鑽、鑽戒　△鑽石\n"
+                    }
+                ]
+            },
+            {
+                "bopomofo": "(一)ㄗㄨㄢ",
+                "pinyin": "(一)zuān",
+                "definitions": [
+                    {
+                        "defn": "1.用鑽子之類的器具在物體旋轉穿洞。例:鑽洞、鑽木、鑽孔\n2.穿行、穿進。例:火車鑽山洞。\n3.尋找、尋探。例:他是很會鑽的人，那裡有機會，他就往那裡衝。\n4.深入研究。例:鑽研\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 27
+    },
+    {
+        "title": "鑽戒",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢˋ　ㄐ一ㄝˋ",
+                "pinyin": "zuàn jiè",
+                "definitions": [
+                    {
+                        "defn": "鑲有鑽石的戒指。例:他用一只鑽戒作為求婚的禮物。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽石",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢˋ　ㄕˊ",
+                "pinyin": "zuàn shí",
+                "definitions": [
+                    {
+                        "defn": "一種由純炭質組成，為八面或十二面體的結晶礦石。硬度極高，無色透明，折光力強，可製飾物或作為切割玻璃、岩石的工具。　△金剛石"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑽子",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄨㄢˋ　˙ㄗ",
+                "pinyin": "zuàn zi",
+                "definitions": [
+                    {
+                        "defn": "穿孔用的工具。例:他用鑽子將桃核一一鑽孔，再用絲繩穿起來做成項鍊。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑾",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "繫在君王車駕上的鈴鐺。常借以指與君王有關的事物。例:鑾駕、金鑾殿"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 27
+    },
+    {
+        "title": "顴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄑㄩㄢˊ",
+                "pinyin": "quán",
+                "definitions": [
+                    {
+                        "defn": "面頰骨。例:高顴、兩顴"
+                    }
+                ]
+            }
+        ],
+        "radical": "頁",
+        "non_radical_stroke_count": 18,
+        "stroke_count": 27
+    },
+    {
+        "title": "驤",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄒ一ㄤ",
+                "pinyin": "xiāng",
+                "definitions": [
+                    {
+                        "defn": "1.後右足白色的馬。\n2.馬抬起頭疾速奔跑。例:騰驤\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "馬",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 27
+    },
+    {
+        "title": "鱷",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄜˋ",
+                "pinyin": "è",
+                "definitions": [
+                    {
+                        "defn": "動物名。爬蟲類鱷目。體型龐大，外形似蜥蜴，吻長而廣，齒銳，鱗甲堅硬，四足均有蹼。卵生。平時喜棲沼澤中，靠身體擺動及尾部拍擊在水中前進。性情凶猛，以魚、鳥、哺乳類等小型動物為食。產於熱帶及亞熱帶地區。依嘴形大致可分為寬吻鱷、球吻鱷及長吻鱷。　△鱷魚"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 27
+    },
+    {
+        "title": "鱷魚",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄜˋ　ㄩˊ",
+                "pinyin": "è yú",
+                "definitions": [
+                    {
+                        "defn": "→鱷"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鱸",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨˊ",
+                "pinyin": "lú",
+                "definitions": [
+                    {
+                        "defn": "動物名。脊椎動物亞門硬骨魚綱鱸形目。頭大，身體狹長。巨口細鱗，下顎稍突出。背部淡蒼色，腹部白色，體側及背鰭有黑斑。性凶猛，以魚蝦為食。常棲於近海，夏季由海溯流而上，冬季從河川游入大海。可供食用。"
+                    }
+                ]
+            }
+        ],
+        "radical": "魚",
+        "non_radical_stroke_count": 16,
+        "stroke_count": 27
+    },
+    {
+        "title": "黷",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄉㄨˊ",
+                "pinyin": "dú",
+                "definitions": [
+                    {
+                        "defn": "1.輕慢、不恭敬。例:黷慢\n2.濫用，沒有節制。例:窮兵黷武\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "黑",
+        "non_radical_stroke_count": 15,
+        "stroke_count": 27
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "鸝",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ˊ",
+                "pinyin": "lí",
+                "definitions": [
+                    {
+                        "defn": "→黃鸝"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 30
+    },
+    {
+        "title": "鸞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ",
+                "pinyin": "luán",
+                "definitions": [
+                    {
+                        "defn": "傳說中屬鳳凰一類的神鳥。例:鸞鳳和鳴"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 19,
+        "stroke_count": 30
+    },
+    {
+        "title": "鸞鳳和鳴",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌㄨㄢˊ　ㄈㄥˋ　ㄏㄜˊ　ㄇ一ㄥˊ",
+                "pinyin": "luán fèng hé míng",
+                "definitions": [
+                    {
+                        "defn": "比喻夫妻間感情融洽、和諧。後人常用來祝賀新婚。例:結婚時，禮堂通常掛有繡著鸞鳳和鳴四字的喜幛。"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "title": "戇",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨㄤˋ",
+                "pinyin": "zhuàng",
+                "definitions": [
+                    {
+                        "defn": "痴愚、剛直。例:悍戇、戇直"
+                    }
+                ]
+            }
+        ],
+        "radical": "心",
+        "non_radical_stroke_count": 24,
+        "stroke_count": 28
+    },
+    {
+        "title": "戇頭戇腦",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄓㄨㄤˋ　ㄊㄡˊ　ㄓㄨㄤˋ　ㄋㄠˇ",
+                "pinyin": "zhuàng tóu zhuàng nǎo",
+                "definitions": [
+                    {
+                        "defn": "吳語。形容人傻裡傻氣、莽撞冒失。例:他這個人有點戇頭戇腦的，很容易受騙。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "欞",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄌ一ㄥˊ",
+                "pinyin": "líng",
+                "definitions": [
+                    {
+                        "defn": "同「櫺」。"
+                    }
+                ]
+            }
+        ],
+        "radical": "木",
+        "non_radical_stroke_count": 24,
+        "stroke_count": 28
+    },
+    {
+        "title": "豔",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ",
+                "pinyin": "yàn",
+                "definitions": [
+                    {
+                        "defn": "1.鮮明、華麗。例:豔麗、鮮豔、妖豔\n2.有關於愛情的。例:豔詩、豔事、豔遇\n3.羨慕。例:豔羨\n4.美女。例:西湖驚豔\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "豆",
+        "non_radical_stroke_count": 21,
+        "stroke_count": 28
+    },
+    {
+        "title": "豔福",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　ㄈㄨˊ",
+                "pinyin": "yàn fú",
+                "definitions": [
+                    {
+                        "defn": "受到美女喜愛的福分。例:豔福不淺、飛來豔福"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔麗",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　ㄌ一ˋ",
+                "pinyin": "yàn lì",
+                "definitions": [
+                    {
+                        "defn": "鮮豔美麗，光彩奪目。例:女主人今晚打扮得十分豔麗，宛如一顆閃亮的明星。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔星",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　ㄒ一ㄥ",
+                "pinyin": "yàn xīng",
+                "definitions": [
+                    {
+                        "defn": "美豔性感的明星。例:這位豔星以美貌和演技在電影界大受歡迎。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔陽",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　一ㄤˊ",
+                "pinyin": "yàn yáng",
+                "definitions": [
+                    {
+                        "defn": "和煦亮麗的陽光。例:豔陽高照"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔陽天",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　一ㄤˊ　ㄊ一ㄢ",
+                "pinyin": "yàn yáng tiān",
+                "definitions": [
+                    {
+                        "defn": "1.風和日麗的春天。例:莫教辜負豔陽天，過了堆金何處買。（宋．歐陽修〈玉樓春．酒美春濃花世界〉詞）\n2.晴朗溫煦的日子。例:在這種豔陽天裡，去爬山最好。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔陽高照",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　一ㄤˊ　ㄍㄠ　ㄓㄠˋ",
+                "pinyin": "yàn yáng gāo zhào",
+                "definitions": [
+                    {
+                        "defn": "形容陽光溫煦亮麗的樣子。例:我們喜歡在豔陽高照的日子去海邊玩水。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "豔遇",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄢˋ　ㄩˋ",
+                "pinyin": "yàn yù",
+                "definitions": [
+                    {
+                        "defn": "與陌生的美麗的異性邂逅，令人羨慕的際遇。例:他最近走了桃花運，豔遇頻頻。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑿",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄠˊ",
+                "pinyin": "záo",
+                "definitions": [
+                    {
+                        "defn": "1.穿孔或挖削用的工具。例:石鑿、鐵鑿\n2.挖掘、打洞。例:鑿井、鑿壁借光\n3.清楚、真實。例:確鑿\n"
+                    }
+                ]
+            }
+        ],
+        "radical": "金",
+        "non_radical_stroke_count": 20,
+        "stroke_count": 28
+    },
+    {
+        "title": "鑿空",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄠˊ　ㄎㄨㄥ",
+                "pinyin": "záo kōng",
+                "definitions": [
+                    {
+                        "defn": "1.鑿開通路。例:自從張騫鑿空西域之路後，絲路就成為古代歐亞間的主要陸路運輸線。\n2.憑空穿鑿附會。例:編撰典籍不可鑿空立論。\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑿井",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄠˊ　ㄐ一ㄥˇ",
+                "pinyin": "záo jǐng",
+                "definitions": [
+                    {
+                        "defn": "挖鑿水井。例:政府勸導沿海居民不要鑿井取水，以減緩地層下陷的趨勢。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鑿子",
+        "heteronyms": [
+            {
+                "bopomofo": "ㄗㄠˊ　˙ㄗ",
+                "pinyin": "záo zi",
+                "definitions": [
+                    {
+                        "defn": "挖削或穿孔所使用的工具。例:工匠用鑿子將紀念文刻在石碑上。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鸚",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄥ",
+                "pinyin": "yīng",
+                "definitions": [
+                    {
+                        "defn": "→鸚鵡"
+                    }
+                ]
+            }
+        ],
+        "radical": "鳥",
+        "non_radical_stroke_count": 17,
+        "stroke_count": 28
+    },
+    {
+        "title": "鸚哥",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄥ　ㄍㄜ",
+                "pinyin": "yīng gē",
+                "definitions": [
+                    {
+                        "defn": "動物名。鳥綱鸚鵡目。尾細長，體長三十公分，全身被綠色羽毛，赤嘴，黑頭，頭周圍有赤色細環紋。產於熱帶地方。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鸚鵡",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄥ　ㄨˇ",
+                "pinyin": "yīng wǔ",
+                "definitions": [
+                    {
+                        "defn": "動物名。鳥綱鸚鵡目。體長約三十公分，嘴大而短，上嘴鉤曲覆下嘴，舌肥厚，善模仿人語。羽毛顏色鮮豔。棲於熱帶森林或巖洞樹穴中。例:鸚鵡會模仿各種聲音，包括人類的語言，但卻不了解話中的意義。　△能言鳥"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "鸚鵡螺",
+        "heteronyms": [
+            {
+                "bopomofo": "一ㄥ　ㄨˇ　ㄌㄨㄛˊ",
+                "pinyin": "yīng wǔ luó",
+                "definitions": [
+                    {
+                        "defn": "鸚鵡螺屬及屬頭足類軟體動物的統稱。介殼為螺旋狀，螺層尖處屈曲如鸚鵡嘴。殼乳白色，有青綠斑，內有光，澤如真珠。例:鸚鵡螺在古生物學上具有十分重要的地位，可藉以推斷地層的年代。"
+                    }
+                ]
+            }
+        ]
+    }
+]
